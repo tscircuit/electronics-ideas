@@ -1,0 +1,40 @@
+A camera slider axis module uses a Trinamic TMC5160 to drive a NEMA 17 stepper with encoder feedback while an STM32G431 handles jerk-limited motion profiles for repeatable dolly moves.
+A motorized microscope focus stage pairs an AS5048A magnetic angle sensor with a TMC2209 stepper driver to move a leadscrew smoothly in micron-scale increments without losing position.
+A standing-desk lift synchronizer uses an STM32G0 to close the loop on two brushed DC linear actuators powered by a DRV8876 so the desktop stays level during travel.
+A machining turntable indexing plate uses an ESP32-S3 to stream step-and-direction to a DRV8316-driven closed-loop BLDC servo for precise angle jumps and repeatable dwell.
+A benchtop peristaltic dosing pump uses an ATmega4809 and DRV8833 to microstep a small bipolar stepper so dispensed volume tracks rotor angle accurately.
+A ceiling-fan retrofit module uses an STM32F303 running FOC with a DRV8305 to spin a BLDC motor while maintaining constant RPM under changing room airflow.
+A time-lapse pan-tilt head uses an RP2040 and PCA9685 to command two high-torque RC servos with smooth acceleration ramps for jitter-free framing shifts.
+A venetian-blind tilt wand retrofit uses an ESP32-C3 and DRV8837 to run a brushed DC gearmotor until a hall sensor indicates the exact slat angle preset.
+A cinema lens follow-focus drive uses an STM32H7 with a TMC6300 to commutate a small BLDC gimbal motor for silent torque and repeatable focus marks.
+A conveyor diverter gate actuator uses a TMS320F28027 and DRV8353 to drive a BLDC servo motor that snaps to indexed chute positions at high cycle rates.
+A throttle-body actuator test bench uses an Infineon XMC4700 with a TLE9879 to spin a BLDC motor and validate position tracking against a simulated pedal curve.
+A pick-and-place tape feeder uses an LPC1768 with an A4988 to advance a NEMA 17 stepper exactly one pocket per trigger while detecting jams by missed steps.
+A macro focus-stacking rail uses an nRF52840 and TMC2226 to microstep a leadscrew stage with repeatable step sizes for automated z-stacks over Bluetooth.
+A precision rotary table for small mills uses an i.MX RT1062 to generate deterministic step pulses to an L6470 driving a NEMA 23 stepper through a worm gear for accurate indexing.
+A dual-axis solar panel tracker uses an ESP32-WROOM-32 and DRV8871 to run two brushed DC linear actuators while keeping both axes aligned to sun angle targets.
+A powered door closer retrofit uses an STM32G431 and L6234 to drive a compact stepper that pulls the door shut to a learned end-stop without slamming.
+A filament spool winder for 3D printing uses an ATmega32U4 and DRV8880 to spin a stepper-driven traversing guide so the filament lays evenly without crossings.
+A motorized process valve actuator uses an STM32F072 with a DRV8847 to move a stepper-driven gearbox to exact percentage-open positions with a hard home reference.
+A lab syringe pump uses an STM32F405 with a TMC2130 to microstep a NEMA 17 leadscrew drive for smooth low-flow infusion and repeatable bolus volumes.
+An electric skateboard hub-motor dyno stand uses an STM32F302 and DRV8323 to spin a BLDC hub at set RPM and hold torque while logging speed versus load.
+A garage jig sets repeatable drill depth by moving a hard stop on a stepper-driven leadscrew and homing to a touch-off switch before each job.
+A motorized curtain track pulls drapes with a brushed DC gearmotor and quadrature encoder so it stops exactly at preset open/close positions.
+An adjustable welding rotary positioner turns fixtures on a worm-geared AC servo so parts land on consistent tack angles and weld starts.
+A self-leveling camera tripod head drives two micro steppers to maintain a level horizon using an onboard tilt sensor and soft-limit stops.
+An automatic pet feeder meters kibble with a stepper-driven auger and an optical home flag to dispense consistent portions at scheduled times.
+A bicycle derailleur indexing retrofit uses a high-torque digital RC servo with learnable endpoints to shift smoothly without cable stretch drift.
+A motorized HVAC vent damper insert rotates a low-noise stepper until limit switches confirm the vane angle for room-by-room airflow balancing.
+A smart garden hose reel rewinds using a brushed DC gearmotor and current-based stall detection to avoid yanking the hose or crushing fingers.
+A drill-press fence micro-adjuster repositions a stop block with a leadscrew stepper and a safety interlock so repeated hole patterns stay consistent.
+A motorized microscope filter wheel rotates six optics positions using a mini stepper and a hall-index magnet for quick, repeatable filter selection.
+A product-photography turntable spins on a BLDC direct-drive platter and snaps to exact degree increments for consistent 360 degrees captures.
+A compact linear stage for dial-indicator calibration sweeps a probe with a stepper while reading travel from a linear encoder strip for traceable displacement checks.
+A sit-stand monitor arm retrofit synchronizes two brushed DC linear actuators with position feedback so the screen stays level through its full range.
+An automatic gate latch aligner nudges a striker plate using a miniature linear actuator until the latch closes cleanly without rubbing.
+A model-railroad turnout driver moves points with a slow-motion DC gearmotor and stops on end-limit microswitches for realistic switching.
+A packaging label applicator tensioner positions an idler roller with a stepper and load feedback to keep web tension steady and prevent wrinkles.
+A telescope motorized focuser turns a fine-focus knob with a geared stepper and backlash compensation to land on sharp star focus repeatedly.
+A woodworking crosscut sled digital stop repositions a fence using a rack-and-pinion stepper drive and locks out motion when the saw is running.
+A two-axis security camera mini gimbal pans and tilts with dual coreless DC motors and magnetic encoders for quiet tracking and stable framing.
+A pipe-cutting saw carriage feed advances a blade on a ballscrew stepper and automatically retracts to a safe home position when the cut finishes.

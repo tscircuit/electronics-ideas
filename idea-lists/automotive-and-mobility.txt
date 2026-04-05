@@ -1,0 +1,40 @@
+Campervan fresh/grey/black tank monitor with ultrasonic level sensors and a dash panel that shows percent full and low-water alerts.
+Motorcycle accessory fuse and relay block with sealed connectors, a master kill switch, and LED indicators for blown circuits.
+E-bike handlebar battery range and power meter for 36-72V packs with a sunlight-readable display and configurable wheel size.
+Trailer brake fault indicator that detects open/shorted electric brake magnets and lights a cab warning lamp before you lose braking.
+Seat heater retrofit module that ramps warmth with PWM, supports two heat zones, and shuts off on overtemperature using a thermistor.
+Overland vehicle dual-battery isolator with manual emergency parallel switch, undervoltage protection, and alternator-friendly charging logic.
+Classic car electronic flasher replacement that keeps turn-signal cadence constant with LED bulbs and adds a hazard mode on a dedicated switch.
+Dash-mounted inclinometer and pitch/roll alarm for off-road rigs with configurable warning thresholds and a loud beeper.
+Under-hood auxiliary fan driver for a brushed DC radiator fan with soft-start, adjustable on/off setpoints, and after-run cooling timer.
+Cargo van rear door open alarm that uses magnetic switches to warn if a door is ajar when the vehicle begins moving.
+Vehicle-mounted winch remote receiver that provides two-speed control and requires a deadman button plus a lockout key for safety.
+Heated steering-wheel wrap kit with a quick-release connector, three heat levels, and timed auto-off for commuting cars.
+Fleet vehicle driver ID keypad and relay immobilizer that only enables ignition after a valid PIN entry or service override.
+Scooter turn-signal auto-cancel add-on that counts wheel rotations via a spoke magnet sensor and cancels left/right independently.
+Trailer lighting tester dongle that plugs into a 7-pin socket and displays each circuit's voltage and load status under real load.
+Bike trailer anti-theft alarm with vibration sensing, a 120 dB siren, and a hidden arm/disarm button for quick stops.
+Agricultural sprayer rate controller that drives a peristaltic pump to keep chemical dosing proportional to ground speed.
+Electric wheelchair joystick-to-dual brushed DC motor retrofit interface with adjustable acceleration, regenerative braking feel, and tilt cutout.
+Car audio amplifier remote turn-on delay and pop-suppression module with adjustable timing and a status LED.
+Portable jump-starter health checker that measures internal resistance of 12V packs and flags weak cells before you need a boost.
+Plug-in OBD-II heads-up display that reads CAN via a Microchip MCP2515 and renders speed and coolant temp on an OLED using an STM32G431.
+Rugged CAN/J1939 data recorder for fleet troubleshooting using an NXP S32K144 with microSD logging and ignition-sense wake/sleep.
+Campervan battery fuel-gauge shunt display built around an Analog Devices LTC2944 for coulomb counting with a simple phone dashboard.
+USB-C PD to 12V/9V selectable dash power adapter using a TI TPS65987D with automotive transient protection and a lockout switch.
+GPS-disciplined speedometer calibrator for classic cars using a u-blox NEO-M9N module and a pulse output that drives the factory gauge.
+Crash-detecting motorcycle SOS beacon using a Quectel BG95-M3 LTE-M/NB-IoT modem and an Analog Devices ADXL372 high-g accelerometer.
+LED roof sign for delivery vehicles with over-the-air message updates using an ESP32-S3 and a HUB75 RGB matrix interface.
+E-scooter BLDC hub-motor drive for a 6-MOSFET power stage using a TI DRV8323RS gate driver with shunt current sensing.
+Proximity-based garage door opener trigger that authenticates a phone key using a Nordic nRF52840 BLE SoC and a rolling-ID scheme.
+Sealed auxiliary light power module using Infineon BTS50055-1TMA high-side switches with per-channel current fault reporting.
+TPMS-to-dashboard bridge that receives 433 MHz sensors with a TI CC1101 and shows tire pressure/temperature on a small LCD.
+Seat occupancy and belt reminder retrofit that conditions strain-gauge mats using an ADI AD8421 instrumentation amplifier and logs events.
+Plug-in J1939 diagnostic dongle that streams live parameters over USB using an STM32F072 and an NXP TJA1051 CAN transceiver.
+EV accessory DC-DC converter (48-60V to 12V) using a TI LM5146-Q1 synchronous buck controller with remote on/off and thermal derating.
+Drift and lap-timing box for track days using a Bosch BNO055 IMU plus GPS to display cornering g and sector times.
+Multi-zone RGB ambient lighting harness for cars using an Infineon TLE94112EL 12-channel half-bridge driver for smooth fades.
+Trailer sway detector that alarms the driver using an ST LIS3DH accelerometer and an ATtiny1616 for on-device signal processing.
+Brake light pulse-and-hold safety module using a Microchip PIC16F18313 with programmable flash patterns and a failsafe bypass relay.
+Compact 12-24V lithium BMS for mobility scooters using a TI BQ76952 with passive balancing, short-circuit protection, and a service port.
+Bicycle courier anti-theft tracker that geofences and reports motion using an ESP32-C6 and a SIMCom SIM7080G modem.

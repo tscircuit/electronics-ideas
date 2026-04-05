@@ -1,0 +1,40 @@
+An ESP32-S3-based boiler-room circulation scheduler that learns occupancy, enforces minimum boiler return temperature, and drives a 24 VAC hydronic pump relay.
+A hardwired bathroom mirror defogger timer that limits heater pad runtime and auto-shuts off after a configurable interval.
+A Nordic nRF52840 Zigbee shade switch that controls a 120 VAC tubular motor, tracks position from a quadrature encoder, and supports preset scenes.
+A plug-through lamp cord dimmer with a rotary knob and sunrise/sunset scheduling for living-room floor lamps.
+An RP2040 damper driver for a garage vent that runs a brushed DC gearmotor through an H-bridge and auto-calibrates open/close end stops with limit switches.
+A refrigerator door left-open closer that beeps and uses a small servo to nudge the door shut if it's ajar for too long.
+An ATmega4809 sump alert panel that powers dual float switches, logs pump cycles, and triggers a strobe and high-decibel piezo siren on fault.
+A smart dryer-boost fan interlock that turns on an inline duct fan when the dryer draws current and runs a timed cool-down purge after the cycle ends.
+An Analog Devices ADE7953-based split-phase energy clamp module that mounts inside a breaker panel and reports per-circuit kWh and peak demand over Wi-Fi.
+A fireplace blower add-on that ramps a 120 VAC shaded-pole tangential blower from a snap-disc temperature sensor and includes an overheat cutoff.
+A TI MSP430FR2433 doorbell-chime extender that wakes on RF, then uses a TPA2016D2 class-D amplifier to drive a remote in-wall speaker loudly.
+A front-porch package box light and camera power injector that turns on only when the lid opens and time-stamps each event.
+A STM32WB55 Bluetooth mesh wall keypad with capacitive touch and a PCA9685 PWM expander for multi-zone LED strip scenes.
+A mailbox notifier that detects the mailbox door opening and triggers an indoor LED beacon plus a chime across a large property.
+An ESP32-C3 leak-shutoff unit that reads a drip-tray probe and actuates a latching solenoid valve via a DRV8846 driver with a manual reset button.
+An under-sink drip tray with a latching shutoff valve and a big illuminated reset button so a leak can't be ignored.
+A Microchip SAMD21 aquarium top-off appliance that runs a peristaltic pump via a DRV8833 and enforces anti-siphon time limits to prevent floods.
+A whole-house quiet-hours scene panel for the entryway that dims hallway lights, locks doors, and sets the thermostat with one large button.
+A STM32F0 fireplace make-up air interlock that reads a Sensirion SHT41 sensor and commands a 24 VAC damper actuator only when conditions are safe.
+A window-tilt safety interlock for toddler rooms that alarms locally and provides a dry-contact output to pause HVAC when windows are open.
+An ESP32-S2 irrigation manifold timer that drives eight 24 VAC solenoid valves through ULN2803A arrays and skips watering based on forecast inputs.
+A garage freezer temperature alarm panel with a large display and a battery-backed siren that still works during outages.
+An NXP i.MX RT1062 in-wall touch thermostat that measures HVAC current with an ACS712 and controls a multi-stage heat pump relay pack with lockout timers.
+A garden hose freeze-protection controller that opens a drain valve and pulses a heat-tape outlet when temperature nears freezing.
+A TI CC2652P Zigbee repeater plug-in that adds two dry-contact inputs using an MCP23017 for things like garage-door status and gate position.
+A pet water fountain auto-clean cycle timer that runs a small DC diaphragm pump and UV LED for a few minutes each day.
+A Renesas RA4M1 garage-door safety light that uses an IS31FL3236 LED driver to strobe high-output LEDs whenever the door is in motion.
+A driveway gate keypad pedestal module that adds backlit keys, an intercom pushbutton, and a dry-contact output compatible with any existing opener.
+An ESP32-S3 dehumidifier add-on that reads a Honeywell HIH8000 humidity sensor and switches the compressor contactor with an isolated solid-state relay.
+A bedside "goodnight" puck that turns off bedroom outlets, starts white noise, and gently fades a nightlight over 10 minutes.
+A Trinamic TMC2209-based NEMA 17 stepper module that opens and closes a sunroom skylight chain actuator quietly with stall-detection homing.
+A workshop dust-collector auto-start box that detects tool current and switches a 240 V contactor with an adjustable delay-off.
+A TI DRV8323 BLDC gate-opener retrofit power stage that adds soft-start/soft-close with Hall-sensor feedback and obstacle detection.
+A radiant-floor manifold label-and-test fixture that plugs into each zone actuator lead to verify wiring and cycle valves during commissioning.
+An ESP32-C6 air-quality vent booster that drives a 12 V BLDC blower via a DRV10983 and modulates speed from CO2 readings.
+A hallway nightlight outlet that dims itself based on ambient light and automatically turns off during daytime hours.
+A Silicon Labs EFR32MG24 Matter light-switch retrofit that senses the existing toggle position and switches a 15 A relay with zero-cross timing.
+A hot-water recirculation pump timer for under-sink installs that learns peak usage times and provides a manual pushbutton boost mode.
+A ceiling fan canopy receiver that adds reverse-mode scheduling and a wall-switch-friendly power-loss state restore.
+A wall-mount "vacation mode" panel that randomizes a few lights, enforces reduced thermostat setpoints, and simulates TV flicker in the evenings.

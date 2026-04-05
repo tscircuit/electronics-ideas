@@ -1,0 +1,40 @@
+Medication-drawer reminder insert that senses which compartment opens and sends a missed-dose alert using an ESP32-S3.
+Magnetic-clip CPAP hose temperature and condensation alarm that straps near the humidifier and chirps before rainout starts.
+Hydration-kiosk status light tower that reports filter life and tank level over BLE using an nRF52840.
+Rehab resistance-band handle that counts repetitions and vibrates when range-of-motion drops below the therapist's target.
+Quiet sleep-environment logger that records bedroom humidity, temperature, and movement using an SHT31 and LIS3DH in a bedside puck.
+Smart shower timer tile that sticks to the wall and shifts LED color to encourage shorter hot showers and cooldowns.
+Wearable posture corrector that learns your neutral stance and buzzes on slouching using an STM32L432 and ICM-42605 IMU.
+UV toothbrush-dock lid that interlocks for safety and logs completed sanitization cycles with a simple one-button interface.
+Finger pulse-ox and breathing coach that guides paced respiration using a MAX30102 and a small OLED.
+Kitchen pantry canister lid that gives gentle habit cues when a restricted snack is opened outside planned windows.
+Nebulizer-cup pre-warmer that holds a stable target temperature using an MCP9808 and a MOSFET power stage.
+First-aid kit latch that flashes and beeps when scanned supplies are expired or missing during monthly checks.
+Smart insole pressure-mapping strip for gait rehab that streams plantar pressure zones using a TI ADS131M04.
+Handwashing sink add-on that shows a 20-second progress ring and tallies compliance counts for staff or kids.
+Portable aromatherapy diffuser driver that runs a brushed DC micro-blower and controls mist bursts using a DRV8833.
+Sauna or steam-room door sign that displays remaining safe session time based on ambient conditions and user profiles.
+Smart medication blister-pack reader that time-stamps each pill pop and prevents counterfeits using ATECC608A and DS3231.
+Wheelchair push-rim force sensor module that warns about overexertion and recommends rest intervals to reduce shoulder strain.
+Waiting-room comfort meter that drives a tri-color light bar from CO2 and noise levels using an SCD41 and ICS-43434.
+Bed-exit mat interface that triggers gentle night lighting and a caregiver chime when an at-risk patient gets up.
+Refillable hand-sanitizer dispenser retrofit that counts doses and drives a peristaltic pump using an ATtiny1616.
+Insulated lunchbox divider that monitors food temperature and alerts if it enters an unsafe range during a commute.
+Compact EKG patch logger that captures single-lead ECG and streams over BLE using an ADS1292R.
+Smart dumbbell endcap that counts reps, enforces rest timers, and gives audible cues for circuit workouts.
+Heated eye-mask module that maintains consistent warmth and accurate battery percentage using MAX17048 and TPS61023.
+Workplace ergonomic reminder puck that senses desk vibration patterns and schedules stretch breaks during long sessions.
+Humidifier water-level and leak detector that predicts runtime and can cut power on fault using an STM32G0 and INA219.
+Smart walking cane handle that detects falls and prompts an emergency call through a paired phone while logging events.
+Massage gun safety and performance module that runs a BLDC motor and detects stalls or overload using a DRV10983.
+Community gym treadmill tag that locks out the belt after a cleaning interval expires and logs staff re-enable events.
+Hearing-protection case that logs exposure time and syncs to an app for tinnitus prevention using an nRF5340.
+Cold-plunge tub timer panel with big gloved-hand buttons that enforces ramped sessions and cooldown prompts.
+Airway-clearance oscillating PEP session tracker that counts breaths and intensity using an STM32WB55 with BLE.
+Smart pill bottle cap that detects double-dosing via twist patterns and triggers an audible lockout reminder.
+Skin-contact thermometer patch for clinic triage that alarms on fever thresholds using an MLX90632.
+Rehabilitation balance-board footplate that provides real-time tilt cues through LEDs and a tone to guide stability drills.
+Snore and sleep-position tracker that nudges side-sleeping with a coin vibration motor using an ESP32-C6 and MEMS mic.
+Refrigerator shelf insert that keeps probiotics in-range and flags temperature excursions with a front-edge indicator.
+IV pole accessory that provides battery backup management and a bright beacon light for pump alarms using an LTC4162.
+Dental aligner case that tracks wear time, dries the case with a small resistive heater, and reminds for cleaning.

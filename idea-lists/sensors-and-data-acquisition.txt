@@ -1,0 +1,40 @@
+Strain-gauge amplifier and logger cartridge that bolts under a benchtop arbor press to record force vs stroke during pressing operations.
+A 16-channel kiln thermocouple logger using MAX31856 converters to track firing profiles and export CSV over USB-C.
+Piezo impact recorder tag for package drop testing built around ADXL355 and FRAM to capture g-shock events with timestamps.
+Vibration front-end module with charge amplifiers and anti-alias filters for a gearbox test stand, outputting differential analog to a DAQ.
+Precision current sampler for a soldering station using INA226 to log tip power and detect heater faults.
+Clip-on clamp meter add-on that digitizes a split-core current transformer and streams RMS current to a phone for tool energy audits.
+Four-wire RTD thermometer puck using ADS124S08 for lab baths and incubators with 0.01 degrees C resolution.
+In-line water meter retrofit that reads a turbine Hall sensor and logs flow totals for a garden irrigation system.
+High-side battery coulomb counter dongle using LTC2944 for e-bike pack validation during ride tests.
+Door-cycle and slam recorder that sticks inside a refrigerator to count openings and measure closure impact for warranty analysis.
+Multi-gas sampling head using Sensirion SCD41 and Bosch BME688 to log CO2, VOC trends, humidity, and temperature in classrooms.
+Soil moisture probe interface for greenhouse benches that excites capacitive probes and maps zones to identify clogged drippers.
+Rotary torque wrench adapter using HX711 and a strain gauge bridge to capture peak torque and angle for fastener QA.
+Brake pedal force and travel logger that mounts under a vehicle dash and records driver input during road testing.
+Acoustic ultrasound receiver front end using TI AFE5818 to digitize a 32-element transducer for NDT thickness gauging.
+Laser tachometer receiver board for a lathe safety interlock that counts reflective pulses and outputs a frequency signal.
+High-resolution weight scale base using MCP3564 for a coffee roaster hopper to log bean mass loss over time.
+Differential pressure transmitter retrofit for a dust collector filter using a pressure sensor and 4-20 mA output to show clogging trends.
+8-channel isolated thermocouple front end using ADuM5401 and MAX31855 to monitor multiple furnace zones safely.
+Conveyor photoeye event logger that timestamps part counts and jam occurrences for a packaging line.
+Precision microphone data-acquisition pod using PCM1864 to measure appliance noise signatures for compliance tests.
+Handheld anemometer head that logs HVAC vent airflow and temperature for balancing reports.
+Multi-axis IMU recorder using ICM-42688-P to capture forklift shock and vibration during warehouse operation.
+UV exposure badge reader station that scans photodiode badges and logs cumulative UV dose for outdoor crews.
+Six-channel bridge sensor conditioner using AD8421 instrumentation amps feeding AD7193 to measure load pins on a structural test rig.
+Smart rain gauge with tipping bucket pulse counting and heater status sensing for remote weather stations.
+High-speed encoder capture unit using STM32G474 to log quadrature from a NEMA 17 stepper-driven test fixture for motion profiling.
+Refrigerant line temperature and clamp-on pressure transducer logger for HVAC service diagnostics.
+Optical pulse oximetry AFE using MAX86141 to acquire PPG data for a wearable development strap.
+Fuel tank level and slosh analyzer that reads a resistive sender at high rate and outputs a stability metric for marine vessels.
+24-bit seismic geophone digitizer using LTC2500-32 to record low-frequency ground vibration for site surveys.
+Leak-detection mat interface that measures resistance change across floor sensors and triggers a timestamped alarm log for server rooms.
+Multi-channel photodiode transimpedance and ADC module using ADPD4100 for fluorescence measurements in a benchtop bioassay reader.
+Thread tension logger for an industrial sewing machine that measures dancer-arm strain and correlates it with stitch rate.
+CAN-connected engine bay thermistor and pressure sampler using NXP TJA1051 and an ATSAME51 to log underhood conditions.
+Pipeline corrosion coupon reader that measures microamp galvanic currents and logs them for maintenance intervals.
+Magnetic flux leakage sensor front end using TI ADS127L01 to digitize coil signals for steel cable inspection.
+Touch-force mapping pad that multiplexes a matrix of force-sensitive resistors to profile pressure distribution in footwear fitting.
+High-accuracy time-synchronized voltage recorder using AD7606B and a GNSS PPS input for power-grid disturbance capture.
+Portable dew-point sampler for compressed-air lines that logs humidity, temperature, and flow to validate dryer performance.

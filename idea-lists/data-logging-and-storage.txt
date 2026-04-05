@@ -1,0 +1,40 @@
+Fridge compressor service logger that clamps to the single-phase induction compressor feed and temperature probes to store run cycles, starts, and fault events to a removable microSD card.
+Fleet trailer shock recorder using ADXL372 and a CR2032 to timestamp high-g hits and save them into a W25Q128 flash for warranty and damage claims.
+Aquarium maintenance event logger with float switch, pH/temperature inputs, and button prompts that records water changes, feedings, and filter cleanings to a phone-exportable log.
+Brew kettle batch recorder built around ESP32-S3 that logs mash temperature, boil time, and hop additions, then syncs the batch file over Wi-Fi.
+Construction site power interruption logger that plugs into an outlet strip and records brownouts and outages with time, duration, and peak sag for electrician reports.
+Cold-chain pallet tag using nRF52840 and a DS3231 RTC to log temperature every 5 minutes and upload via BLE when it reaches the dock.
+Bicycle commute ride recorder that logs speed from a wheel sensor and brake usage events, storing daily summaries for maintenance scheduling.
+CNC spindle runtime counter using STM32G0 and an ACS712 current sensor to log VFD-driven 3-phase spindle on-time and overload trips to FRAM.
+Diesel generator fuel-and-run log module that taps the hour-meter line and a fuel level sender to store consumption per start-stop cycle.
+Elevator vibration audit puck using ADXL356 and an AT25SF641 flash to record bearing vibration spectra during service visits.
+Restaurant walk-in door-open logger that magnetically mounts near the latch and records door-open duration and alarm events for HACCP documentation.
+Greenhouse irrigation batch recorder using Microchip SAMD21 that logs solenoid valve on-times, flow pulses, and rain-skip decisions to microSD.
+Forklift impact and tilt event recorder that mounts under the seat and stores incident timestamps and severity bins for safety coaching.
+EV charger session logger using STM32F303 with an ADE7953 energy metering IC to store kWh, peak current, and fault codes per charging session.
+Home sump pump cycle logger with a float switch input that records submersible AC pump starts, run duration, and high-water alarms to a local CSV file.
+Machine tool coolant concentration logger using TI MSP430FR2433 that samples a conductivity probe and stores drift and alarm trends in on-chip FRAM.
+HVAC filter-change tracker panel insert that logs ECM blower runtime and user-confirmed replacements, producing a "due" history for tenants.
+Ultrasonic cleaner cycle recorder using RP2040 that logs heater temperature, timer settings, and lid-open interruptions for lab traceability.
+Museum display case microclimate logger that records temperature, humidity, and door access events with weekly roll-up summaries for conservation staff.
+Railcar bearing temperature history tag using STM32L072 and a MAX31865 RTD front end to log overheat events and full temperature traces.
+Smart welding cart gas usage logger that counts regulator flow pulses and records arc-on time to estimate cylinder depletion per job.
+Industrial air compressor duty-cycle logger using ESP32-C3 and an INA219 to record single-phase induction motor current draw, run time, and cut-in/cut-out pressures.
+Lab centrifuge run recorder that taps the lid interlock and stop signal to log each run's duration, speed setting, and stop reason for QA traceability.
+Water leak incident logger using Nordic nRF5340 that timestamps probe wet/dry transitions and stores them until retrieved over BLE.
+Rental tool check-in/out logger for a jobsite gang box that stores badge scans and door-open times with tamper flags to deter losses.
+Smart mailbox delivery logger using STM32L0 plus a LIS3DH accelerometer to log open/close events and vibration signatures for delivery proof.
+Beehive inspection recorder with a button and voice-note trigger that timestamps visits and stores temperature and hive weight snapshots per colony.
+CAN-bus trip recorder using NXP S32K144 that logs DTCs, throttle position, and coolant temperature to microSD for diagnostics and warranty evidence.
+Brewery CO2 tank swap logger that records scale readings and valve-open durations to track consumption per kegging day.
+Precision balance usage logger using an ATSAME51 that captures weigh events over RS-232 and stores an audit trail with timestamps and checksums.
+Solar off-grid battery history logger that records charge/discharge currents, SOC estimates, and inverter faults for preventative maintenance.
+Smart lighting panel event historian using TI CC3235 that logs relay state changes, occupancy triggers, and schedule edits to onboard flash for facilities audits.
+Fire door compliance logger that mounts on the closer arm and records held-open time and latch failures for inspection reports.
+Peristaltic pump chemical dosing log module using STM32F0 that counts steps from a NEMA 17 stepper-driven pump and logs mL delivered per batch with timestamps.
+Grain silo level trend recorder that logs ultrasonic level readings and three-phase auger motor contactor on-time to analyze throughput and shrink.
+Handheld torque wrench data logger using an ADuCM4050 that captures peak torque and angle per fastener and exports signed job files over USB.
+Refrigerated delivery van defrost event logger that records evaporator temperature and defrost heater on-time to diagnose icing and short-cycling.
+Portable pressure-test recorder using ESP32-S2 and an MS5607 sensor to log pressure decay curves and generate a pass/fail file for plumbing or HVAC work.
+Conference room occupancy and HVAC complaint logger that records motion, CO2, and thermostat adjustments with timestamps for facilities tuning.
+Vending machine cashless outage logger using Raspberry Pi RP2350 that logs modem resets, supply voltage dips, and transaction failures to eMMC for service techs.

@@ -1,0 +1,40 @@
+Church bell strike scheduler that drives the hammer solenoid at service times with holiday exceptions and a quiet-hours lockout.
+School workshop machine lockout timer panel that grants power for a set session length and then enforces a cooldown before restart.
+Shop floor shift-change beacon that runs a programmable pattern of stacklight colors and a siren at break and shift boundaries.
+Garden irrigation calendar unit that opens multiple 24VAC sprinkler valves by weekday/season rules and supports rain-delay pauses.
+Darkroom enlarger timer panel with a footswitch input that repeats exposure sequences and interlocks the safelight during timed burns.
+Bakery proofing cabinet cycle timer that steps through preheat, proof, and hold phases with audible prompts for tray rotation.
+Aquarium day planner box that fades LED lighting and spins a brushed DC gearmotor feeder at scheduled times with a manual feed button.
+Public restroom exhaust fan run-on timer that respects quiet hours and enforces minimum ventilation time after the light turns off.
+Coin-op laundry dryer retrofit that adds an anti-wrinkle tumble interval schedule and a clear countdown display for remaining time.
+Food truck fryer basket lift assistant that beeps and vibrates at multiple doneness presets and logs batch timestamps for consistency.
+Greenhouse misting interval appliance that drives a peristaltic pump in short bursts with adjustable on/off duty and a daily blackout window.
+CNC router warm-up/cool-down sequencer that delays dust collection start and forces a timed post-run purge before allowing shutdown.
+Fleet vehicle idle limiter box that starts a countdown when the engine is running and drops an accessory relay after the allowed time.
+Warehouse dock door open-too-long timer that starts a strobe and escalating alarm when a bay door exceeds a configurable duration.
+Lab autoclave maintenance reminder plate that counts cycles and displays service due dates with an acknowledge-and-snooze key.
+Music practice room booking door sign that shows the current reservation block and releases an electric strike only during booked time.
+Home sauna session timer that enforces maximum run time, schedules a cooldown fan period, and supports child-lock mode.
+Photobooth session sequencer that times the countdown, flash trigger, and printer start while preventing retrigger for a set interval.
+Museum exhibit lighting scheduler that limits daily exposure time per case and enforces dark days for conservation rotation.
+Electric fence energizer timer that enables output only within scheduled windows and supports dusk-to-dawn timing with a manual override.
+Smart timeclock badge terminal using an ESP32-S3 and DS3231 to log shift start/stop offline and upload when Wi-Fi returns.
+Precision interval chime for classrooms using an STM32G0 and MAX98357A to play stored tones on a daily bell schedule.
+DIN-rail pump alternator scheduler built around an ATmega4809 and MCP7940N to rotate lead/lag well pumps weekly and after faults.
+Solar-powered roadwork traffic light sequencer using an RP2040 and TLC5947 to run programmable red/amber/green phase plans for portable signals.
+Restaurant hood filter change countdown display using a PIC16F18855 and TM1637 LED driver to show days remaining and lock in reset codes.
+Model railway timetable dispatcher using an NXP LPC55S16 and PCF8523 RTC to trigger turnout relays on a scaled 24-hour clock.
+Darkroom chemical agitation interval timer using an ATmega328P and DRV8871 to jog a brushed DC gearmotor agitator in repeatable bursts.
+Aquarium dosing scheduler using an STM32L072 and DRV8834 to step a NEMA 17 stepper syringe pump at precise times and volumes.
+Wearable HIIT round timer using an nRF52840 and MAX97220 to output loud beeps and vibration cues for work/rest intervals.
+Industrial paint booth bake/flash cycle timer using an MSP430FR2355 and ISO7721 isolation to switch contactors on a safe timed recipe.
+Elevator inspection reminder plaque using a SAMD21 and IL0373 e-paper driver to show next inspection date and overdue status without backlight.
+Refrigerated display case defrost scheduler using an ESP32-C3 and W25Q64 flash to run timed defrost windows and store event logs.
+Multi-zone holiday light show scheduler using an STM32F103 to trigger WS2815 LED playlists by calendar date and local sunset offsets.
+Classroom clock correction driver using an ATSAMD51 and DRV8825 to run a stepper-based minute-hand advance mechanism on a nightly schedule.
+Photographic strobe delay generator using an STM32F303 and ADuM1250 to provide isolated microsecond-accurate trigger offsets for multi-flash rigs.
+Brewery fermentation rest schedule alarm using an ESP32 with DS18B20 plus a DS3231 to time-stamp temperature checks and prompt actions.
+HVAC setback add-on using an nRF5340 and SHT31 to apply weekday/weekend schedules and push change alerts over BLE.
+Ultrasound therapy session timer using an RP2040 and MCP4725 DAC to gate output level for prescribed durations and lock out overuse.
+Smart parking meter grace-period timer using an STM32L4 and STSAFE-A110 to enforce paid time offline while protecting configuration from tampering.
+Workshop tool rental locker timer using an ESP32-S2 and PCA9685 to actuate solenoid latches only within purchased access windows.

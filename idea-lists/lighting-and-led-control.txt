@@ -1,0 +1,40 @@
+Bicycle tail-light sequencer module using an ATtiny1616 to animate WS2812B pixels with brake/turn inputs and a vibration-robust power stage.
+Film prop marquee sign driver built around an RP2040 that plays scripted chases on hundreds of bulbs/LEDs from an SD card timeline.
+Under-cabinet LED tape dimmer that uses a TI TPS92512 constant-current buck to eliminate flicker while keeping LEDs consistent across long runs.
+Greenhouse grow-light scheduler using an ESP32-S3 with a DS3231 RTC to run dawn/dusk ramps, day-length recipes, and Wi-Fi logging.
+Ambulance compartment lamp panel using an STM32G0 and a TI TLC5947 to provide per-zone dimming with glove-friendly buttons and backlit legends.
+Automotive ambient light fiber-optic engine using an NXP S32K144 and PCA9633 outputs to fade multiple RGB channels and follow CAN-based drive modes.
+Stage moving-head wash light control core using an STM32F401 with a MAX485 DMX transceiver to drive NEMA 17 steppers and high-power LED PWM.
+Aquarium sunrise/sunset LED bar using an nRF52840 and a TI TLC59711 to run smooth spectral mixes and Bluetooth app presets.
+UV curing wand power driver using an Analog Devices LT3756 to regulate high-current UV LEDs with thermal rollback and timed exposure modes.
+Museum exhibit touchless spotlight built on a Microchip PIC32MX with a VL53L0X time-of-flight sensor to fade up when visitors approach and fade down after.
+Smart emergency exit sign using an STM32L072 and Microchip ATECC608A to log self-tests, secure firmware updates, and report battery health.
+Photography ring light with USB-C PD input using an ST STUSB4500 plus a TI LM3409 driver for flicker-free dimming across video frame rates.
+Industrial stack-light retrofit puck using an ESP32-C3 and an NXP PCA9685 to provide Wi-Fi status control for red/amber/green beacons and a buzzer.
+Wearable safety-vest LED matrix using a Silicon Labs EFR32BG22 and Lumissil IS31FL3733 for bright animated arrows with low-power BLE control.
+Neon flex sign power supply using a TI LM3481 to run a wide-input constant-current boost stage with soft-start and short-circuit protection.
+Theater seat aisle-light dimmer using an NXP LPC11U35 and a TI TLC5940 to smoothly fade rows on cue without visible stepping.
+Railroad signal lantern LED driver using an Analog Devices LTC3780 buck-boost to hold constant brightness over wildly varying battery voltage.
+DMX-to-pixel bridge using a Microchip SAMD21 and an SN75176B transceiver to map DMX universes into addressable LED strips with low latency.
+Solar garden path light electronics using a TI BQ25570 energy harvester and a Microchip PIC16LF1559 for adaptive brightness and motion-boost mode.
+Aircraft cabin reading-light module using a Maxim MAX16832 constant-current driver and an STM32F0 to provide per-seat dimming, soft on/off, and fault reporting.
+Tap-to-dim bedside lamp base electronics with capacitive touch, smooth fade curves, and warm-to-cool white mixing for circadian presets.
+Refrigerator door-handle accent light that fades on when the door opens, auto-dims at night, and tolerates sub-zero temperatures without flicker.
+Forklift warning strobe lamp that synchronizes with reverse/blue-spot inputs and survives 12-80 V transients and vibration on industrial vehicles.
+Welding helmet auxiliary work light add-on with a high-efficiency boost driver, large glove-friendly switch, and automatic shutoff to protect batteries.
+Camper van awning strip light dimmer with waterproof knob control, saved scenes, and a wide-input supply for 12/24 V systems.
+Traffic cone LED flasher insert that clips into standard cones, runs for days on D-cells, and offers selectable flash patterns for road work.
+3D printer enclosure light bar with magnetic mounting, door-activated fade-in, and low-noise PWM to avoid camera banding on timelapses.
+Piano music-stand light with anti-glare diffuser control, silent dimming steps, and USB-C power for practice and performances.
+Elevator button-panel backlight retrofit that equalizes brightness across long wire runs and supports night-dimming from a building signal.
+Vending machine product-window edge light that senses ambient illumination and reduces brightness overnight to save power and prevent glare.
+Machine-vision strobe ring light driver that delivers repeatable high-current pulses from an external trigger with adjustable pulse width and intensity.
+Fire truck ladder-compartment lighting harness module with soft-start, waterproof connectors, and surge-protected inputs for harsh vehicle electrics.
+Boat navigation light mode unit that enforces legal running/anchor combinations and detects open/short LED faults with a cockpit indicator.
+Sauna and cold-room RGB mood light driver designed for high humidity with conformal coating, sealed connectors, and an external wall-switch interface.
+Art gallery track-light accessory that provides flicker-free dimming compatible with video recording and preserves color rendering at low levels.
+Helmet-mounted bicycle headlamp electronics with thermal regulation, multi-level beam control, and a lockout to prevent accidental activation in a bag.
+Retrofit for an antique jukebox that drives chasing perimeter lights and beat-synced patterns from the cabinet's audio line input.
+Portable inspection lamp with a high-CRI COB LED driver, battery gauge LEDs, and magnetic pogo-pin charging for shop use.
+Smart closet rod light that detects motion, fades up gently, and shifts from cool to warm white over time for comfortable dressing.
+Overhead Andon status light bar electronics for manufacturing lines with three high-brightness channels, latching inputs, and an optional buzzer output.

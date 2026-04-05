@@ -1,0 +1,40 @@
+Classroom reaction-time game with large arcade buttons, RGB lights, and a teacher scoreboard display.
+Learn-to-solder badge that uses an ATtiny85 to blink Morse-code initials and run a touch-to-light puzzle.
+Physics pendulum data logger that mounts on the bob and streams angle vs time to a laptop via USB.
+Planetarium demo controller using an ESP32 to drive a starfield LED dome and synchronize audio narration over Wi-Fi.
+Intro robotics trainer kit with snap-in sensors, a small brushed DC gearmotor car base, and guided wiring exercises.
+Solar energy lab meter built around an INA219 and ESP32 to log panel voltage/current and plot IV curves on a web page.
+Classroom "build a theremin" instrument with a capacitive antenna, speaker amp, and adjustable pitch/volume knobs.
+Air-quality experiment box using an SCD41 CO2 sensor and STM32G0 to show real-time ppm on a segment display.
+Magnetic field mapping wand that students sweep over objects to visualize field strength on a bar-graph LED strip.
+Vibration and resonance demonstrator with an ADXL345 accelerometer and RP2040 sampling to a USB oscilloscope view.
+Bicycle dynamo science kit that clamps to a wheel and powers a variable load to teach generators and efficiency.
+Optical encoder lab rig using an AS5600 magnetic angle sensor and DRV8833 to close the loop on a brushed DC gearmotor.
+Classroom microscope ring-light with adjustable color temperature and a foot pedal for hands-free brightness control.
+DIY seismic table model using an LSM6DS3 IMU and nRF52840 to transmit shake data to phones for analysis.
+Leak-detection training pipe section with replaceable drip nozzles and a buzzer/light alarm for maintenance practice.
+Digital pH titration stirrer using a NEMA 17 stepper driven by TMC2209 and an ADS1115 to read an analog pH probe.
+Interactive periodic-table wall panel where pressing an element lights its group and plays short facts through a speaker.
+Classroom pulse-oximeter exploration kit based on MAX30102 with a small OLED showing raw PPG waveforms.
+Force and friction sled with a load cell and a detachable display to compare materials on a lab bench.
+Waveform generator dongle using an AD9833 DDS and MCP4921 DAC output stage for labs up to audio frequencies.
+Simple home-appliance teardown simulator box that teaches safe mains wiring using low-voltage relays and interlocks.
+Robotics gripper trainer using a PCA9685 servo driver and ESP32 to script multi-servo motion sequences from a browser.
+Classroom water-cycle mini terrarium with a heated "sun" lamp, humidity readout, and timed misting via a peristaltic pump.
+Temperature profiling plate using MAX31855 thermocouple interface and RP2040 to log soldering iron tip vs time experiments.
+Arduino-free logic-gates breadboard console with switches, LEDs, and plug-in gate cards for Boolean algebra lessons.
+Time-of-flight distance lab module built on VL53L0X with STM32G0 to output distance over UART for motion experiments.
+Shop-class torque trainer that mounts on a cordless drill and displays applied torque for fastener practice.
+Low-power radio telemetry demo using SX1276 LoRa to send sensor readings between two handheld units for networking lessons.
+Classroom wind tunnel fan stand with a BLDC blower, interchangeable nozzles, and a pitot-tube port for airflow labs.
+Bench-top motor control trainer using DRV8313 to drive a small BLDC outrunner and visualize commutation on LEDs.
+Hand-crank music box that records the crank speed and plays back quantized notes to teach sampling and tempo.
+Digital compass and navigation activity puck using LIS3MDL magnetometer and STM32L0 with a ring of direction LEDs.
+Chemistry lab timer and fume-hood sash reminder panel that alarms if the sash is left open too long.
+Classroom lighting and PWM lab kit using TLC5940 constant-current driver to explore dimming curves with LED strips.
+Structural beam deflection demonstrator with a dial indicator and an attachable strain gauge amplifier for data capture.
+USB logic analyzer for beginners using an FX2LP (CY7C68013A) to sample 8 channels and show protocols in software.
+Indoor garden hydroponics teaching fixture with nutrient dosing via peristaltic pumps and lesson-based modes for students.
+AC mains safety and power-factor demonstrator using ADE7953 energy metering IC to display real/reactive power on a screen.
+Classroom quiz-buzzer podium set with lockout, team colors, and a "fastest streak" trophy light.
+Ultrasonic imaging intro kit using TDC7200 time-to-digital converter to measure echo delays from a transducer array.

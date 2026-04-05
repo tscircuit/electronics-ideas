@@ -1,0 +1,40 @@
+Desktop antenna-rotor console driving a brushed DC gearmotor and reading a mast-mounted absolute encoder for precise yagi pointing.
+Pocket fox-hunt beacon that transmits an ID burst and stepped power levels using a TI CC1101 to make close-in tracking easier.
+Bench-top inline RF wattmeter and SWR bridge with a switchable dummy load and analog needle display for quick transmitter checks.
+Synthesizer local oscillator module for homebrew transverters built around an Analog Devices ADF4351 with onboard loop filter and reference input.
+Weatherproof field-strength and noise-floor logger for a repeater site that timestamps readings and uploads them over a cellular modem.
+Inline RF power sampler with a log detector front end using an ADL5519 to feed a DAC/ADC readout for ham bench measurements.
+Motorized antenna tuner that uses a NEMA 17 stepper to turn a variable capacitor and auto-seek minimum SWR for HF mobile rigs.
+Repeater-site field-strength meter with temperature-compensated RSSI logging built around an Analog Devices AD8318 and a GPS timebase.
+Handheld direction-finding "fox" receiver with an attenuator, headphone amp, and a tri-element tape-measure yagi for 2 m hunts.
+Handheld antenna analyzer that sweeps HF through VHF using an AD9851 DDS and displays SWR and complex impedance on a small screen.
+Clip-on near-field probe amplifier with interchangeable magnetic and electric probes for hunting down RF leaks in enclosures.
+USB-powered VHF/UHF SDR receiver stick using an RTL2832U tuner/demodulator with a protected SMA input for casual spectrum viewing.
+Coax cable tracer kit with a tone-injector that couples RF onto a disconnected line and a wand probe that finds it inside walls.
+AM/FM/SW "shop radio" receiver module based on the Silicon Labs Si4732 with line-out for retrofitting into vintage cabinets.
+Rackmount harmonic filter and power combiner for an FM exciter rack with thermal shutdown relay and front-panel test coupler.
+Low-noise VHF preamplifier brick using an Avago MGA-62563 MMIC with relay bypass for weak-signal work.
+Vehicle dashboard panel that continuously logs LTE/5G RSSI along routes to map dead zones for fleet operations.
+LoRa-enabled garage door open/close retrofit that reports status using an SX1276 module and a magnetic reed switch.
+Keyfob frequency and modulation checker for automotive locksmiths that identifies rolling-code remotes by their RF signature.
+Industrial sub-GHz remote-control sniffer/recorder using a TI CC1200 to capture OOK/FSK bursts for maintenance diagnostics.
+RF-transparent test fixture for window-tint installers that measures how different films detune a windshield antenna.
+UHF RFID dock-door reader with power control and antenna multiplexing based on an AMS AS3993 for pallet tracking.
+Conveyor-mounted UHF tag readability fixture with adjustable antenna polarization and a pass/fail stack light for QA lines.
+GPS-disciplined 10 MHz frequency reference built around a u-blox ZED-F9P that feeds a TCXO and provides 1PPS/10 MHz outputs.
+Contactless NFC cabinet-handle retrofit that unlocks an industrial electrical panel only when an authorized badge is present.
+24 GHz microwave Doppler speed sensor module using an Infineon BGT24MTR11 for conveyor or fan RPM measurement without contact.
+Two-way radio desk microphone base with programmable PTT lockout, sidetone monitor, and footswitch input for dispatch use.
+BLE angle-of-arrival locator tag built on an nRF52833 with a coin-cell power path for indoor equipment tracking.
+Marine VHF DSC training box that simulates distress acknowledgments into a dummy load so crews can practice without transmitting.
+NB-IoT cold-chain tracker using a Quectel BG95 with an external antenna and a battery gauge for months-long shipments.
+RF interference "sniffer" plug-in for LED lighting installers that flags conducted and radiated noise that would jam nearby radios.
+Wideband RF transceiver evaluation tile using an AD9361 with clocking, filtering, and SMA breakouts for lab prototyping.
+Lightning-arrestor health indicator that periodically measures return loss through a coax surge protector and warns before failure.
+Programmable step attenuator box using a PE4312 with front-panel buttons for calibrating receiver sensitivity and doing A/B tests.
+Time-out watchdog relay for paging transmitters that drops PTT if carrier stays on too long to prevent stuck-mic incidents.
+50-ohm RF switch matrix using a SKY13351 to route one signal source to multiple instruments in a small test setup.
+Shielded test-chamber door interlock that automatically mutes a bench transmitter and logs openings for compliance.
+Wi-Fi channel-occupancy beacon that hops channels and reports local congestion using an ESP32 to help pick clean AP settings.
+Portable emergency weather-band receiver with hand-crank generator and a high-visibility alert light for storm shelters.
+Dual-output clock generator module for mixers and samplers using an Si5351 with low-jitter power filtering and SMA outputs.

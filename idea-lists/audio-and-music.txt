@@ -1,0 +1,40 @@
+Pedalboard looper/switcher that uses an ADAU1701 to add programmable noise gate, EQ, and relay-based true-bypass loop routing with MIDI program changes.
+Desktop metronome that uses an STM32F405 and DRV2605 to generate a silent tactile beat pattern plus an optional click track and tap-tempo button.
+Practice amp retrofit faceplate built around a TAS5805M to deliver a quiet master volume, headphone out, aux-in mixing, and preset tone buttons.
+Two-channel field recorder front-end using an AK4556 with switchable phantom power, analog limiters, and balanced XLR inputs for documentary audio.
+Wi-Fi rehearsal-room cue speaker using an ESP32-S3 with an ES8388 codec for duplex talkback, mute logic, and wall-mount volume control.
+Tap-tempo tape-echo stompbox built around a PT2399 with footswitchable trails, tone control, and an expression input for delay time sweeps.
+Balanced line I/O card using a CS4272 to add stereo ADC/DAC with switchable +4 dBu / -10 dBV levels for a desktop synth rig.
+MIDI foot controller for stage keyboards using an NXP i.MX RT1062 to scan rugged footswitches, read two expression pedals, and drive a high-contrast OLED setlist display.
+Portable headphone practice mixer using a WM8731 to blend phone audio with an instrument input, add simple EQ, and provide a belt-clip enclosure.
+Clip-on acoustic instrument preamp using a MAX9814 with selectable gain modes and a mini TRS output for wireless bodypacks.
+Battery-powered busker amp backplate using a TPA3116D2 with a built-in limiter, line out, and a charge-level meter for the pack.
+USB audio "sound card" dongle using an SGTL5000 with mic bias, headphone amp, and a side-mounted gain knob for podcast kits.
+Relay-based pedalboard loop matrix using an MCP23017 to drive latching relays with soft-touch switches and per-loop status LEDs.
+Rackmount VU/peak meter strip driven by a TLC5940 to animate a classic LED bargraph from any line-level source.
+I2S-to-analog hi-fi DAC module using a PCM5102A to modernize a vintage CD player or streamer with low-noise RCA outputs.
+Turntable internal phono preamp using NE5532 stages with RIAA equalization and a hum-rejecting star-ground layout.
+Stage microphone insert box using an SSM2167 to provide gentle compression/expansion and a footswitchable "broadcast voice" preset.
+Classic-vehicle car audio DSP crossover using an ADAU1452 to time-align door speakers, run multi-band EQ, and store profiles per driver.
+Silent practice drum pad coach that uses a DRV2605 to deliver tempo and accent patterns as haptic pulses through the pad rim.
+8x8 USB audio interface core using an XMOS XU208 to stream multichannel audio for a small studio rack with ADAT expansion.
+Pedalboard power distribution brick with isolated outputs, USB-C PD input, and per-output current metering for troubleshooting noisy rigs.
+Desktop metronome with tactile pulse and adjustable click volume using a small voice-coil actuator for late-night practice.
+Practice amp front-panel retrofit with rotary encoder navigation, quick preset recall buttons, and a footswitch jack for hands-free control.
+Field recorder phantom-power supply and transformer-balanced line input module that bolts onto a camera cage for run-and-gun audio.
+MIDI foot controller for stage keyboards with rugged footswitches, dual expression pedal inputs, and scene labels for dark stages.
+Clip-on tuner for brass instruments that uses a contact microphone and a bright outdoor-readable display with a wide viewing angle.
+Guitar pickup winder using a NEMA 17 stepper with a turns counter, programmable speed ramps, and a simple wire-tension alarm.
+Motorized Leslie-style speaker sim cabinet controller driving a BLDC blower for variable rotor speed, ramp time, and footswitch fast/slow.
+Headphone splitter box for band practice with per-musician volume knobs and a limiter to prevent accidental hearing damage.
+Compact talkback mic and mute-switch panel that bolts to a mixing console armrest with a tactile PTT switch and tally output.
+Stage box for passive re-amping with ground lift, pad, and transformer-isolated instrument outputs for two amps at once.
+Drum trigger interface that converts piezo pads to velocity MIDI with adjustable thresholds, retrigger cancel, and crosstalk rejection.
+Footswitchable A/B/Y guitar router with silent switching, phase invert, and clear LED status for running two amps safely.
+Karaoke countertop mixer with two mic inputs, key shift, echo, and a big front-panel "next song" cue button for parties.
+Portable acoustic measurement puck with a built-in reference mic, pink-noise generator, and tripod mount for quick room tuning.
+Vinyl record cleaning machine timer and vacuum control panel for a brushed DC gearmotor platter plus a footswitchable suction relay.
+Compact in-ear monitor beltpack mixer that blends two wired feeds with a mono-safe switch, clip-on enclosure, and lockable connectors.
+Sound-reactive lighting pedal that follows audio envelope to drive DMX fixtures with sensitivity and hold-time knobs for performers.
+Piano practice silent page-turn pedal that sends Bluetooth page commands and provides a quiet tactile click so it feels like a real pedal.
+Broadcast cough-button box with an illuminated latching switch, tally output, and a balanced mute insert for studio microphones.

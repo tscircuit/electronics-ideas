@@ -1,0 +1,40 @@
+Modbus boiler-room relay and override panel using an STM32G474 and an ADM2587E isolated RS-485 transceiver to switch eight 24 VDC contactor coils.
+Race-kart CAN bus telemetry puck built around an NXP S32K144 and a TJA1051 transceiver with a sealed M12 connector and microSD logging.
+PoE-powered badge reader head combining an STM32L452, a W5500 Ethernet controller, and a TPS23753 PD front end to run an RFID module and door strike relay.
+Ethernet conveyor photoeye counter using a Microchip LAN8720 PHY and an i.MX RT1062 to timestamp parts and publish counts via Modbus/TCP.
+Pump-room alarm annunciator with horn and beacon driven by a PIC32MZ and a MAX14840E isolated RS-485 interface for Modbus RTU.
+EtherCAT-enabled NEMA 17 stepper drive that pairs a LAN9252 EtherCAT slave controller with a TMC5160 for silent closed-loop positioning of a small linear actuator.
+PoE ceiling strobe/siren for factory evacuation using an NXP LPC54628, a Si3402 PoE PD, and a DP83825 Ethernet PHY.
+PROFINET-ready welding-cell I/O drop based on a TI AM2431 and a KSZ8563 switch to provide deterministic Ethernet and 16 isolated 24 V inputs.
+CANopen hydraulic valve driver using an STM32F303 and an MCP2562 to PWM four proportional solenoids with short-circuit detection for mobile machinery.
+RS-485 to 4-20 mA loop-powered flow transmitter using an MSP430FR2355 and a MAX3485 to expose calibration and diagnostics over Modbus RTU.
+IEEE-1588 PTP time-stamping tap for Ethernet test benches built with a DP83640 PHY and an STM32F767 to output synchronized PPS on BNC.
+Eight-port rugged industrial Ethernet switch module using a Microchip KSZ9477 and an LTC4365 surge stopper for 24 VDC cabinet power.
+PoE inline "power and dry-contact" inserter using an LTC4267 to feed a remote enclosure and toggle a relay over Ethernet.
+BACnet MS/TP wall thermostat retrofit using a PIC24FJ256 and a MAX13487E to talk RS-485 while driving a triac for a 24 VAC HVAC valve.
+HART modem add-on for a pressure transmitter using an AD5700 and an STM32F072 to overlay FSK on a 4-20 mA loop and serve data over RS-485.
+Profibus-DP to discrete I/O brick built around a Siemens SPC3 ASIC and an isolated RS-485/Profibus physical layer for legacy PLC cabinets.
+Rugged CAN-to-Ethernet bridge for test cells using an NXP i.MX RT1050, a DP83848 PHY, and an MCP2551 to stream frames to Wireshark.
+Isolated USB-to-RS-485 service dongle using an FT232R and an ADM2587E with switchable termination for commissioning VFDs.
+Serial device server for RS-232 lab instruments built on a TI AM3352 and a DP83867 to present a TCP "virtual COM port" over Ethernet.
+Redundant ring-network traffic-cabinet I/O module using a Microchip LAN9662 switch SoC and an STM32H7 to manage contact inputs and lamp outputs.
+A stainless wall-mount RS-485 boiler make-up water panel with a big rotary selector and illuminated status for local/remote and alarm acknowledgment.
+A race-pit CAN bus quick-check handheld that plugs into the kart harness and shows live RPM, throttle, and error flags on a sunlight-readable display.
+A PoE-powered doorframe intercom module with a vandal-proof pushbutton, speaker amp, and relay output for the electric strike.
+A conveyor-end Ethernet counter box that accepts two photoeyes, computes jam rate, and exposes totals to the plant dashboard over Modbus/TCP.
+A pump-station mimic annunciator with LED tank level bars, audible alarm, and RS-485 daisy-chain ports so multiple rooms can share the same alarm bus.
+An EtherCAT-ready compact drive for a brushed DC gearmotor on a packaging machine with encoder input and a safety-enable loop.
+A machine-tool pendant E-stop and cycle-start station that reports button states over Ethernet to a safety PLC while keeping hardwired contacts for redundancy.
+A DIN-rail gateway that converts legacy RS-232 barcode scanners into Ethernet TCP streams for warehouse WMS integration.
+A forklift charging-bay wall display that reads CAN data from smart chargers and shows bay availability and fault codes over a single twisted pair.
+A cold-room defrost scheduler panel that talks Modbus RTU to multiple evaporator controllers and logs door-open time for HACCP audits.
+A brewery cellar glycol chiller add-on box that brings compressor hours, pump status, and alarms onto Modbus/TCP for the brewhouse HMI.
+A portable field instrument that injects and measures RS-485 signals to verify termination, biasing, and noise on long Modbus trunk lines.
+A rail-cabinet lamp driver that accepts Ethernet commands and directly switches 24 V signal lamps with per-channel current sensing for burnout detection.
+An irrigation manifold enclosure that sequences 24 VAC sprinkler valves and reports flow switch alarms over RS-485 to a central barn controller.
+A benchtop Ethernet traffic generator and link-drop simulator used to test how industrial HMIs behave during cable faults and switch reboots.
+A tank-farm grounding clamp verifier that reports clamp continuity and touch-safe status over a wired bus to the loading rack interlock system.
+A maritime engine-room alarm repeater that listens to the vessel CAN backbone and mirrors critical alarms to a rugged Ethernet bridge on the bridge wing.
+A weighbridge interface box that accepts a scale's serial output, adds timestamped truck ID, and forwards tickets to the office network via Ethernet.
+A PoE-powered stack-light tower for pick-to-light stations that takes Ethernet jobs, drives red/amber/green segments, and logs acknowledgments.
+A refrigerated truck dock connector that bridges vehicle CAN diagnostics to an Ethernet port so maintenance can run tests without entering the cab.

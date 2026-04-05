@@ -1,0 +1,40 @@
+An espresso machine front panel with a sunlight-readable TFT, steam-safe capacitive keys, and a detented rotary encoder driven by an STM32G431 and a FocalTech FT5336 touch controller.
+A stove touch-and-knob control fascia that blends a glass touch slider with two metal-shaft encoders using an NXP LPC54628 and a Bridgetek FT813 GPU.
+An industrial washdown operator display with sealed hard keys, high-brightness LCD, and resistive touch handled by a Renesas RA6M5 and a TI TSC2046.
+A workshop timer keypad panel with a loud beeper, large 7-seg digits, and glove-friendly membrane keys built around an ATSAMD21G18 and a Maxim DS3231 RTC.
+A motorcycle handlebar TFT dashboard pod with turn-by-turn prompts and rainproof buttons using an ESP32-S3 and an ILI9341 display interface.
+A low-power thermostat faceplate with an e-ink screen, clicky side buttons, and scheduled setpoints built on a Nordic nRF52840 with a UC8151 e-paper driver.
+A handheld digital multimeter UI module with bargraph, softkeys, and a backlit LCD using an STM32H743 and an AD7175-8 precision ADC.
+A CNC machine pendant with an MPG handwheel encoder, feed-hold keys, and an Ethernet status display using a Raspberry Pi RP2040 and a WIZnet W5500.
+An elevator hall call panel with backlit icons, braille labeling, and NFC service access using a TI MSP430FR5994 and an NXP PN532.
+A vending machine selection and pricing interface with multi-line character LCD and vandal-resistant keypad using a Microchip PIC32MZ2048EFH and a Sitronix ST7066U LCD controller.
+A marine chartplotter softkey strip with dimmable backlighting and wet-finger operability using an NXP i.MX RT1062 and a TI TCA9535 I/O expander.
+A medical infusion pump color touch display module with large-rate digits and alarm popups using an STM32L476 and a FocalTech FT5336 touch controller.
+A laboratory incubator door display with trend graphs, setpoint entry, and audible alarm acknowledgment using an ESP32-C6 and a Solomon Systech SSD1963 TFT controller.
+A bicycle electronic shifting head-unit with gear position, battery gauge, and night mode built around a Nordic nRF5340 and a Maxim MAX17048 fuel-gauge IC.
+An industrial handheld barcode scanner status display with bright "good read" indicators and configurable softkeys using an NXP i.MX RT1176 and an AMS AS1115 LED driver.
+A smart door lock keypad with an OLED prompt screen and tamper alarms using a Silicon Labs EFR32MG24 and an SSD1306 display controller.
+A conference room scheduler wall tablet with RGB edge-lighting and presence indication using an ESP32-P4 and an NXP PCA9635 LED driver.
+An HVAC wall interface with a haptic "click" glass slider and quiet night dimming using an STM32U575 and a TI DRV2605L haptic driver.
+A compact audio mixer scribble-strip module with per-channel OLED labels and animated level metering using an RP2040 and an IS31FL3733 matrix LED driver.
+A compact digital signage player front I/O and button/IR module for kiosk enclosures built around a Rockchip RK3566 and a GL852G USB hub.
+A homebrew fermentation status panel that shows gravity/temperature trends on an e-ink screen with a three-button menu and audible alert for stalled fermentation.
+A dishwasher door edge interface with hidden touch start, cycle-progress light bar, and a lockout indicator visible through steam and splashes.
+A gym interval timer wall plate with huge red digits, a start/stop paddle button, and a simple preset selector for HIIT workouts.
+An elevator car position indicator with large 7-seg digits, direction arrows, and an accessibility chime mute key for nighttime mode.
+A forklift mast height/tilt display with sunlight-readable digits and sealed rubber keys for changing load profiles and speed limits.
+A smart mirror side touch bar that wakes on proximity, provides a dimmable light slider, and shows time/weather on a narrow display strip.
+An arcade cabinet control deck with illuminated player buttons, a coin counter display, and a service-menu key switch interface.
+A sewing machine stitch selector panel with a jog wheel, stitch preview icons, and a backlit display readable under task lighting.
+A welding helmet shade control module with a small OLED, two oversized glove-friendly buttons, and a brightness lock feature.
+A greenhouse irrigation manifold labeler with zone names on e-ink tags and a central screen for manual override and fault messages.
+A portable power tool battery charger front panel with a four-digit display, charge-rate selection button, and clear fault codes for overheated packs.
+A bicycle handlebar remote with a thumb joystick, tactile click feedback, and a tiny status display for mode and battery.
+A hotel bedside control plate with reading-light dimmer slider, master off, USB power status icon, and do-not-disturb indicator output.
+An industrial weigh scale front bezel with a membrane keypad, large numeric LED display, and tare/hold keys designed for dusty environments.
+A coffee roaster profile display with a rotary knob, live temperature curve plotting, and marked event buttons for first crack and drop.
+A retail POS customer-facing pole-display retrofit that shows item/price lines in high contrast and supports cashier-call icons.
+A laboratory fume hood interface that displays sash position as a bargraph and provides an alarm mute touch area and filter-life screen.
+A sauna controller wall unit with a high-temperature-rated display, a single tactile knob for setpoint, and a child-lock indicator.
+An aircraft-style simulator cockpit switch panel with backlit engraved legends, guarded toggles, and encoder knobs with on-screen labels.
+A refrigerated display case temperature-and-defrost interface with big digits, a service PIN entry keypad, and a sealed door-open alarm acknowledge key.

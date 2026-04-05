@@ -1,0 +1,40 @@
+A vandal-resistant locker access keypad with an ESP32-S3, Microchip ATECC608A secure element, and a relay/solenoid output for the lock.
+A porch delivery box smart latch using an STM32G0 and TI DRV8871 to drive a 12 V pull-type solenoid while logging every open with time and code used.
+A gate intercom strike module built around an NXP i.MX RT1062 that mixes audio, detects call progress, and enforces a timed door-release window.
+A tool crib badge access reader using an NXP PN532 to accept MIFARE/NFC credentials and drive a maglock relay with tamper detection.
+A garage side-door audit logger using a Nordic nRF52840 to timestamp door opens, cache events for months, and sync to a phone when nearby.
+An elevator floor-access add-on panel using a TI CC2642R1 plus NXP SE050 for secure BLE provisioning and signed access rules per badge.
+A vehicle immobilizer retrofit using a Microchip ATSHA204A to authenticate a fob challenge-response before enabling the starter relay.
+A bike U-lock alarm using an RP2040 with an ST LIS3DH accelerometer to trigger a siren on movement and require a PIN to disarm.
+A server rack electronic latch using an STM32L4 and an ST ST25R3916 NFC front end for badge unlock plus door-open sensing.
+A weatherproof smart padlock using an ESP32-C3 and Infineon OPTIGA Trust M to store keys securely and support offline unlock codes.
+A battery-powered window contact and glass-break sensor using a TI MSP430FR2355 to run ultra-low-power monitoring with a loud local alarm.
+A cash-drawer lock retrofit using a Microchip SAMD21 and Maxim DS28E05 1-Wire authenticator so only approved tills can unlock.
+A parking barrier arm drive using an STM32F303 with a TI DRV8876 driving a brushed DC gearmotor and enforcing anti-tailgating logic from loop sensors.
+A delayed-egress fire-exit door module built on an STM32F072 that beeps a countdown, logs overrides, and fails safe on alarm input.
+A door peephole camera viewer using an ESP32-S3 with an OmniVision OV2640 to capture visitor images only after authenticated ring events.
+A portable guard-tour checkpoint wand using an STM32WB55 with an ST ST25DV64K NFC tag interface to prove patrol presence without network access.
+A multi-bay secure key cabinet controller using an NXP LPC55S16 that signs audit logs and actuates individual key latches per authorized request.
+A weld-shop tool-activation plug using an ATmega4809 plus NXP MFRC522 so a welder or grinder energizes only for trained badges.
+A tamper-evident shipping seal logger using a Nordic nRF9160 to upload cut-wire and motion events over LTE-M/NB-IoT with a signed trail.
+A motorized safe dial retrofit using a Renesas RA4M1 and an AMS AS5600 magnetic encoder to detect manipulation and lock out after brute-force attempts.
+A locker-room retrofit latch that records every open/close with timestamps for supervisors to review after incidents.
+A delivery porch box that only unlocks after a courier enters a one-time code and the lid sensor confirms the parcel was placed and closed.
+A garage side-door strike plate retrofit that logs badge IDs locally and exports the audit trail over USB for compliance checks.
+A tool crib countertop badge-plus-PIN terminal with a rugged metal keypad and two independently timed relay outputs for separate cages.
+An apartment gate intercom unit that forwards calls to residents' phones, supports directory dialing, and limits strike activation to a short window.
+A classroom cabinet lock strip that secures multiple doors with per-user schedules, automatic relock, and a master override key switch.
+A construction site storage container hasp that detects cutting/vibration and triggers a 120 dB siren and bright strobe until disarmed.
+A retail backroom door add-on that denies access when the alarm system is armed and provides a clear red/green status light for staff.
+An electric scooter battery-bay latch that refuses to open unless the scooter is immobilized and the technician authenticates in the fleet app.
+A warehouse roll-up door watcher that alerts if the door is left open past a set time during off-hours and logs the duration for audits.
+A hotel minibar tamper kit that logs door openings and can flag suspicious access patterns for housekeeping without recording audio.
+A medical narcotics cabinet drawer lock that requires two distinct badges within 30 seconds to satisfy dual-custody policy.
+A museum display case lock insert that supports timed "public hours" unlock, auto-relocks at close, and logs each curator access.
+A server-room mantrap coordinator that enforces only one door open at a time and sounds an alarm if both doors are forced.
+A parking-lot pedestrian gate latch that supports emergency fire-release hardware while still logging every normal access event.
+A vending machine service-door detector that captures a photo on each open and stores it to removable storage for route managers.
+A shared workshop machine-enablement outlet that energizes a tool only after a member badges in and acknowledges a safety prompt.
+An employee timeclock wall unit that combines punch-in with a short door-release and shows remaining access time for the shift.
+A solar-powered farm gate latch that unlocks for authorized vehicles via a windshield tag and relocks after passage detected by a beam sensor.
+A reusable shipping pallet lock that uses a breakwire and motion sensing to flag tamper during transit and preserve a chain-of-custody log.

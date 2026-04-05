@@ -1,0 +1,40 @@
+Clip-on fence charger health node that measures fence pulse voltage/current at the energizer and pushes maintenance alerts over long-range radio when performance drops.
+Solar fence-line fault locator handheld using ESP32-S3 to correlate pulse timing and display distance-to-short/open on a sunlight-readable OLED.
+Barn fan staging panel that sequences multiple 3-phase AC ventilation fans with contactors from temperature and humidity inputs to reduce inrush and dust loading.
+Livestock water trough alarm buoy with STM32L432 and LIS2DH12 accelerometer to detect low-water slosh patterns and send a remote alert before animals run dry.
+Orchard frost-warning beacon pole-top unit that flashes a high-power strobe and sounds a siren when wet-bulb temperature trends toward freeze conditions.
+Greenhouse vent opener retrofit driving a 12-V linear actuator with TI DRV8871 and a DS3231 schedule plus thermal/overtravel interlocks.
+Irrigation valve box leak listener that straps to PVC and uses acoustic signatures to flag stuck-open valves and underground line leaks.
+Pivot irrigator tower alignment indicator using nRF52840 to mesh tilt sensors across spans and warn when a tower is drifting or stuck.
+Pasture gate auto-closer that runs a brushed DC gearmotor with soft-start/torque limit to pull gates shut after ATV or tractor passage.
+Cattle scale load-cell interface using HX711 and an ATECC608A to sign weight records for tamper-evident compliance logs.
+Portable soil nitrate colorimeter wand with integrated LED/photodiode optics that estimates nitrate from reagent strip color and stores site notes.
+Grain bin hot-spot probe string using MAX31865 RTD front-ends daisy-chained to an STM32G0 for full-bin temperature mapping and early spoilage alarms.
+Solar-powered wildlife deterrent sprinkler that triggers a solenoid valve and piezo siren from PIR motion near beds, vines, or sweetcorn rows.
+Remote pump-house power monitor using ADE7953 energy metering IC to detect failing bearings and cavitation from current/voltage signatures.
+Beehive entrance counter bar that estimates forager traffic with IR break-beams and logs daily activity to help spot queen loss or nectar flow changes.
+GPS-guided field flagger that uses u-blox NEO-M9N to drop virtual sampling markers and beep/vibrate when you return to each point.
+Bolt-on rain gauge and leaf-wetness logger with swappable sensor cartridges for growers who want disease-risk history without replacing a whole station.
+LoRa pasture water level mast with Semtech SX1276 and a 4-20 mA interface for industrial pressure transducers in tanks and troughs.
+ATV sprayer boom section shutoff box that drives 12-V solenoid valves with glove-friendly toggles and a master kill switch.
+Tractor implement CAN sniffer dongle using MCP2515 and SN65HVD230 to log ISOBUS traffic to microSD for troubleshooting intermittent faults.
+Fence post solar light that doubles as a livestock-safe night locator and auto-dims based on battery state to survive long winters.
+Solar charge and battery health tag using TI BQ25798 and INA219 to report panel output, charge efficiency, and battery sag after sunset.
+Orchard pheromone trap lid with a BLDC blower that maintains consistent airflow and timestamps trap checks to reduce false comparisons between blocks.
+Greenhouse CO2 dosing valve driver using Sensirion SCD41 and an ESP32-C6 to modulate a proportional solenoid with safety limits and alarm relays.
+Portable electric netting tester pen that gives proportional beep/LED feedback to fence voltage with a capacitive pickup (no ground lead).
+Multi-zone drip irrigation scheduler using Microchip W5500 Ethernet and MCP23017 expanders to drive 24 latching solenoid valves with manual override buttons.
+Grain auger jam alarm that clamps to the motor housing and flags abnormal vibration/stall events with a beacon and dry-contact output.
+Smart rodent bait station door using NXP PCA9536 and a TMC2209 driving a NEMA 17 stepper to open only in scheduled windows while logging visits.
+Compost pile probe with a rugged stainless lance measuring temperature, moisture, and oxygen trends to recommend turning and watering intervals.
+Tree irrigation sap-flow clamp meter using ADS1115 ADC and an STM32U5 to log thermal dissipation probes for drought-stress tracking.
+Portable fence-line herbicide spot-sprayer trigger handle that runs a peristaltic pump and delivers an adjustable dose per squeeze for invasive weeds.
+Farmyard asset beacon tag using Nordic nRF9160 LTE-M/GNSS to report location and movement of trailers, feeders, and portable generators.
+Windbreak curtain winch for poultry houses using a geared brushed DC motor plus limit switches to roll curtains with storm and power-fail behavior.
+Solar-powered pond aerator timer using Microchip PIC16F18446 to switch a contactor, enforce quiet-hours, and protect against rapid cycling.
+Handheld ultrasonic pipe thickness checker for irrigation mains with a rugged keypad and quick-couple transducer for fast field checks.
+Weatherproof Bluetooth tool lock for shared farm equipment using STM32WB55 and a hall sensor to detect latch position and log access events.
+Field-scale seed singulation tester bench fixture that measures drop timing from a planter row unit and reports skips/doubles during setup.
+Cold-chain produce crate logger using Maxim DS28C36 and an SHT41 sensor to store signed temperature/humidity history for receiving disputes.
+River pump intake debris alarm that senses differential pressure across the screen and drives a beacon light plus remote contact closure when clogging starts.
+Outdoor Ethernet-to-LoRa gateway in a NEMA enclosure using Raspberry Pi Compute Module 4 and a Semtech SX1302 concentrator for farm-wide telemetry backhaul.

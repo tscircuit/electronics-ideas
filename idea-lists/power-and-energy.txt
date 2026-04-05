@@ -1,0 +1,40 @@
+Solar charge combiner with per-string fusing, surge protection, and low-temperature disconnect for a remote gate opener battery system.
+48 V telecom backup shelf monitor that clamps onto battery leads to log discharge currents, temperatures, and string imbalance for maintenance crews.
+Portable inverter health dashboard for a food truck that shows real-time load watts, battery runtime estimate, and alerts for loose neutral/ground faults.
+Generator auto-start and transfer panel for an off-grid cabin that supervises battery voltage, warms up the generator, and switches loads with interlocked contactors.
+Bench-top DC bus balancer fixture for an e-bike repair bench that equalizes 13S/14S packs through plug-in harnesses and reports per-cell drift.
+RV shore-power inlet box with automatic 15/30 A source selection, GFCI protection, and a display of campground voltage sag under load.
+Battery swap kiosk for warehouse handheld scanners that verifies pack health, blocks hot packs from charging, and prints a simple pass/fail label.
+DIN-rail DC power distribution module for industrial panels with per-branch electronic fuse cutoffs and a front-panel fault map.
+Handheld PV string I-V curve tracer that clips to a rooftop panel and generates a curve plus a simple "soiling/shading suspected" verdict.
+Smart high-current AC plug for a window air-conditioner that limits inrush, detects overheating at the receptacle, and logs energy use.
+Automatic battery heater controller for a snowplow (12 V lead-acid or LiFePO4) that prevents charging below freezing and manages a resistive heater pad.
+Wind turbine dump-load box for a small off-grid turbine that diverts excess power into braking resistors and prevents overspeed during battery full conditions.
+12 V/120 V fridge changeover module for camper vans that seamlessly switches between compressor power sources without tripping the inverter.
+Power quality recorder for a machine shop that captures brownouts, sags, and harmonics to correlate with CNC faults and compressor starts.
+Thermoelectric generator charger for campsite stoves that buffers power into a small battery and provides stable USB output for phones and headlamps.
+Inductive charging floor pad for a warehouse AGV that aligns via guide rails and negotiates charge current based on pad temperature.
+72 V rail-transit accessory converter retrofit that provides regulated 12 V for onboard radios with isolation and surge tolerance.
+Battery pack spot-weld timer foot-pedal box that controls pulse width, enforces cooldown, and tracks electrode wear cycles.
+LED grow-light driver module for a greenhouse that supports dawn/dusk dimming schedules and detects open-string faults to prevent runaway voltage.
+Compact UPS insert for a home fiber ONT/router that keeps internet up during outages and safely passes through PoE to an access point.
+Remote gate-opener solar charge combiner built around LTC4368 surge stopper and TI bq24650 solar charger for lightning-prone rural installs.
+48 V telecom battery shelf monitor using INA228 shunt monitor and STM32G0 MCU to log string currents and raise SNMP-style alarms via RS-485.
+Food-truck inverter dashboard powered by ESP32-S3 with ADS1115 front-end to trend AC load, DC bus ripple, and battery sag on a phone app.
+Cabin generator auto-start panel using Microchip ATSAMD21 to sequence glow plug, starter relay, and transfer contactor with lockout timing.
+E-bike repair bench DC bus balancer using LTC3300 to actively redistribute charge between series cells during diagnostics.
+USB-C PD to 24 V tool-battery charger using STUSB4500 to request power profiles and TI bq25798 to manage buck-boost charging safely.
+Clip-on smart shunt meter using TI INA260 to display charge/discharge amps and accumulated amp-hours for boat or RV batteries.
+Supercapacitor ride-through brick for a PLC cabinet using Analog Devices LTC3350 to bridge brownouts without rebooting controls.
+Wallbox EVSE energy meter using ADE7953 to measure kWh and detect ground leakage trends for preventative maintenance.
+Bidirectional 12 V<->48 V DC-DC module using TI LM5170 for telecom racks that need battery sharing between buses.
+Indoor energy-harvesting light-switch that uses TI BQ25570 to trickle-charge a coin cell from small solar/thermal sources for years of life.
+Battery impedance and internal-resistance tester based on AD5940 to grade packs for reuse in solar storage banks.
+Retrofit power-factor-correction add-on for small commercial refrigeration using onsemi NCP1654 to reduce utility penalties and breaker trips.
+BLDC blower controller for a workshop fume extractor using TI DRV8353 gate driver with an STM32G4 for silent, efficient speed control.
+Marine MPPT charger using LTC4162-L to handle wide PV input and adapt charge profiles for AGM vs LiFePO4 house banks.
+Qi-compatible wireless power transmitter using NXP MWCT1013 to build a countertop multi-device charging tray for tablets and scanners.
+High-current weld-cable current probe head using Allegro ACS758 to display real-time amps and duty-cycle limits for a portable welder.
+PoE-to-24 V industrial power injector using TPS2373 to run a DIN-rail sensor light or small actuator from existing Ethernet drops.
+Three-phase energy and fault monitor for a small electrolyzer power supply using ADS131M04 to log phase currents and detect rectifier imbalance.
+Programmable DC electronic load using STM32F303 with INA226 feedback to test power supplies, chargers, and battery packs with scripted profiles.

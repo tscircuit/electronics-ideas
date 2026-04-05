@@ -1,0 +1,40 @@
+A tube rocker controller panel with a sealed membrane keypad that ramps a brushed DC gearmotor to gently invert blood tubes for a set time.
+A microplate shaker timing panel that starts/stops an orbital shaker's brushed DC motor with soft-start, countdown display, and lid interlock input.
+A 16-port latching solenoid manifold backplane for a chemistry rig with manual override buttons and drip-proof connectors.
+A benchtop sample carousel indexer that uses a NEMA 17 stepper to advance vials to a fixed pickup position with a home sensor and jog wheel.
+A lab fridge door-open logger with beeper, event timestamping, and a magnetic reed switch input for compliance audits.
+A UV tip-rack sterilizer lid add-on with timer, door interlock, and lamp-hour counter for a pipette tip box.
+A centrifuge lid-interlock retrofit harness that senses tach pulses and prevents unlock until the rotor is fully stopped.
+A foot-pedal wash-bottle dispenser that drives a peristaltic pump and enforces a max-dispense timeout to prevent spills.
+An incubator water-pan auto-refill kit that opens a solenoid valve until a float switch indicates full, then logs refill duration.
+A reagent-cap torque tester fixture that conditions a load-cell signal and outputs pass/fail to a stack light for packaging QA.
+A bench vacuum-manifold leak tester that measures pressure decay, sounds an alarm on leaks, and prints a simple pass sticker.
+A fume-hood sash position recorder that reads a linear magnetic scale and triggers a warning buzzer when the sash is left too high.
+An autoclave cycle counter unit that senses door latch events and prints a maintenance reminder after a set number of runs.
+A microscope stage joystick retrofit that drives two miniature linear actuators for coarse X/Y movement with adjustable speed limits.
+A glovebox antechamber purge sequencer that times nitrogen solenoid valves and verifies pressure-switch transitions before unlocking the inner door.
+An active anti-vibration platform add-on that drives a voice-coil actuator from an accelerometer input to cancel low-frequency bench vibrations.
+A rack-mount photoreactor light panel that dims high-power LEDs, enforces a keyed enable, and logs total exposure hours.
+A liquid-nitrogen dewar overflow cutoff unit that closes a cryo-rated solenoid valve when a level probe detects splash-over.
+A tube-label dispenser that feeds labels with a NEMA 14 stepper and presents the next label edge for gloved users.
+A waste-carboy level alarm that shuts off a diaphragm transfer pump via relay when a capacitive probe detects near-full level.
+An ESP32-S3 badge-style freezer sentinel that logs temperature, senses door-open events, and sends Wi-Fi alerts to a phone.
+A STM32G0-based microplate shaker front panel that reads a hall sensor for RPM feedback and drives a brushed DC motor via PWM.
+A Raspberry Pi RP2040 microfluidic valve sequencer that expands outputs with an MCP23017 to actuate 32 miniature solenoids.
+A MAX31865 + STM32F103 PT100 reader that retrofits a circulating water bath with calibrated temperature logging.
+An AD7793 high-resolution bridge ADC unit that turns a standard load cell into a digital reagent-bottle weighing station with a tare button.
+A W5500 Ethernet unit paired with an ATSAMD21 that converts a barcode scanner into a LIMS-friendly TCP/IP label verification appliance.
+A TMC2209-driven NEMA 17 stepper syringe pump drive with stall detection and a knob for flow-rate setpoint.
+A DRV8871 H-bridge and PIC16F18855 appliance that automates a brushed DC linear actuator for opening/closing a reagent cabinet vent flap on a timer.
+An INA260 current/voltage monitor with an nRF52840 radio that predicts brushed DC peristaltic pump tubing wear by tracking motor load over BLE.
+A TLC5947 constant-current driver with an STM32L432 that provides 24-channel programmable LED illumination for a microscope ring light.
+An AD9833 waveform generator that drives an external power stage to run an ultrasonic bath transducer at tunable frequencies.
+A DS3231 RTC + ATmega328P event logger that time-stamps centrifuge run-start/stop contacts to a removable microSD card.
+A MAX14830 quad-UART concentrator with an i.MX RT1062 that aggregates multiple RS-232 lab instruments into a single USB-C data uplink.
+A PCA9685 servo-PWM unit controlled by an ESP32-C6 that actuates eight pinch valves using RC servo motors for a low-cost flow router.
+A LTC2983-based thermometry card that reads mixed thermocouples and RTDs for a multi-zone thermal block qualification jig.
+An AD7606 simultaneous-sampling ADC with an STM32H743 that captures eight analog channels for automated chromatography detector calibration.
+A MCP4725 DAC and OPA197 output stage controlled by a PIC32MX that generates programmable setpoints for a legacy analog pH controller input.
+A MAX31855 thermocouple interface with an RP2040 that adds a digital exhaust-temperature readout and alarm to a lab drying oven.
+A TPS2116 power-mux and BQ24074 charger unit that keeps a portable sampling cart running seamlessly between wall power and a Li-ion pack.
+A ULN2803A driver array with an ATtiny1616 that pulses eight relays to automate timed rinse/soak cycles on a glassware washer retrofit.

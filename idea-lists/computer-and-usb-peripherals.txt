@@ -1,0 +1,40 @@
+USB-C macro pad for CAD shortcuts with hot-swappable keys and per-key RGB that enumerates as a HID keyboard using an RP2040.
+Panel-mount KVM hotkey panel with latching lockout and backlit buttons built around an ATmega32U4 for driverless USB HID.
+USB-C dock status display that shows PD watts, link speed, and monitor connection using a TPS65988 and an STM32G031.
+Desktop fingerprint login pad that supports Windows Hello-style enrollment using an FPC1020A sensor with an STM32F411 handling USB and templates.
+Rack-shelf USB fan controller for a 12 V BLDC PC fan (PWM + tach) with automatic curves driven by a PIC16F1455 USB MCU.
+Galvanically isolated USB-to-RS-485 field-bus dongle using an FT232RL and a MAX3485 with terminal-block output for PLC cabinets.
+Inline USB-C power and energy meter that logs V/I/W to the PC using an INA260 and an STM32F072.
+Triple-pedal USB foot switch for transcription or CAD push-to-talk implemented as a composite HID device with an ATmega32U4.
+USB audio VU meter that appears as a USB sound card and drives a 20-segment LED bar using a PCM2902 and an STM32F303.
+Programmable USB-C PD trigger tool that can recall multiple voltage profiles and expose a serial console using an FUSB302B and an ESP32-C3.
+Seven-port USB 3.0 desk hub with per-port on/off and overcurrent reporting using a VIA VL817 hub controller plus TPS2553 power switches.
+USB-to-CAN FD adapter for vehicle and industrial networks using an STM32G474 with an MCP2562FD transceiver and a DB9 connector.
+USB iButton/1-Wire key reader for maintenance authorization using a DS2480B with a rugged panel-mount probe cup.
+USB SPI/I2C flash programmer with a SOIC clip and scriptable CLI built around a WCH CH347T for reliable in-circuit reads/writes.
+USB jog-shuttle dial with detents and a scrub wheel for video editing shortcuts using an NXP LPC11U35 as a HID device.
+USB-C debug probe that provides UART plus SWD/JTAG to a target board using an STM32F072 and a TUSB320 for USB-C CC handling.
+USB NFC badge reader for PC login and time tracking using a PN532 with an ATSAMD21 presenting as a CCID device.
+USB 8x8 button grid instrument with RGB animations and low-latency HID/MIDI modes using an IS31FL3741 LED driver and an RP2040.
+USB ambient backlight bar for monitor bias lighting with smooth dimming curves using an ATSAMD21 and a TLC59711 constant-current driver.
+USB IR blaster that learns remote codes and triggers scenes from the computer using an ESP32-S3 with a high-power IR LED stage.
+Clamp-on USB e-ink nameplate for hot-desking that syncs your calendar and shows today's meetings at a glance.
+Two-computer USB peripheral sharing switch with a front-panel button and clear status LEDs for one keyboard/mouse set.
+Panel-mount USB extension module with EMI filtering and surge protection for rugged machine enclosures and operator panels.
+USB cable continuity and shielding tester with a small screen that flags missing data pairs, swapped pins, and intermittent shorts.
+Handheld USB-C PD sniffing probe that logs CC negotiation and displays charger capabilities for field troubleshooting.
+USB-connected G-code pendant with an MPG wheel, feed-hold, and cycle-start buttons for a CNC router.
+USB desk lamp with tunable white, a capacitive touch dimmer, and a pass-through port for a phone charger.
+USB headset sidetone and mute puck with a big volume knob that appears to the PC as a USB audio device for calls.
+USB keyboard cleaner dock that uses a brushed DC blower vacuum and only runs when a lock hotkey is pressed.
+USB-powered label rewinder for shipping stations using a brushed DC gearmotor with adjustable tension and direction.
+USB-to-serial terminal with a built-in screen and keyboard so technicians can configure network gear without installing drivers.
+Inline USB data blocker with a physical toggle that selects power-only, full data, or a restricted keyboard-only mode.
+USB presentation clicker with a laser pointer, rechargeable battery, and programmable buttons for conference rooms.
+USB-connected tally/recording light bar for a camera rig that turns red when streaming software is live.
+Under-desk USB-C dock breakout panel with angled connectors and strain relief to keep laptop cables tidy.
+Weighted USB mouse bungee with an integrated 4-port hub to reduce cable drag on gaming or CAD desks.
+USB-controlled relay box with DIN-rail clips for turning lab instruments and fixtures on/off from automated test scripts.
+USB touchstrip scrubbing controller for audio mixing that maps gestures to DAW shortcuts and MIDI CCs.
+USB photo booth trigger box with big arcade buttons that launches capture software and fires studio lights via a sync jack.
+USB smart card reader sled that bolts onto a tablet stand for kiosk check-in and includes a tamper switch input.

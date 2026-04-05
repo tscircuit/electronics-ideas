@@ -1,0 +1,40 @@
+A shirt-clip posture coach built around a Nordic nRF52840 and ST LSM6DSOX that learns your slouch angle and drives a coin vibration motor for gentle corrections.
+A heated cycling glove cuff module using an STM32G0 and TI BQ25895 to regulate Li-ion charging and PWM a flexible heater for steady fingertip warmth.
+A safety helmet rear light and brake indicator powered by an ESP32-S3 and ISSI IS31FL3731 to animate high-visibility LED patterns and log near-misses over BLE.
+A discreet wrist-worn silent reminder band using an ATtiny1616 plus TI DRV2605 to play crisp haptic "taps" from calendar events without audible alerts.
+A clip-on hydration and heat-stress tracker built with a Nordic nRF52810 and Sensirion SHTC3 that estimates sweat loss and prompts drinking via LED and haptics.
+A smart earplug charging case based on an ESP32-C3 and MAX98357A that streams white noise and tracks insertion time to manage hearing hygiene.
+A minimalist smart ring using a Nordic nRF5340 with Microchip ATECC608A for secure authentication and tap-to-unlock of doors and laptops.
+A UV-exposure lapel badge with a Silicon Labs EFM32 and Vishay VEML6075 that accumulates daily UV dose and warns with a color-changing LED.
+An impact-sensing work-boot insole using a TI ADS1115 and ST LIS3DH to log shock loads and flag potential injury events after a hard landing.
+A respiration belt module built around Maxim MAX30003 that measures impedance breathing waveforms and vibrates when your breathing rate spikes.
+A disposable ECG patch using TI ADS1292R and an STM32L052 that records two-lead heart rhythm and uploads episodes to a phone when recharged.
+A personal air-quality pendant using a Bosch BME680 with an ESP32-C6 to show indoor stale-air trends and push ventilation reminders.
+A smart cane-handle grip using an NXP LPC11U35 and InvenSense MPU-6050 that detects falls and triggers a loud alarm plus SMS via paired phone.
+A temperature-protecting medication pouch logger built on an RP2040 and Maxim DS18B20 that timestamps out-of-range events for insulin or biologics.
+An e-ink conference badge with NXP PN7150 NFC and a UC8151 e-paper driver that updates your name and QR code from a tap-to-phone workflow.
+Hearing-protection earmuffs using an STM32L4 and an Analog Devices ADMP401 mic to compute daily noise dose and warn with a subtle earcup vibration.
+A fall-detection pendant using a Microchip SAMD21 and ST LIS2DW12 that calls for help via a paired phone when it senses a high-g impact and no recovery motion.
+A rechargeable personal panic siren using an STM8L051 and TI TPS63070 to maintain constant-volume audio and a high-power strobe even as the battery drains.
+A sweat electrolyte sampler wrist strap built around Analog Devices ADuCM355 that reads ion-selective electrodes and estimates sodium loss during endurance sports.
+A thermal-therapy knee wrap using a TI TPS55288 and Maxim MAX30205 to closed-loop control a flexible heater for safe, even warming.
+A magnetic collarbone-worn posture trainer that vibrates when your shoulders round forward and summarizes daily posture time on a companion app.
+A ski-goggle anti-fog heater strip that automatically boosts lens warmth when humidity rises and shuts down when you stop moving.
+A cyclist's armband turn-signal that you tap left or right to flash high-power LEDs and confirm with a brief haptic buzz.
+A forklift-zone safety vest clip that detects nearby warehouse beacons and escalates from vibration to a loud chirp as vehicles approach.
+A respirator cartridge life counter that measures airflow hours and filter resistance to tell you when it's time to replace the cartridge.
+A finger-worn barcode-scanner ring with a trigger button and aiming LED for picking and inventory work, streaming scans to a handheld or tablet.
+A work-glove cuff timer that gives silent interval nudges for repetitive-task rotation to reduce strain injuries on assembly lines.
+A running shoe lace-clip that senses cadence and delivers rhythmic haptic pacing cues to keep you in a target step rate.
+A neck-worn personal air purifier that uses a BLDC micro-blower to push filtered air upward toward your face and automatically throttles with activity.
+A climbing harness tag that screams and strobes if it detects you've left key gear behind at the crag after a period of inactivity.
+A discreet bra-strap clip that tracks breastfeeding or pumping session timing and gives silent reminders without needing a phone in hand.
+A smart hair clip that warns if a hair straightener or dryer is too hot near the scalp by beeping and flashing when it senses high radiant heat.
+A motorcycle glove knuckle module that detects hard braking and flashes a rear-facing red light strip for extra visibility.
+A hospital staff ID lanyard buckle that logs hand-sanitizer station visits and vibrates when you enter a patient room without a recent dispense.
+A wristband for migraine management that guides paced breathing with gentle pulses and lets you log triggers with a single squeeze.
+A smart hearing-aid dehumidifier puck that counts drying cycles and alerts you when desiccant needs replacement, aimed at daily bedside use.
+A clip-on hydration pack bite-valve tracker that counts sips during runs and vibrates when your drinking rate falls behind plan.
+A smart winter boot gaiter that detects dangerous skin-cooling trends and prompts you to warm up before frostbite risk rises.
+A smart phone grip accessory that doubles as a hand warmer and kickstand, regulating heat output so it's safe for pockets and gloves.
+A wearable wrist "do-not-disturb" band for therapists or operators that shows a clear status light to others and delivers only priority haptic alerts to you.

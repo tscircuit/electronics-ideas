@@ -1,0 +1,40 @@
+A 24 V centrifugal BLDC blower speed controller for fume hoods using a TI DRV8323RS gate driver and closed-loop RPM feedback.
+A NEMA 17 belt feeder drive for packaging film that uses a Trinamic TMC2209 for quiet microstepping and stall detection.
+A worm-geared window opener retrofit for skylights built around an Infineon BTN8982TA half-bridge driving a brushed DC gearmotor with end-stop sensing.
+A brushless screwdriver spindle drive with torque limiting using an ST STSPIN32G4 and a 3-phase BLDC outrunner.
+A peristaltic pump dosing head that runs a NEMA 17 stepper via a Trinamic TMC5160 and counts dispensed volume by encoder.
+An AGV wheel module inverter for a 48 V BLDC hub motor using an Infineon IMC101T motor-control IC with a 6EDL7141 3-phase gate driver.
+An e-bike mid-drive PMSM controller with regenerative braking built on a TI TMS320F280049C C2000 MCU and shunt current sensing.
+A compact robot joint servo for a harmonic-drive actuator using an STM32G431 and an ST L6234 3-phase driver to run a BLDC.
+A 3-axis camera gimbal drive that powers three BLDC gimbal motors using a TI DRV8313 with encoder-based stabilization.
+A dual linear actuator synchronizer for hospital beds using a Microchip dsPIC33CK256MP508 to drive two brushed DC actuators with load balancing.
+A smart garage door operator for a 12-24 V brushed DC motor using an NXP MC33886 H-bridge with soft-start and obstacle detection.
+A conveyor diverter paddle drive that runs a NEMA 23 stepper through an Allegro A4988-compatible power stage with opto-isolated I/O.
+A precision syringe pump for labs using a Trinamic TMC2130 to microstep a NEMA 17 and detect stalls for plunger protection.
+A robot vacuum's brushless suction fan driver using an MPS MP6540 3-phase driver with automatic commutation learning.
+A greenhouse vent opener that drives a small BLDC gearmotor using an ST L6398 gate driver and a weather-sealed position sensor.
+A dental handpiece BLDC motor drive with speed hold and smooth startup using a TI DRV10983 sensorless driver.
+A motorized camera slider that microsteps a NEMA 17 with a Trinamic TMC2208 while an RP2040 handles timelapse motion profiles.
+A 24 V brushed DC winch power module using a TI DRV8412 H-bridge with current limiting and dynamic braking.
+A self-balancing two-wheel robot base using an ESP32-S3 for control and two TI DRV8871 drivers for brushed DC gearmotors.
+A compact BLDC air-sampling pump for industrial hygiene built on an ON Semiconductor LV8907UW 3-phase driver with constant-flow control.
+A foot-pedal variable-speed drive for a brushed DC sewing-machine motor with programmable soft-start and needle-up stop.
+A retrofit ceiling-fan kit that replaces the capacitor with a quiet sensorless BLDC drive and a wall-dimmer compatible interface.
+A NEMA 17 filament feeder for a 3D printer that auto-calibrates extrusion by measuring hob slip and adjusts microstepping on the fly.
+An automated curtain track that moves heavy drapes with a worm-geared brushed DC motor and a pull-to-open manual override clutch.
+A pan-tilt security camera head that uses two small steppers and absolute angle sensing for repeatable patrol positions.
+A robotic pick-and-place vacuum gripper that drives a miniature BLDC diaphragm pump and modulates suction with a fast pressure loop.
+A bench-top orbital lab shaker that spins a BLDC motor with imbalance detection and a quick-lock plate.
+A sit-stand desk control that synchronizes two 24 V linear actuators and learns end limits without hall sensors.
+A compact ultrasonic cleaner turntable that indexes parts using a geared stepper and chemical-resistant sealed bearings.
+A smart irrigation valve actuator that turns a quarter-turn ball valve using a brushed DC gearmotor and torque-based shutoff.
+A differential-drive warehouse robot base that runs two 24 V brushed DC gearmotors with encoder odometry and a safety bumper input.
+A high-torque BBQ rotisserie drive that uses a low-RPM brushed DC gearmotor with temperature-compensated speed control.
+A motorized microscope focus block that moves a leadscrew with a miniature stepper for repeatable Z-stacks and backlash compensation.
+A compact coil-winding machine that drives a stepper traverse and a separate spindle motor with automatic tension control.
+A handheld electric pruner that drives a brushed DC motor through a planetary gearbox and stops the blade instantly with active braking.
+A pool cover reel drive that powers a reversible brushed DC gearmotor and detects jams by monitoring acceleration.
+A door access turnstile arm drive that spins a BLDC motor with controlled torque for gentle anti-tailgate operation.
+A mobile workbench caster module that uses a small BLDC hub motor for powered positioning and locks electrically when stopped.
+A coffee grinder motor module that drives an AC universal motor with phase-angle control and keeps burr RPM constant under load.
+A cable-driven robot gripper that uses a micro metal gearmotor and a spring-loaded clutch to maintain a set pinch force.

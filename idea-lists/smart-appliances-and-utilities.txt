@@ -1,0 +1,40 @@
+Rice cooker front-panel PCB using an ESP32-S3 to run recipes, drive the heater relay, read an NTC plus lid switch, and push cooking status to a phone.
+Water dispenser retrofit that switches a single-phase AC compressor via relay, times the UV sterilizer, and shuts off water on leak detection with a drip-tray sensor.
+Range hood capacitive-touch keypad built around an STM32G0 that sets a triac dimmer for the lamp and multi-speed control for a shaded-pole AC fan motor.
+Toaster oven reflow conversion front end with a thermocouple input, rotary encoder, OLED display, and SSR output so a kitchen oven can follow lead-free reflow profiles.
+Ice maker bin-level module using an NXP i.MX RT1062 to fuse a ToF distance sensor with temperature data and stop the auger brushed DC gearmotor before jams.
+Clamp-on sump pump guardian that detects pump run current, logs runtimes, and triggers a loud local alarm plus dry-contact output when the pump fails to start.
+Smart radiator valve actuator using a TI CC2652R1 Zigbee SoC to drive a miniature bipolar stepper and schedule room-by-room heat without rewiring.
+Laundromat dryer add-on that senses door state and exhaust temperature to cut heat on faults and show a simple "ready/blocked vent" indicator for staff.
+Dishwasher base leak-stop using a Microchip ATSAMD21 to watch a conductivity strip, cut power, and close a latching solenoid inlet valve within milliseconds.
+Outdoor hose bib freeze-protection collar that opens a drain solenoid and pulses heat tape when temperature and wind indicate freezing risk.
+Refrigerator defrost optimizer using a Nordic nRF52840 to read multiple temperature probes, control the defrost heater, and PWM a small BLDC evaporator fan for efficiency.
+Gas water-heater safety add-on that monitors flue draft and ambient CO/temperature and drops out the burner enable relay on unsafe conditions.
+Smart multi-outlet utility power bar using a Renesas RA4M1 for per-outlet energy metering, inrush-managed latching relays, and a local overload trip display.
+Garage door opener wall-console retrofit with illuminated capacitive buttons and a status light bar that ties into the opener via dry-contact and door-position inputs.
+ECM-style HVAC blower retrofit using a TI DRV8353 gate driver to run an existing 3-phase BLDC blower motor from legacy 24VAC thermostat calls.
+Irrigation valve-box module that sequences 24VAC sprinkler solenoids, measures flow to detect broken heads, and auto-pauses on suspected leaks.
+DIN-rail kWh logger using an Analog Devices ADE9153A for revenue-grade energy measurement, neutral-loss detection, and tamper/event recording.
+Elevator machine-room humidity controller that calculates dew point and runs a 120mm DC axial fan plus a condensation heater to prevent cabinet corrosion.
+Sous-vide water-bath controller insert using a Maxim MAX31865 for PT100 sensing and a solid-state relay output to hold temperature within +/-0.1 degrees C.
+Pantry dehumidifier upgrade that cycles a Peltier module and a mini diaphragm condensate pump based on humidity trends and tank-full detection.
+Apartment intercom-to-mobile bridge using a Silicon Labs EFR32MG24 (Thread) to detect the buzzer line, stream audio, and push notifications to residents.
+Range hood grease-filter life indicator that estimates clogging from differential pressure across the filter and shows a "wash now" LED reminder.
+Pellet stove auger driver using an ST STSPIN220 to run a bipolar stepper auger motor with stall/jam detection and safe shutdown.
+Robot vacuum dock add-on that dispenses detergent through a peristaltic pump, verifies bottle presence, and prevents dosing if the waste tank is full.
+Cordless vacuum charging base using a TI BQ25792 USB-C PD charger to fast-charge packs safely and display pack health and cycle count.
+Electric kettle smart base that learns boil-off rate to estimate remaining water, auto-cuts on dry-boil, and prompts descaling based on limescale indicators.
+Steam iron temperature calibration pad using a Microchip MCP9600 thermocouple interface to close the loop on the iron's heater for consistent soleplate temperature.
+Office water cooler retrofit that adds occupancy-aware sleep mode, compressor lockout during peak tariffs, and drip-tray overflow shutoff.
+Pool pump timer using an Infineon XMC1404 to drive a contactor for a single-phase AC induction pump while monitoring undervoltage and run-dry conditions.
+Motorized window blind wand that uses a brushed DC gearmotor with clutch sensing to tilt and raise blinds while maintaining pull-cord safety.
+Trash compactor front panel using a Raspberry Pi RP2040 to read a load cell, drive a linear actuator cycle, and lock out operation when the bin is full.
+Commercial ice machine sanitizer scheduler that interlocks the compressor and circulates cleaning solution using a small centrifugal pump with a timed rinse cycle.
+Washing machine vibration health sticker using an ST LIS2DH12 accelerometer to detect repeated out-of-balance events and alert maintenance before damage.
+Thermostatic mixing valve accessory that measures hot/cold inlet temperatures and drives a small DC servo to maintain a safe, stable outlet temperature.
+Propane cylinder smart scale using a TI INA219 to manage ultra-low-power measurement, e-ink updates, and periodic sub-GHz beaconing of fill level.
+Dishwasher detergent dispenser retrofit that uses a small solenoid plunger and optical confirmation to release pods at the correct time even on older machines.
+Streetlight photocell replacement using a Qualcomm QCA4020 SoC to report outages over Wi-Fi/802.15.4 and dim a 0-10V LED driver on schedule.
+Vending-machine coin chute anti-condensation heater that PWM-drives a silicone heater strip and logs temperature to prevent coin jams in humid climates.
+Ultrasonic humidifier upgrade using a Monolithic Power Systems MP6515 to drive a 24V BLDC mist fan, supervise water level, and shut down on tip-over.
+Apartment water shutoff valve kit that clamps to an existing ball valve using a high-torque brushed DC gearmotor and closes automatically when a leak sensor trips.

@@ -1,0 +1,40 @@
+A mailbox arrival notifier using an STM32WL55 that detects door motion with a reed switch and sends a LoRaWAN ping to your phone.
+A freezer alarm with a Semtech SX1262 long-range radio that reports high temperature, power loss, and door-left-open events from a chest freezer in a garage.
+A bee-hive gateway node built around a Quectel BG95 cellular modem that aggregates hive weight/temperature sensors and uploads daily summaries from remote apiaries.
+A trailer door open sensor using an nRF52840 that logs timestamped openings and alerts the owner when the cargo door is unlatched in a yard.
+A retrofit irrigation shutoff that uses a TI CC1312R to command a latching solenoid valve and confirm flow stoppage during leak events.
+A stick-on machine vibration health tag using a Nordic nRF5340 with an ADXL355 accelerometer to trend bearing wear and push maintenance alerts.
+A propane/LPG cylinder scale using an HX711 load-cell ADC and an ESP32-S3 that reports remaining fuel percentage over Wi-Fi.
+A LoRaWAN water-meter pulse reader using a Microchip SAMR34 that snaps over the register, counts magnet pulses, and uploads consumption data.
+A smart streetlight photocell replacement using an STM32L476 and an SX1276 that reports burn hours, outages, and line voltage dips to the city dashboard.
+A networked key-cabinet lock using an ESP32-S3 and an ATECC608B that enforces access schedules and logs every door open event.
+A refrigerated-truck temperature and door logger using a u-blox SARA-R5 that uploads route-stamped compliance records over LTE-M/NB-IoT.
+A clip-on mains energy meter using an ADE7953 and an ESP32-C6 that reports kWh and peak demand for a specific appliance circuit.
+A compact asset tag using a Qorvo DW3000 for UWB ranging plus an nRF52833 for BLE that helps find tools inside large warehouses.
+A smart parking-space puck using a TI CC1352P with an LIS3MDL magnetometer that detects occupancy and reports turnover statistics.
+A solar-powered soil probe using an STM32L072 and an SX1262 that sends moisture/temperature readings from fields with no Wi-Fi coverage.
+A smoke-alarm interconnect bridge using an ESP32-C6 with an NXP PCA9536 that detects legacy alarm signaling and forwards alerts to a home hub.
+A stacklight status broadcaster using a Silicon Labs EFR32MG24 that reads red/yellow/green tower-light states and updates OEE dashboards wirelessly.
+A batteryless NFC maintenance tag using an NXP NTAG I2C Plus that lets technicians tap a machine to pull last-service data and record notes without a battery swap.
+A sump-pump power and run-time monitor using an Analog Devices ADE9153A with an STM32G0 that alerts when the pump starts cycling abnormally or draws excess current.
+A SIMCom SIM7080G LTE-M bolt-on tracker for rental generators that reports run hours, vibration-based usage, and low fuel level from the jobsite.
+A pool equipment telemetry puck that straps to plumbing, logs pump runtime and filter pressure, and reports health trends over LoRaWAN.
+A storefront trash compactor fill indicator that measures ram cycles and bin fullness and automatically texts the hauler before overflow.
+A shared makerspace tool-chest drawer tracker that logs which drawers are opened and pushes inventory reminders when tools aren't returned.
+An apartment laundry machine-available beacon that detects washer vibration, estimates cycle end time, and updates a building status page.
+A restaurant walk-in cooler watchdog that alerts on door-left-open, high temperature, and compressor short-cycling using long-range radio.
+A fire-extinguisher inspection collar that flags missing units, low pressure, or overdue inspections and reports location to facilities staff.
+A hospital sharps-container lid that senses fill level and sends a pickup request before overfill creates a safety hazard.
+A grain silo cap that measures headspace temperature, humidity, and CO2 and reports spoilage risk to a farm gateway.
+A steam-trap leak listener that identifies failed traps by ultrasonic signature and reports energy-waste alarms across a sub-GHz mesh.
+A forklift seatbelt compliance beacon that detects latch state and pushes exceptions to fleet management when trucks move unbelted.
+A museum display-case security tag that detects tilt, vibration, and opening events and alerts staff if an exhibit is disturbed.
+An RV holding-tank level sender that uses ultrasonic ranging to show fresh/gray/black levels on a phone even when boondocking.
+A manual irrigation canal gate position reporter that clips onto the handwheel to log openings and notify downstream users of changes.
+A greenhouse roof-vent opener that drives a 12V linear actuator and reports vent position, inside temperature, and fault jams to the grower.
+A compost-bin aeration controller that drives a small BLDC blower based on temperature/oxygen trends and reports odor-risk alerts to a phone.
+A smart pet-feeder retrofit that turns an existing hopper using a brushed DC gearmotor and sends low-food and missed-feeding alerts.
+A solar fence-line fault sensor that detects broken electrified wire or shorts and reports the GPS location to a ranch dashboard.
+A parking-lot light-pole retrofit that senses AC current draw to detect lamp outages and automatically opens a maintenance ticket.
+A vending-machine service meter that counts door openings and vend cycles to predict restock needs and detect unauthorized access.
+A construction-site portable-toilet service meter that counts door cycles and measures tank fill level to optimize pickup routes.

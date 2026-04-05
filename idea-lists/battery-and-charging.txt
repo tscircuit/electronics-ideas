@@ -1,0 +1,40 @@
+An electric screwdriver charging dock with TI BQ25622 handles USB input, charge termination, and pogo-pin tool ID for fleet tracking.
+A camera battery conditioning tray built around Analog Devices LTC4015 cycles charge/discharge, logs delivered mAh, and flags packs with rising impedance.
+A tool-pack equalizer for a cordless vacuum cart (BLDC blower) using LTC3300-1 actively balances multiple 5S packs so they age evenly.
+A USB-C field charger for a drone crew case built around TI BQ25792 charges 3S-6S Li-ion packs from any PD source without adapters.
+A battery swap station for handheld barcode scanners using Maxim MAX77976 fast-charges two hot-swapped packs and enforces temperature derating per bay.
+An e-bike battery wall charger for a BLDC hub-motor bike using Infineon XDPS21071 provides selectable CC/CV profiles for Li-ion vs LiFePO4 packs.
+A solar-powered lead-acid maintainer for a farm gate controller using Analog Devices LT8490 performs MPPT and long-term float without overcharge.
+A 1-8S LiFePO4 pack tester/charger using TI BQ34Z100-G1 estimates SOC/SOH accurately and prints a service report after a full cycle.
+A multi-slot 18650/21700 capacity grader using Maxim MAX17262 displays remaining capacity, internal resistance, and self-discharge over a 24-hour soak.
+A Qi wireless charging retrofit pad for a hospital accessory battery using NXP MWCT1103 adds sealed, wipeable charging to existing devices.
+An industrial 24V supercap ride-through module for PLC cabinets using TI LM5170 manages bidirectional buck-boost between the bus and a supercap bank.
+A two-bay smart handheld-radio cradle using Microchip MCP73871 supports USB/adapter power-path charging and per-bay charge timers.
+A rechargeable heated work-glove pack using TI BQ24075 throttles charge based on NTC temperature and stores a safe-shipping mode.
+A clip-on 4S lithium 'top balancer' service tool using TI BQ76920 measures each cell, bleeds high cells, and alarms on wiring faults.
+An 8-cell NiMH rapid charger for maintenance crews using TI bq2000G implements DeltaV termination and a safety timer for rugged battery sticks.
+A USB-C PD sink trigger for charging salvaged laptop packs using Infineon CYPD3177 negotiates 20V and drives an external CC/CV stage.
+A service-stand charger for a cordless leaf blower (3-phase BLDC motor) using TI BQ25713 talks SMBus to the pack and logs charge cycles.
+A rechargeable AA-sized Li-ion 'smart cell' with BLE status using Dialog DA14531 reports charge level and locks out charging below freezing.
+An outdoor telecom enclosure backup module using Analog Devices LTC3350 maintains a supercap stack, tests ESR, and provides seamless switchover on outages.
+A multi-chemistry lab charger for RC packs using STM32G0 and TI BQ40Z80 logs cycles to USB and enforces per-cell safety limits during fast charge.
+A firehouse locker rack that charges multiple rechargeable flashlights and shows per-slot readiness with big glanceable indicators.
+A lockable wall panel that charges and stores eight pick-to-voice warehouse headsets with per-bay LEDs and a master key switch.
+A travel charger bag for a film crew that organizes and charges NP-F batteries and USB devices from one AC inlet with labeled, removable bays.
+A quick-swap battery station for construction radios that charges two packs while keeping one bay powered for continuous playback.
+A magnetic pogo-pin charging dock for a cordless glue gun that blocks charging until the nozzle cools below a safe threshold.
+A countertop charging caddy for AA/AAA/9V rechargeables that detects chemistry, rejects reversed cells, and shuts down on overheating.
+An under-seat charger retrofit for a mobility scooter with brushed DC drivetrain that accepts car 12V input and correctly profiles the SLA pack.
+A DIN-rail charger with dry-contact alarms that keeps a security panel's backup battery healthy and alerts on sulfation or missing battery.
+A battery warming-and-charging cradle for outdoor trail cameras that preheats lithium packs before fast charging in subzero weather.
+A portable jump starter that uses a supercapacitor boost stage to spin a lawn tractor's brushed DC starter motor and then recharges from the tractor battery.
+A forklift battery service cart that equalizes and logs each 24V lead-acid string during scheduled maintenance and prints a pass/fail ticket.
+A locking charging drawer insert for a retail backroom that powers dozens of USB gadgets while securing cables to prevent walk-offs.
+A clip-on tester that measures cordless tool pack impedance and recommends whether to fast-charge, balance, or retire the pack.
+A smart helmet mount for action cameras that hot-swaps a rear battery and keeps recording through a buffered power path.
+A wall-mounted charging holster for a handheld thermal camera that auto-uploads photos when docked and prevents storage in an over-discharged state.
+A weatherproof pole-top solar charger kit for a remote gate opener with linear actuator that includes surge protection and tool-free battery access.
+A battery-backed USB hub for point-of-sale terminals that keeps card readers alive through brief power cuts and reports runtime on a small display.
+A portable charging fixture for hearing-aid cases that combines timed charging with a UV-C sanitizing chamber and lid interlock.
+A rechargeable battery module for a cordless soldering iron that supports pack swapping and a desktop cradle with tip-safety interlock.
+An EV emergency power adapter that lets a 12V accessory battery safely run a phone, laptop, and tire inflator without over-discharge.
