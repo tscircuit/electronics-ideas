@@ -1,0 +1,100 @@
+Arduino shield for a battery runtime estimator using CH32V307VCT6 with LTC2944, TPS63070, USB-C power input, and segment display pads for camping electronics.
+Raspberry Pi HAT that turns EFM32GG11B820F2048 plus LTC2944 and TLV75733P into a battery runtime estimator for camping electronics, with a microSD slot and segment display pads.
+Pico-style carrier board based on CY8C6247BZI-D54, LTC2944, and MCP73831 for a battery runtime estimator for camping electronics; include segment display pads and a LiPo charger footprint.
+Compact Feather-compatible wing using MAX32666 + LTC2944 + BQ24074 as a battery runtime estimator for camping electronics, featuring segment display pads and a 4-20 mA input option.
+DIN-rail controller built around PIC32MZ2048EFH144, LTC2944, and MP2722 as a battery runtime estimator for camping electronics, with an isolated RS-485 port and segment display pads.
+panel-mount instrument PCB for a battery runtime estimator using ATmega4809 with LTC2944, AP63203, Grove connectors, and segment display pads for camping electronics.
+handheld tester PCB that turns ATmega32U4 plus LTC2944 and LAN8720A into a battery runtime estimator for camping electronics, with a PoE-ready front end and segment display pads.
+compact desktop module based on ATtiny3227, LTC2944, and TPS562201 for a battery runtime estimator for camping electronics; include segment display pads and an e-paper status panel.
+Compact wall-mount node using MSP430FR5994 + LTC2944 + MAX17048 as a battery runtime estimator for camping electronics, featuring segment display pads and a Qwiic expansion header.
+Eurocard lab board built around MSPM0G3507, LTC2944, and SN65HVD230 as a battery runtime estimator for camping electronics, with a CAN transceiver footprint and segment display pads.
+Arduino shield for a battery runtime estimator using CC2652R with LTC2944, TPS63070, USB-C power input, and segment display pads for camping electronics.
+Raspberry Pi HAT that turns CC3235SF plus LTC2944 and TLV75733P into a battery runtime estimator for camping electronics, with a microSD slot and segment display pads.
+Pico-style carrier board based on CH582M, LTC2944, and MCP73831 for a battery runtime estimator for camping electronics; include segment display pads and a LiPo charger footprint.
+Compact Feather-compatible wing using BL616 + LTC2944 + BQ24074 as a battery runtime estimator for camping electronics, featuring segment display pads and a 4-20 mA input option.
+DIN-rail controller built around RTL8720DN, LTC2944, and MP2722 as a battery runtime estimator for camping electronics, with an isolated RS-485 port and segment display pads.
+panel-mount instrument PCB for a battery runtime estimator using NUC120LE3AN with LTC2944, AP63203, Grove connectors, and segment display pads for camping electronics.
+handheld tester PCB that turns MIMXRT1021DAG5A plus LTC2944 and LAN8720A into a battery runtime estimator for camping electronics, with a PoE-ready front end and segment display pads.
+compact desktop module based on SAM9X60D1G, LTC2944, and TPS562201 for a battery runtime estimator for camping electronics; include segment display pads and an e-paper status panel.
+Compact wall-mount node using R7FA2E1A72DFL + LTC2944 + MAX17048 as a battery runtime estimator for camping electronics, featuring segment display pads and a Qwiic expansion header.
+Eurocard lab board built around MB9BF568R, LTC2944, and SN65HVD230 as a battery runtime estimator for camping electronics, with a CAN transceiver footprint and segment display pads.
+Arduino shield for a ultra-low-power scheduler board using RP2040 with RV3028, TPS63070, USB-C power input, and a latching MOSFET power gate for timed irrigation nodes.
+Raspberry Pi HAT that turns RP2350 plus RV3028 and TLV75733P into a ultra-low-power scheduler board for timed irrigation nodes, with a microSD slot and a latching MOSFET power gate.
+Pico-style carrier board based on ESP32-S3, RV3028, and MCP73831 for a ultra-low-power scheduler board for timed irrigation nodes; include a latching MOSFET power gate and a LiPo charger footprint.
+Compact Feather-compatible wing using ESP32-C3 + RV3028 + BQ24074 as a ultra-low-power scheduler board for timed irrigation nodes, featuring a latching MOSFET power gate and a 4-20 mA input option.
+DIN-rail controller built around ESP32-C6, RV3028, and MP2722 as a ultra-low-power scheduler board for timed irrigation nodes, with an isolated RS-485 port and a latching MOSFET power gate.
+panel-mount instrument PCB for a ultra-low-power scheduler board using ESP32-H2 with RV3028, AP63203, Grove connectors, and a latching MOSFET power gate for timed irrigation nodes.
+handheld tester PCB that turns nRF52840 plus RV3028 and LAN8720A into a ultra-low-power scheduler board for timed irrigation nodes, with a PoE-ready front end and a latching MOSFET power gate.
+compact desktop module based on nRF5340, RV3028, and TPS562201 for a ultra-low-power scheduler board for timed irrigation nodes; include a latching MOSFET power gate and an e-paper status panel.
+Compact wall-mount node using STM32F103C8T6 + RV3028 + MAX17048 as a ultra-low-power scheduler board for timed irrigation nodes, featuring a latching MOSFET power gate and a Qwiic expansion header.
+Eurocard lab board built around STM32G431CBT6, RV3028, and SN65HVD230 as a ultra-low-power scheduler board for timed irrigation nodes, with a CAN transceiver footprint and a latching MOSFET power gate.
+Arduino shield for a ultra-low-power scheduler board using STM32H743VIT6 with RV3028, TPS63070, USB-C power input, and a latching MOSFET power gate for timed irrigation nodes.
+Raspberry Pi HAT that turns STM32L432KCU6 plus RV3028 and TLV75733P into a ultra-low-power scheduler board for timed irrigation nodes, with a microSD slot and a latching MOSFET power gate.
+Pico-style carrier board based on STM32U585AII6, RV3028, and MCP73831 for a ultra-low-power scheduler board for timed irrigation nodes; include a latching MOSFET power gate and a LiPo charger footprint.
+Compact Feather-compatible wing using ATSAMD21G18A + RV3028 + BQ24074 as a ultra-low-power scheduler board for timed irrigation nodes, featuring a latching MOSFET power gate and a 4-20 mA input option.
+DIN-rail controller built around ATSAMD51J19A, RV3028, and MP2722 as a ultra-low-power scheduler board for timed irrigation nodes, with an isolated RS-485 port and a latching MOSFET power gate.
+panel-mount instrument PCB for a ultra-low-power scheduler board using RA4M1 with RV3028, AP63203, Grove connectors, and a latching MOSFET power gate for timed irrigation nodes.
+handheld tester PCB that turns RA6M5 plus RV3028 and LAN8720A into a ultra-low-power scheduler board for timed irrigation nodes, with a PoE-ready front end and a latching MOSFET power gate.
+compact desktop module based on LPC55S69JBD100, RV3028, and TPS562201 for a ultra-low-power scheduler board for timed irrigation nodes; include a latching MOSFET power gate and an e-paper status panel.
+Compact wall-mount node using i.MX RT1062 + RV3028 + MAX17048 as a ultra-low-power scheduler board for timed irrigation nodes, featuring a latching MOSFET power gate and a Qwiic expansion header.
+Eurocard lab board built around GD32VF103CBT6, RV3028, and SN65HVD230 as a ultra-low-power scheduler board for timed irrigation nodes, with a CAN transceiver footprint and a latching MOSFET power gate.
+Arduino shield for a ultra-low-power scheduler board using CH32V307VCT6 with RV3028, TPS63070, USB-C power input, and a latching MOSFET power gate for timed irrigation nodes.
+Raspberry Pi HAT that turns EFM32GG11B820F2048 plus RV3028 and TLV75733P into a ultra-low-power scheduler board for timed irrigation nodes, with a microSD slot and a latching MOSFET power gate.
+Pico-style carrier board based on CY8C6247BZI-D54, RV3028, and MCP73831 for a ultra-low-power scheduler board for timed irrigation nodes; include a latching MOSFET power gate and a LiPo charger footprint.
+Compact Feather-compatible wing using MAX32666 + RV3028 + BQ24074 as a ultra-low-power scheduler board for timed irrigation nodes, featuring a latching MOSFET power gate and a 4-20 mA input option.
+DIN-rail controller built around PIC32MZ2048EFH144, RV3028, and MP2722 as a ultra-low-power scheduler board for timed irrigation nodes, with an isolated RS-485 port and a latching MOSFET power gate.
+panel-mount instrument PCB for a ultra-low-power scheduler board using ATmega4809 with RV3028, AP63203, Grove connectors, and a latching MOSFET power gate for timed irrigation nodes.
+handheld tester PCB that turns ATmega32U4 plus RV3028 and LAN8720A into a ultra-low-power scheduler board for timed irrigation nodes, with a PoE-ready front end and a latching MOSFET power gate.
+compact desktop module based on ATtiny3227, RV3028, and TPS562201 for a ultra-low-power scheduler board for timed irrigation nodes; include a latching MOSFET power gate and an e-paper status panel.
+Compact wall-mount node using MSP430FR5994 + RV3028 + MAX17048 as a ultra-low-power scheduler board for timed irrigation nodes, featuring a latching MOSFET power gate and a Qwiic expansion header.
+Eurocard lab board built around MSPM0G3507, RV3028, and SN65HVD230 as a ultra-low-power scheduler board for timed irrigation nodes, with a CAN transceiver footprint and a latching MOSFET power gate.
+Arduino shield for a ultra-low-power scheduler board using CC2652R with RV3028, TPS63070, USB-C power input, and a latching MOSFET power gate for timed irrigation nodes.
+Raspberry Pi HAT that turns CC3235SF plus RV3028 and TLV75733P into a ultra-low-power scheduler board for timed irrigation nodes, with a microSD slot and a latching MOSFET power gate.
+Pico-style carrier board based on CH582M, RV3028, and MCP73831 for a ultra-low-power scheduler board for timed irrigation nodes; include a latching MOSFET power gate and a LiPo charger footprint.
+Compact Feather-compatible wing using BL616 + RV3028 + BQ24074 as a ultra-low-power scheduler board for timed irrigation nodes, featuring a latching MOSFET power gate and a 4-20 mA input option.
+DIN-rail controller built around RTL8720DN, RV3028, and MP2722 as a ultra-low-power scheduler board for timed irrigation nodes, with an isolated RS-485 port and a latching MOSFET power gate.
+panel-mount instrument PCB for a ultra-low-power scheduler board using NUC120LE3AN with RV3028, AP63203, Grove connectors, and a latching MOSFET power gate for timed irrigation nodes.
+handheld tester PCB that turns MIMXRT1021DAG5A plus RV3028 and LAN8720A into a ultra-low-power scheduler board for timed irrigation nodes, with a PoE-ready front end and a latching MOSFET power gate.
+compact desktop module based on SAM9X60D1G, RV3028, and TPS562201 for a ultra-low-power scheduler board for timed irrigation nodes; include a latching MOSFET power gate and an e-paper status panel.
+Compact wall-mount node using R7FA2E1A72DFL + RV3028 + MAX17048 as a ultra-low-power scheduler board for timed irrigation nodes, featuring a latching MOSFET power gate and a Qwiic expansion header.
+Eurocard lab board built around MB9BF568R, RV3028, and SN65HVD230 as a ultra-low-power scheduler board for timed irrigation nodes, with a CAN transceiver footprint and a latching MOSFET power gate.
+Arduino shield for a secure provisioning dongle using RP2040 with ATECC608B, TPS63070, USB-C power input, and a touch pad authorizer for IoT device onboarding.
+Raspberry Pi HAT that turns RP2350 plus ATECC608B and TLV75733P into a secure provisioning dongle for IoT device onboarding, with a microSD slot and a touch pad authorizer.
+Pico-style carrier board based on ESP32-S3, ATECC608B, and MCP73831 for a secure provisioning dongle for IoT device onboarding; include a touch pad authorizer and a LiPo charger footprint.
+Compact Feather-compatible wing using ESP32-C3 + ATECC608B + BQ24074 as a secure provisioning dongle for IoT device onboarding, featuring a touch pad authorizer and a 4-20 mA input option.
+DIN-rail controller built around ESP32-C6, ATECC608B, and MP2722 as a secure provisioning dongle for IoT device onboarding, with an isolated RS-485 port and a touch pad authorizer.
+panel-mount instrument PCB for a secure provisioning dongle using ESP32-H2 with ATECC608B, AP63203, Grove connectors, and a touch pad authorizer for IoT device onboarding.
+handheld tester PCB that turns nRF52840 plus ATECC608B and LAN8720A into a secure provisioning dongle for IoT device onboarding, with a PoE-ready front end and a touch pad authorizer.
+compact desktop module based on nRF5340, ATECC608B, and TPS562201 for a secure provisioning dongle for IoT device onboarding; include a touch pad authorizer and an e-paper status panel.
+Compact wall-mount node using STM32F103C8T6 + ATECC608B + MAX17048 as a secure provisioning dongle for IoT device onboarding, featuring a touch pad authorizer and a Qwiic expansion header.
+Eurocard lab board built around STM32G431CBT6, ATECC608B, and SN65HVD230 as a secure provisioning dongle for IoT device onboarding, with a CAN transceiver footprint and a touch pad authorizer.
+Arduino shield for a secure provisioning dongle using STM32H743VIT6 with ATECC608B, TPS63070, USB-C power input, and a touch pad authorizer for IoT device onboarding.
+Raspberry Pi HAT that turns STM32L432KCU6 plus ATECC608B and TLV75733P into a secure provisioning dongle for IoT device onboarding, with a microSD slot and a touch pad authorizer.
+Pico-style carrier board based on STM32U585AII6, ATECC608B, and MCP73831 for a secure provisioning dongle for IoT device onboarding; include a touch pad authorizer and a LiPo charger footprint.
+Compact Feather-compatible wing using ATSAMD21G18A + ATECC608B + BQ24074 as a secure provisioning dongle for IoT device onboarding, featuring a touch pad authorizer and a 4-20 mA input option.
+DIN-rail controller built around ATSAMD51J19A, ATECC608B, and MP2722 as a secure provisioning dongle for IoT device onboarding, with an isolated RS-485 port and a touch pad authorizer.
+panel-mount instrument PCB for a secure provisioning dongle using RA4M1 with ATECC608B, AP63203, Grove connectors, and a touch pad authorizer for IoT device onboarding.
+handheld tester PCB that turns RA6M5 plus ATECC608B and LAN8720A into a secure provisioning dongle for IoT device onboarding, with a PoE-ready front end and a touch pad authorizer.
+compact desktop module based on LPC55S69JBD100, ATECC608B, and TPS562201 for a secure provisioning dongle for IoT device onboarding; include a touch pad authorizer and an e-paper status panel.
+Compact wall-mount node using i.MX RT1062 + ATECC608B + MAX17048 as a secure provisioning dongle for IoT device onboarding, featuring a touch pad authorizer and a Qwiic expansion header.
+Eurocard lab board built around GD32VF103CBT6, ATECC608B, and SN65HVD230 as a secure provisioning dongle for IoT device onboarding, with a CAN transceiver footprint and a touch pad authorizer.
+Arduino shield for a secure provisioning dongle using CH32V307VCT6 with ATECC608B, TPS63070, USB-C power input, and a touch pad authorizer for IoT device onboarding.
+Raspberry Pi HAT that turns EFM32GG11B820F2048 plus ATECC608B and TLV75733P into a secure provisioning dongle for IoT device onboarding, with a microSD slot and a touch pad authorizer.
+Pico-style carrier board based on CY8C6247BZI-D54, ATECC608B, and MCP73831 for a secure provisioning dongle for IoT device onboarding; include a touch pad authorizer and a LiPo charger footprint.
+Compact Feather-compatible wing using MAX32666 + ATECC608B + BQ24074 as a secure provisioning dongle for IoT device onboarding, featuring a touch pad authorizer and a 4-20 mA input option.
+DIN-rail controller built around PIC32MZ2048EFH144, ATECC608B, and MP2722 as a secure provisioning dongle for IoT device onboarding, with an isolated RS-485 port and a touch pad authorizer.
+panel-mount instrument PCB for a secure provisioning dongle using ATmega4809 with ATECC608B, AP63203, Grove connectors, and a touch pad authorizer for IoT device onboarding.
+handheld tester PCB that turns ATmega32U4 plus ATECC608B and LAN8720A into a secure provisioning dongle for IoT device onboarding, with a PoE-ready front end and a touch pad authorizer.
+compact desktop module based on ATtiny3227, ATECC608B, and TPS562201 for a secure provisioning dongle for IoT device onboarding; include a touch pad authorizer and an e-paper status panel.
+Compact wall-mount node using MSP430FR5994 + ATECC608B + MAX17048 as a secure provisioning dongle for IoT device onboarding, featuring a touch pad authorizer and a Qwiic expansion header.
+Eurocard lab board built around MSPM0G3507, ATECC608B, and SN65HVD230 as a secure provisioning dongle for IoT device onboarding, with a CAN transceiver footprint and a touch pad authorizer.
+Arduino shield for a secure provisioning dongle using CC2652R with ATECC608B, TPS63070, USB-C power input, and a touch pad authorizer for IoT device onboarding.
+Raspberry Pi HAT that turns CC3235SF plus ATECC608B and TLV75733P into a secure provisioning dongle for IoT device onboarding, with a microSD slot and a touch pad authorizer.
+Pico-style carrier board based on CH582M, ATECC608B, and MCP73831 for a secure provisioning dongle for IoT device onboarding; include a touch pad authorizer and a LiPo charger footprint.
+Compact Feather-compatible wing using BL616 + ATECC608B + BQ24074 as a secure provisioning dongle for IoT device onboarding, featuring a touch pad authorizer and a 4-20 mA input option.
+DIN-rail controller built around RTL8720DN, ATECC608B, and MP2722 as a secure provisioning dongle for IoT device onboarding, with an isolated RS-485 port and a touch pad authorizer.
+panel-mount instrument PCB for a secure provisioning dongle using NUC120LE3AN with ATECC608B, AP63203, Grove connectors, and a touch pad authorizer for IoT device onboarding.
+handheld tester PCB that turns MIMXRT1021DAG5A plus ATECC608B and LAN8720A into a secure provisioning dongle for IoT device onboarding, with a PoE-ready front end and a touch pad authorizer.
+compact desktop module based on SAM9X60D1G, ATECC608B, and TPS562201 for a secure provisioning dongle for IoT device onboarding; include a touch pad authorizer and an e-paper status panel.
+Compact wall-mount node using R7FA2E1A72DFL + ATECC608B + MAX17048 as a secure provisioning dongle for IoT device onboarding, featuring a touch pad authorizer and a Qwiic expansion header.
+Eurocard lab board built around MB9BF568R, ATECC608B, and SN65HVD230 as a secure provisioning dongle for IoT device onboarding, with a CAN transceiver footprint and a touch pad authorizer.

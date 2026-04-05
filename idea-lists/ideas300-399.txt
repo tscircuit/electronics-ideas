@@ -1,0 +1,100 @@
+Arduino shield for a Ethernet industrial I/O monitor using CH32V307VCT6 with W5500, TPS63070, USB-C power input, and isolated digital inputs for factory dashboards.
+Raspberry Pi HAT that turns EFM32GG11B820F2048 plus W5500 and TLV75733P into a Ethernet industrial I/O monitor for factory dashboards, with a microSD slot and isolated digital inputs.
+Pico-style carrier board based on CY8C6247BZI-D54, W5500, and MCP73831 for a Ethernet industrial I/O monitor for factory dashboards; include isolated digital inputs and a LiPo charger footprint.
+Compact Feather-compatible wing using MAX32666 + W5500 + BQ24074 as a Ethernet industrial I/O monitor for factory dashboards, featuring isolated digital inputs and a 4-20 mA input option.
+DIN-rail controller built around PIC32MZ2048EFH144, W5500, and MP2722 as a Ethernet industrial I/O monitor for factory dashboards, with an isolated RS-485 port and isolated digital inputs.
+panel-mount instrument PCB for a Ethernet industrial I/O monitor using ATmega4809 with W5500, AP63203, Grove connectors, and isolated digital inputs for factory dashboards.
+handheld tester PCB that turns ATmega32U4 plus W5500 and LAN8720A into a Ethernet industrial I/O monitor for factory dashboards, with a PoE-ready front end and isolated digital inputs.
+compact desktop module based on ATtiny3227, W5500, and TPS562201 for a Ethernet industrial I/O monitor for factory dashboards; include isolated digital inputs and an e-paper status panel.
+Compact wall-mount node using MSP430FR5994 + W5500 + MAX17048 as a Ethernet industrial I/O monitor for factory dashboards, featuring isolated digital inputs and a Qwiic expansion header.
+Eurocard lab board built around MSPM0G3507, W5500, and SN65HVD230 as a Ethernet industrial I/O monitor for factory dashboards, with a CAN transceiver footprint and isolated digital inputs.
+Arduino shield for a Ethernet industrial I/O monitor using CC2652R with W5500, TPS63070, USB-C power input, and isolated digital inputs for factory dashboards.
+Raspberry Pi HAT that turns CC3235SF plus W5500 and TLV75733P into a Ethernet industrial I/O monitor for factory dashboards, with a microSD slot and isolated digital inputs.
+Pico-style carrier board based on CH582M, W5500, and MCP73831 for a Ethernet industrial I/O monitor for factory dashboards; include isolated digital inputs and a LiPo charger footprint.
+Compact Feather-compatible wing using BL616 + W5500 + BQ24074 as a Ethernet industrial I/O monitor for factory dashboards, featuring isolated digital inputs and a 4-20 mA input option.
+DIN-rail controller built around RTL8720DN, W5500, and MP2722 as a Ethernet industrial I/O monitor for factory dashboards, with an isolated RS-485 port and isolated digital inputs.
+panel-mount instrument PCB for a Ethernet industrial I/O monitor using NUC120LE3AN with W5500, AP63203, Grove connectors, and isolated digital inputs for factory dashboards.
+handheld tester PCB that turns MIMXRT1021DAG5A plus W5500 and LAN8720A into a Ethernet industrial I/O monitor for factory dashboards, with a PoE-ready front end and isolated digital inputs.
+compact desktop module based on SAM9X60D1G, W5500, and TPS562201 for a Ethernet industrial I/O monitor for factory dashboards; include isolated digital inputs and an e-paper status panel.
+Compact wall-mount node using R7FA2E1A72DFL + W5500 + MAX17048 as a Ethernet industrial I/O monitor for factory dashboards, featuring isolated digital inputs and a Qwiic expansion header.
+Eurocard lab board built around MB9BF568R, W5500, and SN65HVD230 as a Ethernet industrial I/O monitor for factory dashboards, with a CAN transceiver footprint and isolated digital inputs.
+Arduino shield for a LoRa field telemetry board using RP2040 with SX1262, TPS63070, USB-C power input, and supercap backup for solar-powered weather stations.
+Raspberry Pi HAT that turns RP2350 plus SX1262 and TLV75733P into a LoRa field telemetry board for solar-powered weather stations, with a microSD slot and supercap backup.
+Pico-style carrier board based on ESP32-S3, SX1262, and MCP73831 for a LoRa field telemetry board for solar-powered weather stations; include supercap backup and a LiPo charger footprint.
+Compact Feather-compatible wing using ESP32-C3 + SX1262 + BQ24074 as a LoRa field telemetry board for solar-powered weather stations, featuring supercap backup and a 4-20 mA input option.
+DIN-rail controller built around ESP32-C6, SX1262, and MP2722 as a LoRa field telemetry board for solar-powered weather stations, with an isolated RS-485 port and supercap backup.
+panel-mount instrument PCB for a LoRa field telemetry board using ESP32-H2 with SX1262, AP63203, Grove connectors, and supercap backup for solar-powered weather stations.
+handheld tester PCB that turns nRF52840 plus SX1262 and LAN8720A into a LoRa field telemetry board for solar-powered weather stations, with a PoE-ready front end and supercap backup.
+compact desktop module based on nRF5340, SX1262, and TPS562201 for a LoRa field telemetry board for solar-powered weather stations; include supercap backup and an e-paper status panel.
+Compact wall-mount node using STM32F103C8T6 + SX1262 + MAX17048 as a LoRa field telemetry board for solar-powered weather stations, featuring supercap backup and a Qwiic expansion header.
+Eurocard lab board built around STM32G431CBT6, SX1262, and SN65HVD230 as a LoRa field telemetry board for solar-powered weather stations, with a CAN transceiver footprint and supercap backup.
+Arduino shield for a LoRa field telemetry board using STM32H743VIT6 with SX1262, TPS63070, USB-C power input, and supercap backup for solar-powered weather stations.
+Raspberry Pi HAT that turns STM32L432KCU6 plus SX1262 and TLV75733P into a LoRa field telemetry board for solar-powered weather stations, with a microSD slot and supercap backup.
+Pico-style carrier board based on STM32U585AII6, SX1262, and MCP73831 for a LoRa field telemetry board for solar-powered weather stations; include supercap backup and a LiPo charger footprint.
+Compact Feather-compatible wing using ATSAMD21G18A + SX1262 + BQ24074 as a LoRa field telemetry board for solar-powered weather stations, featuring supercap backup and a 4-20 mA input option.
+DIN-rail controller built around ATSAMD51J19A, SX1262, and MP2722 as a LoRa field telemetry board for solar-powered weather stations, with an isolated RS-485 port and supercap backup.
+panel-mount instrument PCB for a LoRa field telemetry board using RA4M1 with SX1262, AP63203, Grove connectors, and supercap backup for solar-powered weather stations.
+handheld tester PCB that turns RA6M5 plus SX1262 and LAN8720A into a LoRa field telemetry board for solar-powered weather stations, with a PoE-ready front end and supercap backup.
+compact desktop module based on LPC55S69JBD100, SX1262, and TPS562201 for a LoRa field telemetry board for solar-powered weather stations; include supercap backup and an e-paper status panel.
+Compact wall-mount node using i.MX RT1062 + SX1262 + MAX17048 as a LoRa field telemetry board for solar-powered weather stations, featuring supercap backup and a Qwiic expansion header.
+Eurocard lab board built around GD32VF103CBT6, SX1262, and SN65HVD230 as a LoRa field telemetry board for solar-powered weather stations, with a CAN transceiver footprint and supercap backup.
+Arduino shield for a LoRa field telemetry board using CH32V307VCT6 with SX1262, TPS63070, USB-C power input, and supercap backup for solar-powered weather stations.
+Raspberry Pi HAT that turns EFM32GG11B820F2048 plus SX1262 and TLV75733P into a LoRa field telemetry board for solar-powered weather stations, with a microSD slot and supercap backup.
+Pico-style carrier board based on CY8C6247BZI-D54, SX1262, and MCP73831 for a LoRa field telemetry board for solar-powered weather stations; include supercap backup and a LiPo charger footprint.
+Compact Feather-compatible wing using MAX32666 + SX1262 + BQ24074 as a LoRa field telemetry board for solar-powered weather stations, featuring supercap backup and a 4-20 mA input option.
+DIN-rail controller built around PIC32MZ2048EFH144, SX1262, and MP2722 as a LoRa field telemetry board for solar-powered weather stations, with an isolated RS-485 port and supercap backup.
+panel-mount instrument PCB for a LoRa field telemetry board using ATmega4809 with SX1262, AP63203, Grove connectors, and supercap backup for solar-powered weather stations.
+handheld tester PCB that turns ATmega32U4 plus SX1262 and LAN8720A into a LoRa field telemetry board for solar-powered weather stations, with a PoE-ready front end and supercap backup.
+compact desktop module based on ATtiny3227, SX1262, and TPS562201 for a LoRa field telemetry board for solar-powered weather stations; include supercap backup and an e-paper status panel.
+Compact wall-mount node using MSP430FR5994 + SX1262 + MAX17048 as a LoRa field telemetry board for solar-powered weather stations, featuring supercap backup and a Qwiic expansion header.
+Eurocard lab board built around MSPM0G3507, SX1262, and SN65HVD230 as a LoRa field telemetry board for solar-powered weather stations, with a CAN transceiver footprint and supercap backup.
+Arduino shield for a LoRa field telemetry board using CC2652R with SX1262, TPS63070, USB-C power input, and supercap backup for solar-powered weather stations.
+Raspberry Pi HAT that turns CC3235SF plus SX1262 and TLV75733P into a LoRa field telemetry board for solar-powered weather stations, with a microSD slot and supercap backup.
+Pico-style carrier board based on CH582M, SX1262, and MCP73831 for a LoRa field telemetry board for solar-powered weather stations; include supercap backup and a LiPo charger footprint.
+Compact Feather-compatible wing using BL616 + SX1262 + BQ24074 as a LoRa field telemetry board for solar-powered weather stations, featuring supercap backup and a 4-20 mA input option.
+DIN-rail controller built around RTL8720DN, SX1262, and MP2722 as a LoRa field telemetry board for solar-powered weather stations, with an isolated RS-485 port and supercap backup.
+panel-mount instrument PCB for a LoRa field telemetry board using NUC120LE3AN with SX1262, AP63203, Grove connectors, and supercap backup for solar-powered weather stations.
+handheld tester PCB that turns MIMXRT1021DAG5A plus SX1262 and LAN8720A into a LoRa field telemetry board for solar-powered weather stations, with a PoE-ready front end and supercap backup.
+compact desktop module based on SAM9X60D1G, SX1262, and TPS562201 for a LoRa field telemetry board for solar-powered weather stations; include supercap backup and an e-paper status panel.
+Compact wall-mount node using R7FA2E1A72DFL + SX1262 + MAX17048 as a LoRa field telemetry board for solar-powered weather stations, featuring supercap backup and a Qwiic expansion header.
+Eurocard lab board built around MB9BF568R, SX1262, and SN65HVD230 as a LoRa field telemetry board for solar-powered weather stations, with a CAN transceiver footprint and supercap backup.
+Arduino shield for a precision weigh-scale frontend using RP2040 with MCP3564R, TPS63070, USB-C power input, and a calibration button cluster for lab dispensers.
+Raspberry Pi HAT that turns RP2350 plus MCP3564R and TLV75733P into a precision weigh-scale frontend for lab dispensers, with a microSD slot and a calibration button cluster.
+Pico-style carrier board based on ESP32-S3, MCP3564R, and MCP73831 for a precision weigh-scale frontend for lab dispensers; include a calibration button cluster and a LiPo charger footprint.
+Compact Feather-compatible wing using ESP32-C3 + MCP3564R + BQ24074 as a precision weigh-scale frontend for lab dispensers, featuring a calibration button cluster and a 4-20 mA input option.
+DIN-rail controller built around ESP32-C6, MCP3564R, and MP2722 as a precision weigh-scale frontend for lab dispensers, with an isolated RS-485 port and a calibration button cluster.
+panel-mount instrument PCB for a precision weigh-scale frontend using ESP32-H2 with MCP3564R, AP63203, Grove connectors, and a calibration button cluster for lab dispensers.
+handheld tester PCB that turns nRF52840 plus MCP3564R and LAN8720A into a precision weigh-scale frontend for lab dispensers, with a PoE-ready front end and a calibration button cluster.
+compact desktop module based on nRF5340, MCP3564R, and TPS562201 for a precision weigh-scale frontend for lab dispensers; include a calibration button cluster and an e-paper status panel.
+Compact wall-mount node using STM32F103C8T6 + MCP3564R + MAX17048 as a precision weigh-scale frontend for lab dispensers, featuring a calibration button cluster and a Qwiic expansion header.
+Eurocard lab board built around STM32G431CBT6, MCP3564R, and SN65HVD230 as a precision weigh-scale frontend for lab dispensers, with a CAN transceiver footprint and a calibration button cluster.
+Arduino shield for a precision weigh-scale frontend using STM32H743VIT6 with MCP3564R, TPS63070, USB-C power input, and a calibration button cluster for lab dispensers.
+Raspberry Pi HAT that turns STM32L432KCU6 plus MCP3564R and TLV75733P into a precision weigh-scale frontend for lab dispensers, with a microSD slot and a calibration button cluster.
+Pico-style carrier board based on STM32U585AII6, MCP3564R, and MCP73831 for a precision weigh-scale frontend for lab dispensers; include a calibration button cluster and a LiPo charger footprint.
+Compact Feather-compatible wing using ATSAMD21G18A + MCP3564R + BQ24074 as a precision weigh-scale frontend for lab dispensers, featuring a calibration button cluster and a 4-20 mA input option.
+DIN-rail controller built around ATSAMD51J19A, MCP3564R, and MP2722 as a precision weigh-scale frontend for lab dispensers, with an isolated RS-485 port and a calibration button cluster.
+panel-mount instrument PCB for a precision weigh-scale frontend using RA4M1 with MCP3564R, AP63203, Grove connectors, and a calibration button cluster for lab dispensers.
+handheld tester PCB that turns RA6M5 plus MCP3564R and LAN8720A into a precision weigh-scale frontend for lab dispensers, with a PoE-ready front end and a calibration button cluster.
+compact desktop module based on LPC55S69JBD100, MCP3564R, and TPS562201 for a precision weigh-scale frontend for lab dispensers; include a calibration button cluster and an e-paper status panel.
+Compact wall-mount node using i.MX RT1062 + MCP3564R + MAX17048 as a precision weigh-scale frontend for lab dispensers, featuring a calibration button cluster and a Qwiic expansion header.
+Eurocard lab board built around GD32VF103CBT6, MCP3564R, and SN65HVD230 as a precision weigh-scale frontend for lab dispensers, with a CAN transceiver footprint and a calibration button cluster.
+Arduino shield for a precision weigh-scale frontend using CH32V307VCT6 with MCP3564R, TPS63070, USB-C power input, and a calibration button cluster for lab dispensers.
+Raspberry Pi HAT that turns EFM32GG11B820F2048 plus MCP3564R and TLV75733P into a precision weigh-scale frontend for lab dispensers, with a microSD slot and a calibration button cluster.
+Pico-style carrier board based on CY8C6247BZI-D54, MCP3564R, and MCP73831 for a precision weigh-scale frontend for lab dispensers; include a calibration button cluster and a LiPo charger footprint.
+Compact Feather-compatible wing using MAX32666 + MCP3564R + BQ24074 as a precision weigh-scale frontend for lab dispensers, featuring a calibration button cluster and a 4-20 mA input option.
+DIN-rail controller built around PIC32MZ2048EFH144, MCP3564R, and MP2722 as a precision weigh-scale frontend for lab dispensers, with an isolated RS-485 port and a calibration button cluster.
+panel-mount instrument PCB for a precision weigh-scale frontend using ATmega4809 with MCP3564R, AP63203, Grove connectors, and a calibration button cluster for lab dispensers.
+handheld tester PCB that turns ATmega32U4 plus MCP3564R and LAN8720A into a precision weigh-scale frontend for lab dispensers, with a PoE-ready front end and a calibration button cluster.
+compact desktop module based on ATtiny3227, MCP3564R, and TPS562201 for a precision weigh-scale frontend for lab dispensers; include a calibration button cluster and an e-paper status panel.
+Compact wall-mount node using MSP430FR5994 + MCP3564R + MAX17048 as a precision weigh-scale frontend for lab dispensers, featuring a calibration button cluster and a Qwiic expansion header.
+Eurocard lab board built around MSPM0G3507, MCP3564R, and SN65HVD230 as a precision weigh-scale frontend for lab dispensers, with a CAN transceiver footprint and a calibration button cluster.
+Arduino shield for a precision weigh-scale frontend using CC2652R with MCP3564R, TPS63070, USB-C power input, and a calibration button cluster for lab dispensers.
+Raspberry Pi HAT that turns CC3235SF plus MCP3564R and TLV75733P into a precision weigh-scale frontend for lab dispensers, with a microSD slot and a calibration button cluster.
+Pico-style carrier board based on CH582M, MCP3564R, and MCP73831 for a precision weigh-scale frontend for lab dispensers; include a calibration button cluster and a LiPo charger footprint.
+Compact Feather-compatible wing using BL616 + MCP3564R + BQ24074 as a precision weigh-scale frontend for lab dispensers, featuring a calibration button cluster and a 4-20 mA input option.
+DIN-rail controller built around RTL8720DN, MCP3564R, and MP2722 as a precision weigh-scale frontend for lab dispensers, with an isolated RS-485 port and a calibration button cluster.
+panel-mount instrument PCB for a precision weigh-scale frontend using NUC120LE3AN with MCP3564R, AP63203, Grove connectors, and a calibration button cluster for lab dispensers.
+handheld tester PCB that turns MIMXRT1021DAG5A plus MCP3564R and LAN8720A into a precision weigh-scale frontend for lab dispensers, with a PoE-ready front end and a calibration button cluster.
+compact desktop module based on SAM9X60D1G, MCP3564R, and TPS562201 for a precision weigh-scale frontend for lab dispensers; include a calibration button cluster and an e-paper status panel.
+Compact wall-mount node using R7FA2E1A72DFL + MCP3564R + MAX17048 as a precision weigh-scale frontend for lab dispensers, featuring a calibration button cluster and a Qwiic expansion header.
+Eurocard lab board built around MB9BF568R, MCP3564R, and SN65HVD230 as a precision weigh-scale frontend for lab dispensers, with a CAN transceiver footprint and a calibration button cluster.

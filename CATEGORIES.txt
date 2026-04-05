@@ -1,0 +1,25 @@
+Power and Energy
+Battery and Charging
+Sensors and Data Acquisition
+Environmental Monitoring
+Motion and Position Control
+Motor Drives and Robotics
+Audio and Music
+Display and Human Interface
+Lighting and LED Control
+Wireless IoT
+Wired Networking and Industrial Bus
+Security and Access Control
+Test and Measurement
+Lab Automation
+Home Automation
+Wearables and Personal Devices
+Health and Wellness
+Automotive and Mobility
+RF and Radio
+Computer and USB Peripherals
+Data Logging and Storage
+Timing and Scheduling
+Education and STEM
+Agriculture and Outdoor Systems
+Smart Appliances and Utilities

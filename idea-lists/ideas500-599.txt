@@ -1,0 +1,100 @@
+Arduino shield for a haptic feedback controller using CH32V307VCT6 with DRV2605L, TPS63070, USB-C power input, and capacitive buttons for tactile UI experiments.
+Raspberry Pi HAT that turns EFM32GG11B820F2048 plus DRV2605L and TLV75733P into a haptic feedback controller for tactile UI experiments, with a microSD slot and capacitive buttons.
+Pico-style carrier board based on CY8C6247BZI-D54, DRV2605L, and MCP73831 for a haptic feedback controller for tactile UI experiments; include capacitive buttons and a LiPo charger footprint.
+Compact Feather-compatible wing using MAX32666 + DRV2605L + BQ24074 as a haptic feedback controller for tactile UI experiments, featuring capacitive buttons and a 4-20 mA input option.
+DIN-rail controller built around PIC32MZ2048EFH144, DRV2605L, and MP2722 as a haptic feedback controller for tactile UI experiments, with an isolated RS-485 port and capacitive buttons.
+panel-mount instrument PCB for a haptic feedback controller using ATmega4809 with DRV2605L, AP63203, Grove connectors, and capacitive buttons for tactile UI experiments.
+handheld tester PCB that turns ATmega32U4 plus DRV2605L and LAN8720A into a haptic feedback controller for tactile UI experiments, with a PoE-ready front end and capacitive buttons.
+compact desktop module based on ATtiny3227, DRV2605L, and TPS562201 for a haptic feedback controller for tactile UI experiments; include capacitive buttons and an e-paper status panel.
+Compact wall-mount node using MSP430FR5994 + DRV2605L + MAX17048 as a haptic feedback controller for tactile UI experiments, featuring capacitive buttons and a Qwiic expansion header.
+Eurocard lab board built around MSPM0G3507, DRV2605L, and SN65HVD230 as a haptic feedback controller for tactile UI experiments, with a CAN transceiver footprint and capacitive buttons.
+Arduino shield for a haptic feedback controller using CC2652R with DRV2605L, TPS63070, USB-C power input, and capacitive buttons for tactile UI experiments.
+Raspberry Pi HAT that turns CC3235SF plus DRV2605L and TLV75733P into a haptic feedback controller for tactile UI experiments, with a microSD slot and capacitive buttons.
+Pico-style carrier board based on CH582M, DRV2605L, and MCP73831 for a haptic feedback controller for tactile UI experiments; include capacitive buttons and a LiPo charger footprint.
+Compact Feather-compatible wing using BL616 + DRV2605L + BQ24074 as a haptic feedback controller for tactile UI experiments, featuring capacitive buttons and a 4-20 mA input option.
+DIN-rail controller built around RTL8720DN, DRV2605L, and MP2722 as a haptic feedback controller for tactile UI experiments, with an isolated RS-485 port and capacitive buttons.
+panel-mount instrument PCB for a haptic feedback controller using NUC120LE3AN with DRV2605L, AP63203, Grove connectors, and capacitive buttons for tactile UI experiments.
+handheld tester PCB that turns MIMXRT1021DAG5A plus DRV2605L and LAN8720A into a haptic feedback controller for tactile UI experiments, with a PoE-ready front end and capacitive buttons.
+compact desktop module based on SAM9X60D1G, DRV2605L, and TPS562201 for a haptic feedback controller for tactile UI experiments; include capacitive buttons and an e-paper status panel.
+Compact wall-mount node using R7FA2E1A72DFL + DRV2605L + MAX17048 as a haptic feedback controller for tactile UI experiments, featuring capacitive buttons and a Qwiic expansion header.
+Eurocard lab board built around MB9BF568R, DRV2605L, and SN65HVD230 as a haptic feedback controller for tactile UI experiments, with a CAN transceiver footprint and capacitive buttons.
+Arduino shield for a quiet stepper motion module using RP2040 with TMC2209, TPS63070, USB-C power input, and limit switch inputs for camera sliders.
+Raspberry Pi HAT that turns RP2350 plus TMC2209 and TLV75733P into a quiet stepper motion module for camera sliders, with a microSD slot and limit switch inputs.
+Pico-style carrier board based on ESP32-S3, TMC2209, and MCP73831 for a quiet stepper motion module for camera sliders; include limit switch inputs and a LiPo charger footprint.
+Compact Feather-compatible wing using ESP32-C3 + TMC2209 + BQ24074 as a quiet stepper motion module for camera sliders, featuring limit switch inputs and a 4-20 mA input option.
+DIN-rail controller built around ESP32-C6, TMC2209, and MP2722 as a quiet stepper motion module for camera sliders, with an isolated RS-485 port and limit switch inputs.
+panel-mount instrument PCB for a quiet stepper motion module using ESP32-H2 with TMC2209, AP63203, Grove connectors, and limit switch inputs for camera sliders.
+handheld tester PCB that turns nRF52840 plus TMC2209 and LAN8720A into a quiet stepper motion module for camera sliders, with a PoE-ready front end and limit switch inputs.
+compact desktop module based on nRF5340, TMC2209, and TPS562201 for a quiet stepper motion module for camera sliders; include limit switch inputs and an e-paper status panel.
+Compact wall-mount node using STM32F103C8T6 + TMC2209 + MAX17048 as a quiet stepper motion module for camera sliders, featuring limit switch inputs and a Qwiic expansion header.
+Eurocard lab board built around STM32G431CBT6, TMC2209, and SN65HVD230 as a quiet stepper motion module for camera sliders, with a CAN transceiver footprint and limit switch inputs.
+Arduino shield for a quiet stepper motion module using STM32H743VIT6 with TMC2209, TPS63070, USB-C power input, and limit switch inputs for camera sliders.
+Raspberry Pi HAT that turns STM32L432KCU6 plus TMC2209 and TLV75733P into a quiet stepper motion module for camera sliders, with a microSD slot and limit switch inputs.
+Pico-style carrier board based on STM32U585AII6, TMC2209, and MCP73831 for a quiet stepper motion module for camera sliders; include limit switch inputs and a LiPo charger footprint.
+Compact Feather-compatible wing using ATSAMD21G18A + TMC2209 + BQ24074 as a quiet stepper motion module for camera sliders, featuring limit switch inputs and a 4-20 mA input option.
+DIN-rail controller built around ATSAMD51J19A, TMC2209, and MP2722 as a quiet stepper motion module for camera sliders, with an isolated RS-485 port and limit switch inputs.
+panel-mount instrument PCB for a quiet stepper motion module using RA4M1 with TMC2209, AP63203, Grove connectors, and limit switch inputs for camera sliders.
+handheld tester PCB that turns RA6M5 plus TMC2209 and LAN8720A into a quiet stepper motion module for camera sliders, with a PoE-ready front end and limit switch inputs.
+compact desktop module based on LPC55S69JBD100, TMC2209, and TPS562201 for a quiet stepper motion module for camera sliders; include limit switch inputs and an e-paper status panel.
+Compact wall-mount node using i.MX RT1062 + TMC2209 + MAX17048 as a quiet stepper motion module for camera sliders, featuring limit switch inputs and a Qwiic expansion header.
+Eurocard lab board built around GD32VF103CBT6, TMC2209, and SN65HVD230 as a quiet stepper motion module for camera sliders, with a CAN transceiver footprint and limit switch inputs.
+Arduino shield for a quiet stepper motion module using CH32V307VCT6 with TMC2209, TPS63070, USB-C power input, and limit switch inputs for camera sliders.
+Raspberry Pi HAT that turns EFM32GG11B820F2048 plus TMC2209 and TLV75733P into a quiet stepper motion module for camera sliders, with a microSD slot and limit switch inputs.
+Pico-style carrier board based on CY8C6247BZI-D54, TMC2209, and MCP73831 for a quiet stepper motion module for camera sliders; include limit switch inputs and a LiPo charger footprint.
+Compact Feather-compatible wing using MAX32666 + TMC2209 + BQ24074 as a quiet stepper motion module for camera sliders, featuring limit switch inputs and a 4-20 mA input option.
+DIN-rail controller built around PIC32MZ2048EFH144, TMC2209, and MP2722 as a quiet stepper motion module for camera sliders, with an isolated RS-485 port and limit switch inputs.
+panel-mount instrument PCB for a quiet stepper motion module using ATmega4809 with TMC2209, AP63203, Grove connectors, and limit switch inputs for camera sliders.
+handheld tester PCB that turns ATmega32U4 plus TMC2209 and LAN8720A into a quiet stepper motion module for camera sliders, with a PoE-ready front end and limit switch inputs.
+compact desktop module based on ATtiny3227, TMC2209, and TPS562201 for a quiet stepper motion module for camera sliders; include limit switch inputs and an e-paper status panel.
+Compact wall-mount node using MSP430FR5994 + TMC2209 + MAX17048 as a quiet stepper motion module for camera sliders, featuring limit switch inputs and a Qwiic expansion header.
+Eurocard lab board built around MSPM0G3507, TMC2209, and SN65HVD230 as a quiet stepper motion module for camera sliders, with a CAN transceiver footprint and limit switch inputs.
+Arduino shield for a quiet stepper motion module using CC2652R with TMC2209, TPS63070, USB-C power input, and limit switch inputs for camera sliders.
+Raspberry Pi HAT that turns CC3235SF plus TMC2209 and TLV75733P into a quiet stepper motion module for camera sliders, with a microSD slot and limit switch inputs.
+Pico-style carrier board based on CH582M, TMC2209, and MCP73831 for a quiet stepper motion module for camera sliders; include limit switch inputs and a LiPo charger footprint.
+Compact Feather-compatible wing using BL616 + TMC2209 + BQ24074 as a quiet stepper motion module for camera sliders, featuring limit switch inputs and a 4-20 mA input option.
+DIN-rail controller built around RTL8720DN, TMC2209, and MP2722 as a quiet stepper motion module for camera sliders, with an isolated RS-485 port and limit switch inputs.
+panel-mount instrument PCB for a quiet stepper motion module using NUC120LE3AN with TMC2209, AP63203, Grove connectors, and limit switch inputs for camera sliders.
+handheld tester PCB that turns MIMXRT1021DAG5A plus TMC2209 and LAN8720A into a quiet stepper motion module for camera sliders, with a PoE-ready front end and limit switch inputs.
+compact desktop module based on SAM9X60D1G, TMC2209, and TPS562201 for a quiet stepper motion module for camera sliders; include limit switch inputs and an e-paper status panel.
+Compact wall-mount node using R7FA2E1A72DFL + TMC2209 + MAX17048 as a quiet stepper motion module for camera sliders, featuring limit switch inputs and a Qwiic expansion header.
+Eurocard lab board built around MB9BF568R, TMC2209, and SN65HVD230 as a quiet stepper motion module for camera sliders, with a CAN transceiver footprint and limit switch inputs.
+Arduino shield for a DC motor actuator board using RP2040 with DRV8874, TPS63070, USB-C power input, and current fault reporting for valve control.
+Raspberry Pi HAT that turns RP2350 plus DRV8874 and TLV75733P into a DC motor actuator board for valve control, with a microSD slot and current fault reporting.
+Pico-style carrier board based on ESP32-S3, DRV8874, and MCP73831 for a DC motor actuator board for valve control; include current fault reporting and a LiPo charger footprint.
+Compact Feather-compatible wing using ESP32-C3 + DRV8874 + BQ24074 as a DC motor actuator board for valve control, featuring current fault reporting and a 4-20 mA input option.
+DIN-rail controller built around ESP32-C6, DRV8874, and MP2722 as a DC motor actuator board for valve control, with an isolated RS-485 port and current fault reporting.
+panel-mount instrument PCB for a DC motor actuator board using ESP32-H2 with DRV8874, AP63203, Grove connectors, and current fault reporting for valve control.
+handheld tester PCB that turns nRF52840 plus DRV8874 and LAN8720A into a DC motor actuator board for valve control, with a PoE-ready front end and current fault reporting.
+compact desktop module based on nRF5340, DRV8874, and TPS562201 for a DC motor actuator board for valve control; include current fault reporting and an e-paper status panel.
+Compact wall-mount node using STM32F103C8T6 + DRV8874 + MAX17048 as a DC motor actuator board for valve control, featuring current fault reporting and a Qwiic expansion header.
+Eurocard lab board built around STM32G431CBT6, DRV8874, and SN65HVD230 as a DC motor actuator board for valve control, with a CAN transceiver footprint and current fault reporting.
+Arduino shield for a DC motor actuator board using STM32H743VIT6 with DRV8874, TPS63070, USB-C power input, and current fault reporting for valve control.
+Raspberry Pi HAT that turns STM32L432KCU6 plus DRV8874 and TLV75733P into a DC motor actuator board for valve control, with a microSD slot and current fault reporting.
+Pico-style carrier board based on STM32U585AII6, DRV8874, and MCP73831 for a DC motor actuator board for valve control; include current fault reporting and a LiPo charger footprint.
+Compact Feather-compatible wing using ATSAMD21G18A + DRV8874 + BQ24074 as a DC motor actuator board for valve control, featuring current fault reporting and a 4-20 mA input option.
+DIN-rail controller built around ATSAMD51J19A, DRV8874, and MP2722 as a DC motor actuator board for valve control, with an isolated RS-485 port and current fault reporting.
+panel-mount instrument PCB for a DC motor actuator board using RA4M1 with DRV8874, AP63203, Grove connectors, and current fault reporting for valve control.
+handheld tester PCB that turns RA6M5 plus DRV8874 and LAN8720A into a DC motor actuator board for valve control, with a PoE-ready front end and current fault reporting.
+compact desktop module based on LPC55S69JBD100, DRV8874, and TPS562201 for a DC motor actuator board for valve control; include current fault reporting and an e-paper status panel.
+Compact wall-mount node using i.MX RT1062 + DRV8874 + MAX17048 as a DC motor actuator board for valve control, featuring current fault reporting and a Qwiic expansion header.
+Eurocard lab board built around GD32VF103CBT6, DRV8874, and SN65HVD230 as a DC motor actuator board for valve control, with a CAN transceiver footprint and current fault reporting.
+Arduino shield for a DC motor actuator board using CH32V307VCT6 with DRV8874, TPS63070, USB-C power input, and current fault reporting for valve control.
+Raspberry Pi HAT that turns EFM32GG11B820F2048 plus DRV8874 and TLV75733P into a DC motor actuator board for valve control, with a microSD slot and current fault reporting.
+Pico-style carrier board based on CY8C6247BZI-D54, DRV8874, and MCP73831 for a DC motor actuator board for valve control; include current fault reporting and a LiPo charger footprint.
+Compact Feather-compatible wing using MAX32666 + DRV8874 + BQ24074 as a DC motor actuator board for valve control, featuring current fault reporting and a 4-20 mA input option.
+DIN-rail controller built around PIC32MZ2048EFH144, DRV8874, and MP2722 as a DC motor actuator board for valve control, with an isolated RS-485 port and current fault reporting.
+panel-mount instrument PCB for a DC motor actuator board using ATmega4809 with DRV8874, AP63203, Grove connectors, and current fault reporting for valve control.
+handheld tester PCB that turns ATmega32U4 plus DRV8874 and LAN8720A into a DC motor actuator board for valve control, with a PoE-ready front end and current fault reporting.
+compact desktop module based on ATtiny3227, DRV8874, and TPS562201 for a DC motor actuator board for valve control; include current fault reporting and an e-paper status panel.
+Compact wall-mount node using MSP430FR5994 + DRV8874 + MAX17048 as a DC motor actuator board for valve control, featuring current fault reporting and a Qwiic expansion header.
+Eurocard lab board built around MSPM0G3507, DRV8874, and SN65HVD230 as a DC motor actuator board for valve control, with a CAN transceiver footprint and current fault reporting.
+Arduino shield for a DC motor actuator board using CC2652R with DRV8874, TPS63070, USB-C power input, and current fault reporting for valve control.
+Raspberry Pi HAT that turns CC3235SF plus DRV8874 and TLV75733P into a DC motor actuator board for valve control, with a microSD slot and current fault reporting.
+Pico-style carrier board based on CH582M, DRV8874, and MCP73831 for a DC motor actuator board for valve control; include current fault reporting and a LiPo charger footprint.
+Compact Feather-compatible wing using BL616 + DRV8874 + BQ24074 as a DC motor actuator board for valve control, featuring current fault reporting and a 4-20 mA input option.
+DIN-rail controller built around RTL8720DN, DRV8874, and MP2722 as a DC motor actuator board for valve control, with an isolated RS-485 port and current fault reporting.
+panel-mount instrument PCB for a DC motor actuator board using NUC120LE3AN with DRV8874, AP63203, Grove connectors, and current fault reporting for valve control.
+handheld tester PCB that turns MIMXRT1021DAG5A plus DRV8874 and LAN8720A into a DC motor actuator board for valve control, with a PoE-ready front end and current fault reporting.
+compact desktop module based on SAM9X60D1G, DRV8874, and TPS562201 for a DC motor actuator board for valve control; include current fault reporting and an e-paper status panel.
+Compact wall-mount node using R7FA2E1A72DFL + DRV8874 + MAX17048 as a DC motor actuator board for valve control, featuring current fault reporting and a Qwiic expansion header.
+Eurocard lab board built around MB9BF568R, DRV8874, and SN65HVD230 as a DC motor actuator board for valve control, with a CAN transceiver footprint and current fault reporting.
