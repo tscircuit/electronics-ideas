@@ -16,7 +16,7 @@ Home sump pump cycle logger with a float switch input that records submersible A
 Machine tool coolant concentration logger using TI MSP430FR2433 that samples a conductivity probe and stores drift and alarm trends in on-chip FRAM.
 HVAC filter-change tracker panel insert that logs ECM blower runtime and user-confirmed replacements, producing a "due" history for tenants.
 Ultrasonic cleaner cycle recorder using RP2040 that logs heater temperature, timer settings, and lid-open interruptions for lab traceability.
-Museum display case microclimate logger that records temperature, humidity, and door access events with weekly roll-up summaries for conservation staff.
+Archive cabinet microclimate logger that records temperature, humidity, and door access events with weekly roll-up summaries for conservation staff.
 Railcar bearing temperature history tag using STM32L072 and a MAX31865 RTD front end to log overheat events and full temperature traces.
 Smart welding cart gas usage logger that counts regulator flow pulses and records arc-on time to estimate cylinder depletion per job.
 Industrial air compressor duty-cycle logger using ESP32-C3 and an INA219 to record single-phase induction motor current draw, run time, and cut-in/cut-out pressures.

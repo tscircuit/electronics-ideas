@@ -28,7 +28,7 @@ A hospital sharps-container lid that senses fill level and sends a pickup reques
 A grain silo cap that measures headspace temperature, humidity, and CO2 and reports spoilage risk to a farm gateway.
 A steam-trap leak listener that identifies failed traps by ultrasonic signature and reports energy-waste alarms across a sub-GHz mesh.
 A forklift seatbelt compliance beacon that detects latch state and pushes exceptions to fleet management when trucks move unbelted.
-A museum display-case security tag that detects tilt, vibration, and opening events and alerts staff if an exhibit is disturbed.
+A gallery exhibit security tag that detects tilt, vibration, and opening events and alerts staff if an exhibit is disturbed.
 An RV holding-tank level sender that uses ultrasonic ranging to show fresh/gray/black levels on a phone even when boondocking.
 A manual irrigation canal gate position reporter that clips onto the handwheel to log openings and notify downstream users of changes.
 A greenhouse roof-vent opener that drives a 12V linear actuator and reports vent position, inside temperature, and fault jams to the grower.

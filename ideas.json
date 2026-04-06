@@ -1,7 +1,7 @@
 [
   {
     "idea": "Solar charge combiner with per-string fusing, surge protection, and low-temperature disconnect for a remote gate opener battery system.",
-    "category": "Battery and Charging"
+    "category": "Power and Energy"
   },
   {
     "idea": "48 V telecom backup shelf monitor that clamps onto battery leads to log discharge currents, temperatures, and string imbalance for maintenance crews.",
@@ -9,7 +9,7 @@
   },
   {
     "idea": "Portable inverter health dashboard for a food truck that shows real-time load watts, battery runtime estimate, and alerts for loose neutral/ground faults.",
-    "category": "Test and Measurement"
+    "category": "Power and Energy"
   },
   {
     "idea": "Generator auto-start and transfer panel for an off-grid cabin that supervises battery voltage, warms up the generator, and switches loads with interlocked contactors.",
@@ -57,7 +57,7 @@
   },
   {
     "idea": "Thermoelectric generator charger for campsite stoves that buffers power into a small battery and provides stable USB output for phones and headlamps.",
-    "category": "Battery and Charging"
+    "category": "Power and Energy"
   },
   {
     "idea": "Inductive charging floor pad for a warehouse AGV that aligns via guide rails and negotiates charge current based on pad temperature.",
@@ -81,7 +81,7 @@
   },
   {
     "idea": "Remote gate-opener solar charge combiner built around LTC4368 surge stopper and TI bq24650 solar charger for lightning-prone rural installs.",
-    "category": "Battery and Charging"
+    "category": "Power and Energy"
   },
   {
     "idea": "48 V telecom battery shelf monitor using INA228 shunt monitor and STM32G0 MCU to log string currents and raise SNMP-style alarms via RS-485.",
@@ -89,7 +89,7 @@
   },
   {
     "idea": "Food-truck inverter dashboard powered by ESP32-S3 with ADS1115 front-end to trend AC load, DC bus ripple, and battery sag on a phone app.",
-    "category": "Data Logging and Storage"
+    "category": "Power and Energy"
   },
   {
     "idea": "Cabin generator auto-start panel using Microchip ATSAMD21 to sequence glow plug, starter relay, and transfer contactor with lockout timing.",
@@ -109,11 +109,11 @@
   },
   {
     "idea": "Supercapacitor ride-through brick for a PLC cabinet using Analog Devices LTC3350 to bridge brownouts without rebooting controls.",
-    "category": "Test and Measurement"
+    "category": "Power and Energy"
   },
   {
     "idea": "Wallbox EVSE energy meter using ADE7953 to measure kWh and detect ground leakage trends for preventative maintenance.",
-    "category": "Data Logging and Storage"
+    "category": "Power and Energy"
   },
   {
     "idea": "Bidirectional 12 V<->48 V DC-DC module using TI LM5170 for telecom racks that need battery sharing between buses.",
@@ -121,7 +121,7 @@
   },
   {
     "idea": "Indoor energy-harvesting light-switch that uses TI BQ25570 to trickle-charge a coin cell from small solar/thermal sources for years of life.",
-    "category": "Power and Energy"
+    "category": "Battery and Charging"
   },
   {
     "idea": "Battery impedance and internal-resistance tester based on AD5940 to grade packs for reuse in solar storage banks.",
@@ -173,7 +173,7 @@
   },
   {
     "idea": "A USB-C field charger for a drone crew case built around TI BQ25792 charges 3S-6S Li-ion packs from any PD source without adapters.",
-    "category": "Wireless IoT"
+    "category": "Battery and Charging"
   },
   {
     "idea": "A battery swap station for handheld barcode scanners using Maxim MAX77976 fast-charges two hot-swapped packs and enforces temperature derating per bay.",
@@ -185,11 +185,11 @@
   },
   {
     "idea": "A solar-powered lead-acid maintainer for a farm gate controller using Analog Devices LT8490 performs MPPT and long-term float without overcharge.",
-    "category": "Battery and Charging"
+    "category": "Power and Energy"
   },
   {
     "idea": "A 1-8S LiFePO4 pack tester/charger using TI BQ34Z100-G1 estimates SOC/SOH accurately and prints a service report after a full cycle.",
-    "category": "Test and Measurement"
+    "category": "Battery and Charging"
   },
   {
     "idea": "A multi-slot 18650/21700 capacity grader using Maxim MAX17262 displays remaining capacity, internal resistance, and self-discharge over a 24-hour soak.",
@@ -281,11 +281,11 @@
   },
   {
     "idea": "A forklift battery service cart that equalizes and logs each 24V lead-acid string during scheduled maintenance and prints a pass/fail ticket.",
-    "category": "Data Logging and Storage"
+    "category": "Battery and Charging"
   },
   {
     "idea": "A locking charging drawer insert for a retail backroom that powers dozens of USB gadgets while securing cables to prevent walk-offs.",
-    "category": "Security and Access Control"
+    "category": "Battery and Charging"
   },
   {
     "idea": "A clip-on tester that measures cordless tool pack impedance and recommends whether to fast-charge, balance, or retire the pack.",
@@ -297,7 +297,7 @@
   },
   {
     "idea": "A wall-mounted charging holster for a handheld thermal camera that auto-uploads photos when docked and prevents storage in an over-discharged state.",
-    "category": "Wireless IoT"
+    "category": "Battery and Charging"
   },
   {
     "idea": "A weatherproof pole-top solar charger kit for a remote gate opener with linear actuator that includes surge protection and tool-free battery access.",
@@ -305,7 +305,7 @@
   },
   {
     "idea": "A battery-backed USB hub for point-of-sale terminals that keeps card readers alive through brief power cuts and reports runtime on a small display.",
-    "category": "Power and Energy"
+    "category": "Battery and Charging"
   },
   {
     "idea": "A portable charging fixture for hearing-aid cases that combines timed charging with a UV-C sanitizing chamber and lid interlock.",
@@ -349,11 +349,11 @@
   },
   {
     "idea": "In-line water meter retrofit that reads a turbine Hall sensor and logs flow totals for a garden irrigation system.",
-    "category": "Data Logging and Storage"
+    "category": "Test and Measurement"
   },
   {
     "idea": "High-side battery coulomb counter dongle using LTC2944 for e-bike pack validation during ride tests.",
-    "category": "Data Logging and Storage"
+    "category": "Test and Measurement"
   },
   {
     "idea": "Door-cycle and slam recorder that sticks inside a refrigerator to count openings and measure closure impact for warranty analysis.",
@@ -361,11 +361,11 @@
   },
   {
     "idea": "Multi-gas sampling head using Sensirion SCD41 and Bosch BME688 to log CO2, VOC trends, humidity, and temperature in classrooms.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "Soil moisture probe interface for greenhouse benches that excites capacitive probes and maps zones to identify clogged drippers.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Agriculture and Outdoor Systems"
   },
   {
     "idea": "Rotary torque wrench adapter using HX711 and a strain gauge bridge to capture peak torque and angle for fastener QA.",
@@ -393,7 +393,7 @@
   },
   {
     "idea": "8-channel isolated thermocouple front end using ADuM5401 and MAX31855 to monitor multiple furnace zones safely.",
-    "category": "Data Logging and Storage"
+    "category": "Test and Measurement"
   },
   {
     "idea": "Conveyor photoeye event logger that timestamps part counts and jam occurrences for a packaging line.",
@@ -405,15 +405,15 @@
   },
   {
     "idea": "Handheld anemometer head that logs HVAC vent airflow and temperature for balancing reports.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "Multi-axis IMU recorder using ICM-42688-P to capture forklift shock and vibration during warehouse operation.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "UV exposure badge reader station that scans photodiode badges and logs cumulative UV dose for outdoor crews.",
-    "category": "Health and Wellness"
+    "category": "Security and Access Control"
   },
   {
     "idea": "Six-channel bridge sensor conditioner using AD8421 instrumentation amps feeding AD7193 to measure load pins on a structural test rig.",
@@ -429,7 +429,7 @@
   },
   {
     "idea": "Refrigerant line temperature and clamp-on pressure transducer logger for HVAC service diagnostics.",
-    "category": "Environmental Monitoring"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "Optical pulse oximetry AFE using MAX86141 to acquire PPG data for a wearable development strap.",
@@ -437,7 +437,7 @@
   },
   {
     "idea": "Fuel tank level and slosh analyzer that reads a resistive sender at high rate and outputs a stability metric for marine vessels.",
-    "category": "Automotive and Mobility"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "24-bit seismic geophone digitizer using LTC2500-32 to record low-frequency ground vibration for site surveys.",
@@ -465,7 +465,7 @@
   },
   {
     "idea": "Magnetic flux leakage sensor front end using TI ADS127L01 to digitize coil signals for steel cable inspection.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Test and Measurement"
   },
   {
     "idea": "Touch-force mapping pad that multiplexes a matrix of force-sensitive resistors to profile pressure distribution in footwear fitting.",
@@ -489,10 +489,10 @@
   },
   {
     "idea": "School classroom CO2 beacon uses an nRF52840 plus a Sensirion SCD41 to show a big traffic-light status and upload daily ventilation scorecards.",
-    "category": "Wireless IoT"
+    "category": "Environmental Monitoring"
   },
   {
-    "idea": "Museum display-case air quality logger built on an RP2040 with a Bosch BME688 stores months of temperature/humidity/VOC trends and snapshots events when the case is opened.",
+    "idea": "Archive specimen cabinet air quality logger built on an RP2040 with a Bosch BME688 stores months of temperature/humidity/VOC trends and snapshots events when the cabinet is opened.",
     "category": "Environmental Monitoring"
   },
   {
@@ -509,7 +509,7 @@
   },
   {
     "idea": "Beehive brood-frame tag uses an nRF52810 with an SHT40 to log internal temperature/humidity swings that indicate queen loss or ventilation problems.",
-    "category": "Environmental Monitoring"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "Refrigerated truck cargo \"air event recorder\" uses an NXP LPC55S69 with a Sensirion SCD30 to timestamp CO2 and temperature excursions during deliveries.",
@@ -521,11 +521,11 @@
   },
   {
     "idea": "Water-treatment chlorine residual analyzer uses an STM32L4 with a TI LMP91000 to read an amperometric probe and alarm when disinfection falls out of spec.",
-    "category": "Environmental Monitoring"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "Clip-on HVAC filter pressure and runtime tracker uses an ESP32-C3 with a Honeywell ABP2 differential pressure sensor to predict clogging and notify before airflow drops.",
-    "category": "Environmental Monitoring"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "Wind-turbine nacelle humidity and vibration watchdog uses an STM32F303 with an ADXL355 accelerometer to correlate moisture ingress with bearing vibration signatures.",
@@ -533,7 +533,7 @@
   },
   {
     "idea": "Greenhouse irrigation water pH/EC dock uses a SAMD21 with an ADS1115 to digitize probe outputs and log drift for recalibration reminders.",
-    "category": "Environmental Monitoring"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "Livestock barn ammonia hotspot alarm uses an ESP32-S3 with a TI LMP91000 electrochemical front-end to trend NH3 peaks and trigger ventilation warnings.",
@@ -557,7 +557,7 @@
   },
   {
     "idea": "Cleanroom particle sampler uses an NXP i.MX RT1062 with a TMC6300 BLDC driver to regulate a calibrated blower and store compliant particle-count reports.",
-    "category": "Environmental Monitoring"
+    "category": "Test and Measurement"
   },
   {
     "idea": "Ceiling-mount classroom \"fresh air\" beacon changes color based on CO2/VOC trends and logs daily ventilation performance for facilities staff.",
@@ -565,14 +565,14 @@
   },
   {
     "idea": "Clip-on walk-in cooler door-frame badge records humidity spikes during restocking and warns when condensation and icing risk is high.",
-    "category": "Environmental Monitoring"
+    "category": "Security and Access Control"
   },
   {
     "idea": "Attic rafter moisture-and-temperature strip warns of persistent mold conditions and stores seasonal trends for the homeowner.",
     "category": "Environmental Monitoring"
   },
   {
-    "idea": "Museum display-case insert logs temperature, humidity, and light exposure with tamper detection so conservators can prove handling conditions.",
+    "idea": "Glass artifact case insert logs temperature, humidity, and light exposure with tamper detection so conservators can prove handling conditions.",
     "category": "Environmental Monitoring"
   },
   {
@@ -749,7 +749,7 @@
   },
   {
     "idea": "A smart garden hose reel rewinds using a brushed DC gearmotor and current-based stall detection to avoid yanking the hose or crushing fingers.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Home Automation"
   },
   {
     "idea": "A drill-press fence micro-adjuster repositions a stop block with a leadscrew stepper and a safety interlock so repeated hole patterns stay consistent.",
@@ -765,7 +765,7 @@
   },
   {
     "idea": "A compact linear stage for dial-indicator calibration sweeps a probe with a stepper while reading travel from a linear encoder strip for traceable displacement checks.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A sit-stand monitor arm retrofit synchronizes two brushed DC linear actuators with position feedback so the screen stays level through its full range.",
@@ -773,7 +773,7 @@
   },
   {
     "idea": "An automatic gate latch aligner nudges a striker plate using a miniature linear actuator until the latch closes cleanly without rubbing.",
-    "category": "Motion and Position Control"
+    "category": "Security and Access Control"
   },
   {
     "idea": "A model-railroad turnout driver moves points with a slow-motion DC gearmotor and stops on end-limit microswitches for realistic switching.",
@@ -809,7 +809,7 @@
   },
   {
     "idea": "A worm-geared window opener retrofit for skylights built around an Infineon BTN8982TA half-bridge driving a brushed DC gearmotor with end-stop sensing.",
-    "category": "Motor Drives and Robotics"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A brushless screwdriver spindle drive with torque limiting using an ST STSPIN32G4 and a 3-phase BLDC outrunner.",
@@ -825,11 +825,11 @@
   },
   {
     "idea": "An e-bike mid-drive PMSM controller with regenerative braking built on a TI TMS320F280049C C2000 MCU and shunt current sensing.",
-    "category": "Motor Drives and Robotics"
+    "category": "Automotive and Mobility"
   },
   {
     "idea": "A compact robot joint servo for a harmonic-drive actuator using an STM32G431 and an ST L6234 3-phase driver to run a BLDC.",
-    "category": "Motor Drives and Robotics"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A 3-axis camera gimbal drive that powers three BLDC gimbal motors using a TI DRV8313 with encoder-based stabilization.",
@@ -841,11 +841,11 @@
   },
   {
     "idea": "A smart garage door operator for a 12-24 V brushed DC motor using an NXP MC33886 H-bridge with soft-start and obstacle detection.",
-    "category": "Motor Drives and Robotics"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A conveyor diverter paddle drive that runs a NEMA 23 stepper through an Allegro A4988-compatible power stage with opto-isolated I/O.",
-    "category": "Motor Drives and Robotics"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A precision syringe pump for labs using a Trinamic TMC2130 to microstep a NEMA 17 and detect stalls for plunger protection.",
@@ -857,7 +857,7 @@
   },
   {
     "idea": "A greenhouse vent opener that drives a small BLDC gearmotor using an ST L6398 gate driver and a weather-sealed position sensor.",
-    "category": "Agriculture and Outdoor Systems"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A dental handpiece BLDC motor drive with speed hold and smooth startup using a TI DRV10983 sensorless driver.",
@@ -881,11 +881,11 @@
   },
   {
     "idea": "A foot-pedal variable-speed drive for a brushed DC sewing-machine motor with programmable soft-start and needle-up stop.",
-    "category": "Motor Drives and Robotics"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A retrofit ceiling-fan kit that replaces the capacitor with a quiet sensorless BLDC drive and a wall-dimmer compatible interface.",
-    "category": "Motor Drives and Robotics"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A NEMA 17 filament feeder for a 3D printer that auto-calibrates extrusion by measuring hob slip and adjusts microstepping on the fly.",
@@ -913,7 +913,7 @@
   },
   {
     "idea": "A compact ultrasonic cleaner turntable that indexes parts using a geared stepper and chemical-resistant sealed bearings.",
-    "category": "Motion and Position Control"
+    "category": "Lab Automation"
   },
   {
     "idea": "A smart irrigation valve actuator that turns a quarter-turn ball valve using a brushed DC gearmotor and torque-based shutoff.",
@@ -921,27 +921,27 @@
   },
   {
     "idea": "A differential-drive warehouse robot base that runs two 24 V brushed DC gearmotors with encoder odometry and a safety bumper input.",
-    "category": "Motor Drives and Robotics"
-  },
-  {
-    "idea": "A high-torque BBQ rotisserie drive that uses a low-RPM brushed DC gearmotor with temperature-compensated speed control.",
-    "category": "Motor Drives and Robotics"
-  },
-  {
-    "idea": "A motorized microscope focus block that moves a leadscrew with a miniature stepper for repeatable Z-stacks and backlash compensation.",
     "category": "Motion and Position Control"
   },
   {
+    "idea": "A high-torque BBQ rotisserie drive that uses a low-RPM brushed DC gearmotor with temperature-compensated speed control.",
+    "category": "Motion and Position Control"
+  },
+  {
+    "idea": "A motorized microscope focus block that moves a leadscrew with a miniature stepper for repeatable Z-stacks and backlash compensation.",
+    "category": "Education and STEM"
+  },
+  {
     "idea": "A compact coil-winding machine that drives a stepper traverse and a separate spindle motor with automatic tension control.",
-    "category": "Lab Automation"
+    "category": "Education and STEM"
   },
   {
     "idea": "A handheld electric pruner that drives a brushed DC motor through a planetary gearbox and stops the blade instantly with active braking.",
-    "category": "Motor Drives and Robotics"
+    "category": "Agriculture and Outdoor Systems"
   },
   {
     "idea": "A pool cover reel drive that powers a reversible brushed DC gearmotor and detects jams by monitoring acceleration.",
-    "category": "Motor Drives and Robotics"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A door access turnstile arm drive that spins a BLDC motor with controlled torque for gentle anti-tailgate operation.",
@@ -953,7 +953,7 @@
   },
   {
     "idea": "A coffee grinder motor module that drives an AC universal motor with phase-angle control and keeps burr RPM constant under load.",
-    "category": "Motor Drives and Robotics"
+    "category": "Home Automation"
   },
   {
     "idea": "A cable-driven robot gripper that uses a micro metal gearmotor and a spring-loaded clutch to maintain a set pinch force.",
@@ -989,7 +989,7 @@
   },
   {
     "idea": "MIDI foot controller for stage keyboards using an NXP i.MX RT1062 to scan rugged footswitches, read two expression pedals, and drive a high-contrast OLED setlist display.",
-    "category": "Audio and Music"
+    "category": "Computer and USB Peripherals"
   },
   {
     "idea": "Portable headphone practice mixer using a WM8731 to blend phone audio with an instrument input, add simple EQ, and provide a belt-clip enclosure.",
@@ -1013,7 +1013,7 @@
   },
   {
     "idea": "Rackmount VU/peak meter strip driven by a TLC5940 to animate a classic LED bargraph from any line-level source.",
-    "category": "Test and Measurement"
+    "category": "Audio and Music"
   },
   {
     "idea": "I2S-to-analog hi-fi DAC module using a PCM5102A to modernize a vintage CD player or streamer with low-noise RCA outputs.",
@@ -1045,7 +1045,7 @@
   },
   {
     "idea": "Desktop metronome with tactile pulse and adjustable click volume using a small voice-coil actuator for late-night practice.",
-    "category": "Timing and Scheduling"
+    "category": "Audio and Music"
   },
   {
     "idea": "Practice amp front-panel retrofit with rotary encoder navigation, quick preset recall buttons, and a footswitch jack for hands-free control.",
@@ -1069,7 +1069,7 @@
   },
   {
     "idea": "Motorized Leslie-style speaker sim cabinet controller driving a BLDC blower for variable rotor speed, ramp time, and footswitch fast/slow.",
-    "category": "Motor Drives and Robotics"
+    "category": "Audio and Music"
   },
   {
     "idea": "Headphone splitter box for band practice with per-musician volume knobs and a limiter to prevent accidental hearing damage.",
@@ -1097,11 +1097,11 @@
   },
   {
     "idea": "Portable acoustic measurement puck with a built-in reference mic, pink-noise generator, and tripod mount for quick room tuning.",
-    "category": "Environmental Monitoring"
+    "category": "Test and Measurement"
   },
   {
     "idea": "Vinyl record cleaning machine timer and vacuum control panel for a brushed DC gearmotor platter plus a footswitchable suction relay.",
-    "category": "Lab Automation"
+    "category": "Audio and Music"
   },
   {
     "idea": "Compact in-ear monitor beltpack mixer that blends two wired feeds with a mono-safe switch, clip-on enclosure, and lockable connectors.",
@@ -1137,11 +1137,11 @@
   },
   {
     "idea": "A motorcycle handlebar TFT dashboard pod with turn-by-turn prompts and rainproof buttons using an ESP32-S3 and an ILI9341 display interface.",
-    "category": "Display and Human Interface"
+    "category": "Automotive and Mobility"
   },
   {
     "idea": "A low-power thermostat faceplate with an e-ink screen, clicky side buttons, and scheduled setpoints built on a Nordic nRF52840 with a UC8151 e-paper driver.",
-    "category": "Smart Appliances and Utilities"
+    "category": "Home Automation"
   },
   {
     "idea": "A handheld digital multimeter UI module with bargraph, softkeys, and a backlit LCD using an STM32H743 and an AD7175-8 precision ADC.",
@@ -1157,7 +1157,7 @@
   },
   {
     "idea": "A vending machine selection and pricing interface with multi-line character LCD and vandal-resistant keypad using a Microchip PIC32MZ2048EFH and a Sitronix ST7066U LCD controller.",
-    "category": "Data Logging and Storage"
+    "category": "Smart Appliances and Utilities"
   },
   {
     "idea": "A marine chartplotter softkey strip with dimmable backlighting and wet-finger operability using an NXP i.MX RT1062 and a TI TCA9535 I/O expander.",
@@ -1173,11 +1173,11 @@
   },
   {
     "idea": "A bicycle electronic shifting head-unit with gear position, battery gauge, and night mode built around a Nordic nRF5340 and a Maxim MAX17048 fuel-gauge IC.",
-    "category": "Wireless IoT"
+    "category": "Automotive and Mobility"
   },
   {
     "idea": "An industrial handheld barcode scanner status display with bright \"good read\" indicators and configurable softkeys using an NXP i.MX RT1176 and an AMS AS1115 LED driver.",
-    "category": "Data Logging and Storage"
+    "category": "Display and Human Interface"
   },
   {
     "idea": "A smart door lock keypad with an OLED prompt screen and tamper alarms using a Silicon Labs EFR32MG24 and an SSD1306 display controller.",
@@ -1189,11 +1189,11 @@
   },
   {
     "idea": "An HVAC wall interface with a haptic \"click\" glass slider and quiet night dimming using an STM32U575 and a TI DRV2605L haptic driver.",
-    "category": "Smart Appliances and Utilities"
+    "category": "Display and Human Interface"
   },
   {
     "idea": "A compact audio mixer scribble-strip module with per-channel OLED labels and animated level metering using an RP2040 and an IS31FL3733 matrix LED driver.",
-    "category": "Audio and Music"
+    "category": "Display and Human Interface"
   },
   {
     "idea": "A compact digital signage player front I/O and button/IR module for kiosk enclosures built around a Rockchip RK3566 and a GL852G USB hub.",
@@ -1213,11 +1213,11 @@
   },
   {
     "idea": "An elevator car position indicator with large 7-seg digits, direction arrows, and an accessibility chime mute key for nighttime mode.",
-    "category": "Automotive and Mobility"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A forklift mast height/tilt display with sunlight-readable digits and sealed rubber keys for changing load profiles and speed limits.",
-    "category": "Automotive and Mobility"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A smart mirror side touch bar that wakes on proximity, provides a dimmable light slider, and shows time/weather on a narrow display strip.",
@@ -1233,7 +1233,7 @@
   },
   {
     "idea": "A welding helmet shade control module with a small OLED, two oversized glove-friendly buttons, and a brightness lock feature.",
-    "category": "Display and Human Interface"
+    "category": "Lighting and LED Control"
   },
   {
     "idea": "A greenhouse irrigation manifold labeler with zone names on e-ink tags and a central screen for manual override and fault messages.",
@@ -1241,7 +1241,7 @@
   },
   {
     "idea": "A portable power tool battery charger front panel with a four-digit display, charge-rate selection button, and clear fault codes for overheated packs.",
-    "category": "Power and Energy"
+    "category": "Battery and Charging"
   },
   {
     "idea": "A bicycle handlebar remote with a thumb joystick, tactile click feedback, and a tiny status display for mode and battery.",
@@ -1273,7 +1273,7 @@
   },
   {
     "idea": "An aircraft-style simulator cockpit switch panel with backlit engraved legends, guarded toggles, and encoder knobs with on-screen labels.",
-    "category": "Education and STEM"
+    "category": "Display and Human Interface"
   },
   {
     "idea": "A refrigerated display case temperature-and-defrost interface with big digits, a service PIN entry keypad, and a sealed door-open alarm acknowledge key.",
@@ -1301,7 +1301,7 @@
   },
   {
     "idea": "Automotive ambient light fiber-optic engine using an NXP S32K144 and PCA9633 outputs to fade multiple RGB channels and follow CAN-based drive modes.",
-    "category": "Automotive and Mobility"
+    "category": "Lighting and LED Control"
   },
   {
     "idea": "Stage moving-head wash light control core using an STM32F401 with a MAX485 DMX transceiver to drive NEMA 17 steppers and high-power LED PWM.",
@@ -1317,7 +1317,7 @@
   },
   {
     "idea": "Museum exhibit touchless spotlight built on a Microchip PIC32MX with a VL53L0X time-of-flight sensor to fade up when visitors approach and fade down after.",
-    "category": "Display and Human Interface"
+    "category": "Lighting and LED Control"
   },
   {
     "idea": "Smart emergency exit sign using an STM32L072 and Microchip ATECC608A to log self-tests, secure firmware updates, and report battery health.",
@@ -1345,7 +1345,7 @@
   },
   {
     "idea": "Railroad signal lantern LED driver using an Analog Devices LTC3780 buck-boost to hold constant brightness over wildly varying battery voltage.",
-    "category": "Automotive and Mobility"
+    "category": "Lighting and LED Control"
   },
   {
     "idea": "DMX-to-pixel bridge using a Microchip SAMD21 and an SN75176B transceiver to map DMX universes into addressable LED strips with low latency.",
@@ -1405,11 +1405,11 @@
   },
   {
     "idea": "Fire truck ladder-compartment lighting harness module with soft-start, waterproof connectors, and surge-protected inputs for harsh vehicle electrics.",
-    "category": "Lighting and LED Control"
+    "category": "Automotive and Mobility"
   },
   {
     "idea": "Boat navigation light mode unit that enforces legal running/anchor combinations and detects open/short LED faults with a cockpit indicator.",
-    "category": "Lighting and LED Control"
+    "category": "Automotive and Mobility"
   },
   {
     "idea": "Sauna and cold-room RGB mood light driver designed for high humidity with conformal coating, sealed connectors, and an external wall-switch interface.",
@@ -1421,7 +1421,7 @@
   },
   {
     "idea": "Helmet-mounted bicycle headlamp electronics with thermal regulation, multi-level beam control, and a lockout to prevent accidental activation in a bag.",
-    "category": "Lighting and LED Control"
+    "category": "Automotive and Mobility"
   },
   {
     "idea": "Retrofit for an antique jukebox that drives chasing perimeter lights and beat-synced patterns from the cabinet's audio line input.",
@@ -1453,11 +1453,11 @@
   },
   {
     "idea": "A trailer door open sensor using an nRF52840 that logs timestamped openings and alerts the owner when the cargo door is unlatched in a yard.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Wireless IoT"
   },
   {
     "idea": "A retrofit irrigation shutoff that uses a TI CC1312R to command a latching solenoid valve and confirm flow stoppage during leak events.",
-    "category": "Home Automation"
+    "category": "Agriculture and Outdoor Systems"
   },
   {
     "idea": "A stick-on machine vibration health tag using a Nordic nRF5340 with an ADXL355 accelerometer to trend bearing wear and push maintenance alerts.",
@@ -1473,7 +1473,7 @@
   },
   {
     "idea": "A smart streetlight photocell replacement using an STM32L476 and an SX1276 that reports burn hours, outages, and line voltage dips to the city dashboard.",
-    "category": "Lighting and LED Control"
+    "category": "Wireless IoT"
   },
   {
     "idea": "A networked key-cabinet lock using an ESP32-S3 and an ATECC608B that enforces access schedules and logs every door open event.",
@@ -1485,7 +1485,7 @@
   },
   {
     "idea": "A clip-on mains energy meter using an ADE7953 and an ESP32-C6 that reports kWh and peak demand for a specific appliance circuit.",
-    "category": "Power and Energy"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "A compact asset tag using a Qorvo DW3000 for UWB ranging plus an nRF52833 for BLE that helps find tools inside large warehouses.",
@@ -1497,15 +1497,15 @@
   },
   {
     "idea": "A solar-powered soil probe using an STM32L072 and an SX1262 that sends moisture/temperature readings from fields with no Wi-Fi coverage.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "A smoke-alarm interconnect bridge using an ESP32-C6 with an NXP PCA9536 that detects legacy alarm signaling and forwards alerts to a home hub.",
-    "category": "Security and Access Control"
+    "category": "Home Automation"
   },
   {
     "idea": "A stacklight status broadcaster using a Silicon Labs EFR32MG24 that reads red/yellow/green tower-light states and updates OEE dashboards wirelessly.",
-    "category": "Data Logging and Storage"
+    "category": "Lighting and LED Control"
   },
   {
     "idea": "A batteryless NFC maintenance tag using an NXP NTAG I2C Plus that lets technicians tap a machine to pull last-service data and record notes without a battery swap.",
@@ -1513,7 +1513,7 @@
   },
   {
     "idea": "A sump-pump power and run-time monitor using an Analog Devices ADE9153A with an STM32G0 that alerts when the pump starts cycling abnormally or draws excess current.",
-    "category": "Data Logging and Storage"
+    "category": "Test and Measurement"
   },
   {
     "idea": "A SIMCom SIM7080G LTE-M bolt-on tracker for rental generators that reports run hours, vibration-based usage, and low fuel level from the jobsite.",
@@ -1525,7 +1525,7 @@
   },
   {
     "idea": "A storefront trash compactor fill indicator that measures ram cycles and bin fullness and automatically texts the hauler before overflow.",
-    "category": "Data Logging and Storage"
+    "category": "Wireless IoT"
   },
   {
     "idea": "A shared makerspace tool-chest drawer tracker that logs which drawers are opened and pushes inventory reminders when tools aren't returned.",
@@ -1560,16 +1560,16 @@
     "category": "Security and Access Control"
   },
   {
-    "idea": "A museum display-case security tag that detects tilt, vibration, and opening events and alerts staff if an exhibit is disturbed.",
+    "idea": "A gallery exhibit security tag that detects tilt, vibration, and opening events and alerts staff if an exhibit is disturbed.",
     "category": "Security and Access Control"
   },
   {
     "idea": "An RV holding-tank level sender that uses ultrasonic ranging to show fresh/gray/black levels on a phone even when boondocking.",
-    "category": "Data Logging and Storage"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "A manual irrigation canal gate position reporter that clips onto the handwheel to log openings and notify downstream users of changes.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "A greenhouse roof-vent opener that drives a 12V linear actuator and reports vent position, inside temperature, and fault jams to the grower.",
@@ -1585,7 +1585,7 @@
   },
   {
     "idea": "A solar fence-line fault sensor that detects broken electrified wire or shorts and reports the GPS location to a ranch dashboard.",
-    "category": "Environmental Monitoring"
+    "category": "Wireless IoT"
   },
   {
     "idea": "A parking-lot light-pole retrofit that senses AC current draw to detect lamp outages and automatically opens a maintenance ticket.",
@@ -1613,11 +1613,11 @@
   },
   {
     "idea": "Ethernet conveyor photoeye counter using a Microchip LAN8720 PHY and an i.MX RT1062 to timestamp parts and publish counts via Modbus/TCP.",
-    "category": "Wired Networking and Industrial Bus"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "Pump-room alarm annunciator with horn and beacon driven by a PIC32MZ and a MAX14840E isolated RS-485 interface for Modbus RTU.",
-    "category": "Wired Networking and Industrial Bus"
+    "category": "Test and Measurement"
   },
   {
     "idea": "EtherCAT-enabled NEMA 17 stepper drive that pairs a LAN9252 EtherCAT slave controller with a TMC5160 for silent closed-loop positioning of a small linear actuator.",
@@ -1625,7 +1625,7 @@
   },
   {
     "idea": "PoE ceiling strobe/siren for factory evacuation using an NXP LPC54628, a Si3402 PoE PD, and a DP83825 Ethernet PHY.",
-    "category": "Wired Networking and Industrial Bus"
+    "category": "Lighting and LED Control"
   },
   {
     "idea": "PROFINET-ready welding-cell I/O drop based on a TI AM2431 and a KSZ8563 switch to provide deterministic Ethernet and 16 isolated 24 V inputs.",
@@ -1685,7 +1685,7 @@
   },
   {
     "idea": "A race-pit CAN bus quick-check handheld that plugs into the kart harness and shows live RPM, throttle, and error flags on a sunlight-readable display.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "A PoE-powered doorframe intercom module with a vandal-proof pushbutton, speaker amp, and relay output for the electric strike.",
@@ -1697,15 +1697,15 @@
   },
   {
     "idea": "A pump-station mimic annunciator with LED tank level bars, audible alarm, and RS-485 daisy-chain ports so multiple rooms can share the same alarm bus.",
-    "category": "Wired Networking and Industrial Bus"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "An EtherCAT-ready compact drive for a brushed DC gearmotor on a packaging machine with encoder input and a safety-enable loop.",
-    "category": "Motor Drives and Robotics"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A machine-tool pendant E-stop and cycle-start station that reports button states over Ethernet to a safety PLC while keeping hardwired contacts for redundancy.",
-    "category": "Security and Access Control"
+    "category": "Wired Networking and Industrial Bus"
   },
   {
     "idea": "A DIN-rail gateway that converts legacy RS-232 barcode scanners into Ethernet TCP streams for warehouse WMS integration.",
@@ -1713,11 +1713,11 @@
   },
   {
     "idea": "A forklift charging-bay wall display that reads CAN data from smart chargers and shows bay availability and fault codes over a single twisted pair.",
-    "category": "Automotive and Mobility"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "A cold-room defrost scheduler panel that talks Modbus RTU to multiple evaporator controllers and logs door-open time for HACCP audits.",
-    "category": "Environmental Monitoring"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "A brewery cellar glycol chiller add-on box that brings compressor hours, pump status, and alarms onto Modbus/TCP for the brewhouse HMI.",
@@ -1733,7 +1733,7 @@
   },
   {
     "idea": "An irrigation manifold enclosure that sequences 24 VAC sprinkler valves and reports flow switch alarms over RS-485 to a central barn controller.",
-    "category": "Agriculture and Outdoor Systems"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "A benchtop Ethernet traffic generator and link-drop simulator used to test how industrial HMIs behave during cable faults and switch reboots.",
@@ -1741,11 +1741,11 @@
   },
   {
     "idea": "A tank-farm grounding clamp verifier that reports clamp continuity and touch-safe status over a wired bus to the loading rack interlock system.",
-    "category": "Test and Measurement"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "A maritime engine-room alarm repeater that listens to the vessel CAN backbone and mirrors critical alarms to a rugged Ethernet bridge on the bridge wing.",
-    "category": "Wired Networking and Industrial Bus"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "A weighbridge interface box that accepts a scale's serial output, adds timestamped truck ID, and forwards tickets to the office network via Ethernet.",
@@ -1757,7 +1757,7 @@
   },
   {
     "idea": "A refrigerated truck dock connector that bridges vehicle CAN diagnostics to an Ethernet port so maintenance can run tests without entering the cab.",
-    "category": "Automotive and Mobility"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "A vandal-resistant locker access keypad with an ESP32-S3, Microchip ATECC608A secure element, and a relay/solenoid output for the lock.",
@@ -1769,7 +1769,7 @@
   },
   {
     "idea": "A gate intercom strike module built around an NXP i.MX RT1062 that mixes audio, detects call progress, and enforces a timed door-release window.",
-    "category": "Security and Access Control"
+    "category": "Audio and Music"
   },
   {
     "idea": "A tool crib badge access reader using an NXP PN532 to accept MIFARE/NFC credentials and drive a maglock relay with tamper detection.",
@@ -1809,7 +1809,7 @@
   },
   {
     "idea": "A parking barrier arm drive using an STM32F303 with a TI DRV8876 driving a brushed DC gearmotor and enforcing anti-tailgating logic from loop sensors.",
-    "category": "Security and Access Control"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A delayed-egress fire-exit door module built on an STM32F072 that beeps a countdown, logs overrides, and fails safe on alarm input.",
@@ -1841,7 +1841,7 @@
   },
   {
     "idea": "A locker-room retrofit latch that records every open/close with timestamps for supervisors to review after incidents.",
-    "category": "Security and Access Control"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "A delivery porch box that only unlocks after a courier enters a one-time code and the lid sensor confirms the parcel was placed and closed.",
@@ -1849,7 +1849,7 @@
   },
   {
     "idea": "A garage side-door strike plate retrofit that logs badge IDs locally and exports the audit trail over USB for compliance checks.",
-    "category": "Security and Access Control"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "A tool crib countertop badge-plus-PIN terminal with a rugged metal keypad and two independently timed relay outputs for separate cages.",
@@ -1877,18 +1877,18 @@
   },
   {
     "idea": "A warehouse roll-up door watcher that alerts if the door is left open past a set time during off-hours and logs the duration for audits.",
-    "category": "Security and Access Control"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "A hotel minibar tamper kit that logs door openings and can flag suspicious access patterns for housekeeping without recording audio.",
-    "category": "Security and Access Control"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "A medical narcotics cabinet drawer lock that requires two distinct badges within 30 seconds to satisfy dual-custody policy.",
     "category": "Security and Access Control"
   },
   {
-    "idea": "A museum display case lock insert that supports timed \"public hours\" unlock, auto-relocks at close, and logs each curator access.",
+    "idea": "A gallery display case lock insert that supports timed \"public hours\" unlock, auto-relocks at close, and logs each curator access.",
     "category": "Security and Access Control"
   },
   {
@@ -1901,7 +1901,7 @@
   },
   {
     "idea": "A vending machine service-door detector that captures a photo on each open and stores it to removable storage for route managers.",
-    "category": "Security and Access Control"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "A shared workshop machine-enablement outlet that energizes a tool only after a member badges in and acknowledges a safety prompt.",
@@ -1909,7 +1909,7 @@
   },
   {
     "idea": "An employee timeclock wall unit that combines punch-in with a short door-release and shows remaining access time for the shift.",
-    "category": "Security and Access Control"
+    "category": "Timing and Scheduling"
   },
   {
     "idea": "A solar-powered farm gate latch that unlocks for authorized vehicles via a windshield tag and relocks after passage detected by a beam sensor.",
@@ -1917,7 +1917,7 @@
   },
   {
     "idea": "A reusable shipping pallet lock that uses a breakwire and motion sensing to flag tamper during transit and preserve a chain-of-custody log.",
-    "category": "Security and Access Control"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "A USB-C PD charger load tester that negotiates voltages and logs V/I/W using an INA226 plus an STM32G0 to sweep and record regulation behavior.",
@@ -1945,7 +1945,7 @@
   },
   {
     "idea": "A handheld RF power meter for ISM-band transmitters that reads forward/reflected power with an ADL5519 detector and streams results over an ESP32-S3.",
-    "category": "Test and Measurement"
+    "category": "RF and Radio"
   },
   {
     "idea": "A precision 4-wire RTD thermometer for process checks that reads PT100/PT1000 probes using an ADS1220 and a REF5025 reference.",
@@ -2037,7 +2037,7 @@
   },
   {
     "idea": "A UV-C radiometer wand for HVAC maintenance that confirms germicidal lamp intensity and logs exposure levels over time.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "A pH probe checker that injects known millivolt steps and monitors stabilization time to flag aging electrodes without wet chemistry buffers.",
@@ -2117,7 +2117,7 @@
   },
   {
     "idea": "A reagent-cap torque tester fixture that conditions a load-cell signal and outputs pass/fail to a stack light for packaging QA.",
-    "category": "Test and Measurement"
+    "category": "Lab Automation"
   },
   {
     "idea": "A bench vacuum-manifold leak tester that measures pressure decay, sounds an alarm on leaks, and prints a simple pass sticker.",
@@ -2129,7 +2129,7 @@
   },
   {
     "idea": "An autoclave cycle counter unit that senses door latch events and prints a maintenance reminder after a set number of runs.",
-    "category": "Test and Measurement"
+    "category": "Lab Automation"
   },
   {
     "idea": "A microscope stage joystick retrofit that drives two miniature linear actuators for coarse X/Y movement with adjustable speed limits.",
@@ -2157,7 +2157,7 @@
   },
   {
     "idea": "A waste-carboy level alarm that shuts off a diaphragm transfer pump via relay when a capacitive probe detects near-full level.",
-    "category": "Environmental Monitoring"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "An ESP32-S3 badge-style freezer sentinel that logs temperature, senses door-open events, and sends Wi-Fi alerts to a phone.",
@@ -2173,7 +2173,7 @@
   },
   {
     "idea": "A MAX31865 + STM32F103 PT100 reader that retrofits a circulating water bath with calibrated temperature logging.",
-    "category": "Test and Measurement"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "An AD7793 high-resolution bridge ADC unit that turns a standard load cell into a digital reagent-bottle weighing station with a tare button.",
@@ -2209,7 +2209,7 @@
   },
   {
     "idea": "A MAX14830 quad-UART concentrator with an i.MX RT1062 that aggregates multiple RS-232 lab instruments into a single USB-C data uplink.",
-    "category": "Wired Networking and Industrial Bus"
+    "category": "Computer and USB Peripherals"
   },
   {
     "idea": "A PCA9685 servo-PWM unit controlled by an ESP32-C6 that actuates eight pinch valves using RC servo motors for a low-cost flow router.",
@@ -2217,7 +2217,7 @@
   },
   {
     "idea": "A LTC2983-based thermometry card that reads mixed thermocouples and RTDs for a multi-zone thermal block qualification jig.",
-    "category": "Environmental Monitoring"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "An AD7606 simultaneous-sampling ADC with an STM32H743 that captures eight analog channels for automated chromatography detector calibration.",
@@ -2229,11 +2229,11 @@
   },
   {
     "idea": "A MAX31855 thermocouple interface with an RP2040 that adds a digital exhaust-temperature readout and alarm to a lab drying oven.",
-    "category": "Environmental Monitoring"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "A TPS2116 power-mux and BQ24074 charger unit that keeps a portable sampling cart running seamlessly between wall power and a Li-ion pack.",
-    "category": "Battery and Charging"
+    "category": "Power and Energy"
   },
   {
     "idea": "A ULN2803A driver array with an ATtiny1616 that pulses eight relays to automate timed rinse/soak cycles on a glassware washer retrofit.",
@@ -2245,11 +2245,11 @@
   },
   {
     "idea": "A hardwired bathroom mirror defogger timer that limits heater pad runtime and auto-shuts off after a configurable interval.",
-    "category": "Lighting and LED Control"
+    "category": "Home Automation"
   },
   {
     "idea": "A Nordic nRF52840 Zigbee shade switch that controls a 120 VAC tubular motor, tracks position from a quadrature encoder, and supports preset scenes.",
-    "category": "Wireless IoT"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "A plug-through lamp cord dimmer with a rotary knob and sunrise/sunset scheduling for living-room floor lamps.",
@@ -2265,7 +2265,7 @@
   },
   {
     "idea": "An ATmega4809 sump alert panel that powers dual float switches, logs pump cycles, and triggers a strobe and high-decibel piezo siren on fault.",
-    "category": "Test and Measurement"
+    "category": "Security and Access Control"
   },
   {
     "idea": "A smart dryer-boost fan interlock that turns on an inline duct fan when the dryer draws current and runs a timed cool-down purge after the cycle ends.",
@@ -2285,19 +2285,19 @@
   },
   {
     "idea": "A front-porch package box light and camera power injector that turns on only when the lid opens and time-stamps each event.",
-    "category": "Wireless IoT"
+    "category": "Home Automation"
   },
   {
     "idea": "A STM32WB55 Bluetooth mesh wall keypad with capacitive touch and a PCA9685 PWM expander for multi-zone LED strip scenes.",
-    "category": "Display and Human Interface"
+    "category": "Lighting and LED Control"
   },
   {
     "idea": "A mailbox notifier that detects the mailbox door opening and triggers an indoor LED beacon plus a chime across a large property.",
-    "category": "Security and Access Control"
+    "category": "Home Automation"
   },
   {
     "idea": "An ESP32-C3 leak-shutoff unit that reads a drip-tray probe and actuates a latching solenoid valve via a DRV8846 driver with a manual reset button.",
-    "category": "Home Automation"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "An under-sink drip tray with a latching shutoff valve and a big illuminated reset button so a leak can't be ignored.",
@@ -2325,7 +2325,7 @@
   },
   {
     "idea": "A garage freezer temperature alarm panel with a large display and a battery-backed siren that still works during outages.",
-    "category": "Test and Measurement"
+    "category": "Security and Access Control"
   },
   {
     "idea": "An NXP i.MX RT1062 in-wall touch thermostat that measures HVAC current with an ACS712 and controls a multi-stage heat pump relay pack with lockout timers.",
@@ -2345,7 +2345,7 @@
   },
   {
     "idea": "A Renesas RA4M1 garage-door safety light that uses an IS31FL3236 LED driver to strobe high-output LEDs whenever the door is in motion.",
-    "category": "Security and Access Control"
+    "category": "Lighting and LED Control"
   },
   {
     "idea": "A driveway gate keypad pedestal module that adds backlit keys, an intercom pushbutton, and a dry-contact output compatible with any existing opener.",
@@ -2385,7 +2385,7 @@
   },
   {
     "idea": "A Silicon Labs EFR32MG24 Matter light-switch retrofit that senses the existing toggle position and switches a 15 A relay with zero-cross timing.",
-    "category": "Smart Appliances and Utilities"
+    "category": "Home Automation"
   },
   {
     "idea": "A hot-water recirculation pump timer for under-sink installs that learns peak usage times and provides a manual pushbutton boost mode.",
@@ -2409,7 +2409,7 @@
   },
   {
     "idea": "A safety helmet rear light and brake indicator powered by an ESP32-S3 and ISSI IS31FL3731 to animate high-visibility LED patterns and log near-misses over BLE.",
-    "category": "Lighting and LED Control"
+    "category": "Wireless IoT"
   },
   {
     "idea": "A discreet wrist-worn silent reminder band using an ATtiny1616 plus TI DRV2605 to play crisp haptic \"taps\" from calendar events without audible alerts.",
@@ -2417,11 +2417,11 @@
   },
   {
     "idea": "A clip-on hydration and heat-stress tracker built with a Nordic nRF52810 and Sensirion SHTC3 that estimates sweat loss and prompts drinking via LED and haptics.",
-    "category": "Wearables and Personal Devices"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "A smart earplug charging case based on an ESP32-C3 and MAX98357A that streams white noise and tracks insertion time to manage hearing hygiene.",
-    "category": "Wireless IoT"
+    "category": "Audio and Music"
   },
   {
     "idea": "A minimalist smart ring using a Nordic nRF5340 with Microchip ATECC608A for secure authentication and tap-to-unlock of doors and laptops.",
@@ -2449,7 +2449,7 @@
   },
   {
     "idea": "A smart cane-handle grip using an NXP LPC11U35 and InvenSense MPU-6050 that detects falls and triggers a loud alarm plus SMS via paired phone.",
-    "category": "Motion and Position Control"
+    "category": "Wearables and Personal Devices"
   },
   {
     "idea": "A temperature-protecting medication pouch logger built on an RP2040 and Maxim DS18B20 that timestamps out-of-range events for insulin or biologics.",
@@ -2461,7 +2461,7 @@
   },
   {
     "idea": "Hearing-protection earmuffs using an STM32L4 and an Analog Devices ADMP401 mic to compute daily noise dose and warn with a subtle earcup vibration.",
-    "category": "Health and Wellness"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "A fall-detection pendant using a Microchip SAMD21 and ST LIS2DW12 that calls for help via a paired phone when it senses a high-g impact and no recovery motion.",
@@ -2485,7 +2485,7 @@
   },
   {
     "idea": "A ski-goggle anti-fog heater strip that automatically boosts lens warmth when humidity rises and shuts down when you stop moving.",
-    "category": "Lighting and LED Control"
+    "category": "Power and Energy"
   },
   {
     "idea": "A cyclist's armband turn-signal that you tap left or right to flash high-power LEDs and confirm with a brief haptic buzz.",
@@ -2501,7 +2501,7 @@
   },
   {
     "idea": "A finger-worn barcode-scanner ring with a trigger button and aiming LED for picking and inventory work, streaming scans to a handheld or tablet.",
-    "category": "Data Logging and Storage"
+    "category": "Computer and USB Peripherals"
   },
   {
     "idea": "A work-glove cuff timer that gives silent interval nudges for repetitive-task rotation to reduce strain injuries on assembly lines.",
@@ -2509,11 +2509,11 @@
   },
   {
     "idea": "A running shoe lace-clip that senses cadence and delivers rhythmic haptic pacing cues to keep you in a target step rate.",
-    "category": "Motion and Position Control"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "A neck-worn personal air purifier that uses a BLDC micro-blower to push filtered air upward toward your face and automatically throttles with activity.",
-    "category": "Environmental Monitoring"
+    "category": "Wearables and Personal Devices"
   },
   {
     "idea": "A climbing harness tag that screams and strobes if it detects you've left key gear behind at the crag after a period of inactivity.",
@@ -2525,11 +2525,11 @@
   },
   {
     "idea": "A smart hair clip that warns if a hair straightener or dryer is too hot near the scalp by beeping and flashing when it senses high radiant heat.",
-    "category": "Health and Wellness"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "A motorcycle glove knuckle module that detects hard braking and flashes a rear-facing red light strip for extra visibility.",
-    "category": "Motion and Position Control"
+    "category": "Lighting and LED Control"
   },
   {
     "idea": "A hospital staff ID lanyard buckle that logs hand-sanitizer station visits and vibrates when you enter a patient room without a recent dispense.",
@@ -2553,11 +2553,11 @@
   },
   {
     "idea": "A smart phone grip accessory that doubles as a hand warmer and kickstand, regulating heat output so it's safe for pockets and gloves.",
-    "category": "Health and Wellness"
+    "category": "Wearables and Personal Devices"
   },
   {
     "idea": "A wearable wrist \"do-not-disturb\" band for therapists or operators that shows a clear status light to others and delivers only priority haptic alerts to you.",
-    "category": "Wearables and Personal Devices"
+    "category": "Display and Human Interface"
   },
   {
     "idea": "Medication-drawer reminder insert that senses which compartment opens and sends a missed-dose alert using an ESP32-S3.",
@@ -2573,7 +2573,7 @@
   },
   {
     "idea": "Rehab resistance-band handle that counts repetitions and vibrates when range-of-motion drops below the therapist's target.",
-    "category": "Health and Wellness"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "Quiet sleep-environment logger that records bedroom humidity, temperature, and movement using an SHT31 and LIS3DH in a bedside puck.",
@@ -2585,11 +2585,11 @@
   },
   {
     "idea": "Wearable posture corrector that learns your neutral stance and buzzes on slouching using an STM32L432 and ICM-42605 IMU.",
-    "category": "Health and Wellness"
+    "category": "Wearables and Personal Devices"
   },
   {
     "idea": "UV toothbrush-dock lid that interlocks for safety and logs completed sanitization cycles with a simple one-button interface.",
-    "category": "Health and Wellness"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "Finger pulse-ox and breathing coach that guides paced respiration using a MAX30102 and a small OLED.",
@@ -2601,7 +2601,7 @@
   },
   {
     "idea": "Nebulizer-cup pre-warmer that holds a stable target temperature using an MCP9808 and a MOSFET power stage.",
-    "category": "Power and Energy"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "First-aid kit latch that flashes and beeps when scanned supplies are expired or missing during monthly checks.",
@@ -2613,15 +2613,15 @@
   },
   {
     "idea": "Handwashing sink add-on that shows a 20-second progress ring and tallies compliance counts for staff or kids.",
-    "category": "Display and Human Interface"
+    "category": "Health and Wellness"
   },
   {
     "idea": "Portable aromatherapy diffuser driver that runs a brushed DC micro-blower and controls mist bursts using a DRV8833.",
-    "category": "Motor Drives and Robotics"
+    "category": "Smart Appliances and Utilities"
   },
   {
     "idea": "Sauna or steam-room door sign that displays remaining safe session time based on ambient conditions and user profiles.",
-    "category": "Display and Human Interface"
+    "category": "Home Automation"
   },
   {
     "idea": "Smart medication blister-pack reader that time-stamps each pill pop and prevents counterfeits using ATECC608A and DS3231.",
@@ -2633,19 +2633,19 @@
   },
   {
     "idea": "Waiting-room comfort meter that drives a tri-color light bar from CO2 and noise levels using an SCD41 and ICS-43434.",
-    "category": "Lighting and LED Control"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "Bed-exit mat interface that triggers gentle night lighting and a caregiver chime when an at-risk patient gets up.",
-    "category": "Security and Access Control"
+    "category": "Home Automation"
   },
   {
     "idea": "Refillable hand-sanitizer dispenser retrofit that counts doses and drives a peristaltic pump using an ATtiny1616.",
-    "category": "Motor Drives and Robotics"
+    "category": "Smart Appliances and Utilities"
   },
   {
     "idea": "Insulated lunchbox divider that monitors food temperature and alerts if it enters an unsafe range during a commute.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Health and Wellness"
   },
   {
     "idea": "Compact EKG patch logger that captures single-lead ECG and streams over BLE using an ADS1292R.",
@@ -2657,7 +2657,7 @@
   },
   {
     "idea": "Heated eye-mask module that maintains consistent warmth and accurate battery percentage using MAX17048 and TPS61023.",
-    "category": "Wearables and Personal Devices"
+    "category": "Health and Wellness"
   },
   {
     "idea": "Workplace ergonomic reminder puck that senses desk vibration patterns and schedules stretch breaks during long sessions.",
@@ -2673,7 +2673,7 @@
   },
   {
     "idea": "Massage gun safety and performance module that runs a BLDC motor and detects stalls or overload using a DRV10983.",
-    "category": "Motor Drives and Robotics"
+    "category": "Health and Wellness"
   },
   {
     "idea": "Community gym treadmill tag that locks out the belt after a cleaning interval expires and logs staff re-enable events.",
@@ -2681,11 +2681,11 @@
   },
   {
     "idea": "Hearing-protection case that logs exposure time and syncs to an app for tinnitus prevention using an nRF5340.",
-    "category": "Data Logging and Storage"
+    "category": "Health and Wellness"
   },
   {
     "idea": "Cold-plunge tub timer panel with big gloved-hand buttons that enforces ramped sessions and cooldown prompts.",
-    "category": "Timing and Scheduling"
+    "category": "Health and Wellness"
   },
   {
     "idea": "Airway-clearance oscillating PEP session tracker that counts breaths and intensity using an STM32WB55 with BLE.",
@@ -2701,7 +2701,7 @@
   },
   {
     "idea": "Rehabilitation balance-board footplate that provides real-time tilt cues through LEDs and a tone to guide stability drills.",
-    "category": "Display and Human Interface"
+    "category": "Health and Wellness"
   },
   {
     "idea": "Snore and sleep-position tracker that nudges side-sleeping with a coin vibration motor using an ESP32-C6 and MEMS mic.",
@@ -2709,7 +2709,7 @@
   },
   {
     "idea": "Refrigerator shelf insert that keeps probiotics in-range and flags temperature excursions with a front-edge indicator.",
-    "category": "Environmental Monitoring"
+    "category": "Smart Appliances and Utilities"
   },
   {
     "idea": "IV pole accessory that provides battery backup management and a bright beacon light for pump alarms using an LTC4162.",
@@ -2737,7 +2737,7 @@
   },
   {
     "idea": "Seat heater retrofit module that ramps warmth with PWM, supports two heat zones, and shuts off on overtemperature using a thermistor.",
-    "category": "Power and Energy"
+    "category": "Automotive and Mobility"
   },
   {
     "idea": "Overland vehicle dual-battery isolator with manual emergency parallel switch, undervoltage protection, and alternator-friendly charging logic.",
@@ -2757,7 +2757,7 @@
   },
   {
     "idea": "Cargo van rear door open alarm that uses magnetic switches to warn if a door is ajar when the vehicle begins moving.",
-    "category": "Security and Access Control"
+    "category": "Automotive and Mobility"
   },
   {
     "idea": "Vehicle-mounted winch remote receiver that provides two-speed control and requires a deadman button plus a lockout key for safety.",
@@ -2769,7 +2769,7 @@
   },
   {
     "idea": "Fleet vehicle driver ID keypad and relay immobilizer that only enables ignition after a valid PIN entry or service override.",
-    "category": "Security and Access Control"
+    "category": "Automotive and Mobility"
   },
   {
     "idea": "Scooter turn-signal auto-cancel add-on that counts wheel rotations via a spoke magnet sensor and cancels left/right independently.",
@@ -2817,7 +2817,7 @@
   },
   {
     "idea": "GPS-disciplined speedometer calibrator for classic cars using a u-blox NEO-M9N module and a pulse output that drives the factory gauge.",
-    "category": "Automotive and Mobility"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "Crash-detecting motorcycle SOS beacon using a Quectel BG95-M3 LTE-M/NB-IoT modem and an Analog Devices ADXL372 high-g accelerometer.",
@@ -2825,7 +2825,7 @@
   },
   {
     "idea": "LED roof sign for delivery vehicles with over-the-air message updates using an ESP32-S3 and a HUB75 RGB matrix interface.",
-    "category": "Wireless IoT"
+    "category": "Lighting and LED Control"
   },
   {
     "idea": "E-scooter BLDC hub-motor drive for a 6-MOSFET power stage using a TI DRV8323RS gate driver with shunt current sensing.",
@@ -2849,7 +2849,7 @@
   },
   {
     "idea": "Plug-in J1939 diagnostic dongle that streams live parameters over USB using an STM32F072 and an NXP TJA1051 CAN transceiver.",
-    "category": "Data Logging and Storage"
+    "category": "Computer and USB Peripherals"
   },
   {
     "idea": "EV accessory DC-DC converter (48-60V to 12V) using a TI LM5146-Q1 synchronous buck controller with remote on/off and thermal derating.",
@@ -2857,7 +2857,7 @@
   },
   {
     "idea": "Drift and lap-timing box for track days using a Bosch BNO055 IMU plus GPS to display cornering g and sector times.",
-    "category": "Data Logging and Storage"
+    "category": "Timing and Scheduling"
   },
   {
     "idea": "Multi-zone RGB ambient lighting harness for cars using an Infineon TLE94112EL 12-channel half-bridge driver for smooth fades.",
@@ -2897,7 +2897,7 @@
   },
   {
     "idea": "Weatherproof field-strength and noise-floor logger for a repeater site that timestamps readings and uploads them over a cellular modem.",
-    "category": "Environmental Monitoring"
+    "category": "Wireless IoT"
   },
   {
     "idea": "Inline RF power sampler with a log detector front end using an ADL5519 to feed a DAC/ADC readout for ham bench measurements.",
@@ -2909,7 +2909,7 @@
   },
   {
     "idea": "Repeater-site field-strength meter with temperature-compensated RSSI logging built around an Analog Devices AD8318 and a GPS timebase.",
-    "category": "RF and Radio"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "Handheld direction-finding \"fox\" receiver with an attenuator, headphone amp, and a tri-element tape-measure yagi for 2 m hunts.",
@@ -2929,7 +2929,7 @@
   },
   {
     "idea": "Coax cable tracer kit with a tone-injector that couples RF onto a disconnected line and a wand probe that finds it inside walls.",
-    "category": "Test and Measurement"
+    "category": "RF and Radio"
   },
   {
     "idea": "AM/FM/SW \"shop radio\" receiver module based on the Silicon Labs Si4732 with line-out for retrofitting into vintage cabinets.",
@@ -2953,11 +2953,11 @@
   },
   {
     "idea": "Keyfob frequency and modulation checker for automotive locksmiths that identifies rolling-code remotes by their RF signature.",
-    "category": "Security and Access Control"
+    "category": "RF and Radio"
   },
   {
     "idea": "Industrial sub-GHz remote-control sniffer/recorder using a TI CC1200 to capture OOK/FSK bursts for maintenance diagnostics.",
-    "category": "Data Logging and Storage"
+    "category": "RF and Radio"
   },
   {
     "idea": "RF-transparent test fixture for window-tint installers that measures how different films detune a windshield antenna.",
@@ -2965,7 +2965,7 @@
   },
   {
     "idea": "UHF RFID dock-door reader with power control and antenna multiplexing based on an AMS AS3993 for pallet tracking.",
-    "category": "Wireless IoT"
+    "category": "RF and Radio"
   },
   {
     "idea": "Conveyor-mounted UHF tag readability fixture with adjustable antenna polarization and a pass/fail stack light for QA lines.",
@@ -2985,7 +2985,7 @@
   },
   {
     "idea": "Two-way radio desk microphone base with programmable PTT lockout, sidetone monitor, and footswitch input for dispatch use.",
-    "category": "Wireless IoT"
+    "category": "Audio and Music"
   },
   {
     "idea": "BLE angle-of-arrival locator tag built on an nRF52833 with a coin-cell power path for indoor equipment tracking.",
@@ -3017,7 +3017,7 @@
   },
   {
     "idea": "Time-out watchdog relay for paging transmitters that drops PTT if carrier stays on too long to prevent stuck-mic incidents.",
-    "category": "Test and Measurement"
+    "category": "Timing and Scheduling"
   },
   {
     "idea": "50-ohm RF switch matrix using a SKY13351 to route one signal source to multiple instruments in a small test setup.",
@@ -3037,7 +3037,7 @@
   },
   {
     "idea": "Dual-output clock generator module for mixers and samplers using an Si5351 with low-jitter power filtering and SMA outputs.",
-    "category": "Timing and Scheduling"
+    "category": "RF and Radio"
   },
   {
     "idea": "USB-C macro pad for CAD shortcuts with hot-swappable keys and per-key RGB that enumerates as a HID keyboard using an RP2040.",
@@ -3049,7 +3049,7 @@
   },
   {
     "idea": "USB-C dock status display that shows PD watts, link speed, and monitor connection using a TPS65988 and an STM32G031.",
-    "category": "Computer and USB Peripherals"
+    "category": "Display and Human Interface"
   },
   {
     "idea": "Desktop fingerprint login pad that supports Windows Hello-style enrollment using an FPC1020A sensor with an STM32F411 handling USB and templates.",
@@ -3057,7 +3057,7 @@
   },
   {
     "idea": "Rack-shelf USB fan controller for a 12 V BLDC PC fan (PWM + tach) with automatic curves driven by a PIC16F1455 USB MCU.",
-    "category": "Computer and USB Peripherals"
+    "category": "Power and Energy"
   },
   {
     "idea": "Galvanically isolated USB-to-RS-485 field-bus dongle using an FT232RL and a MAX3485 with terminal-block output for PLC cabinets.",
@@ -3069,7 +3069,7 @@
   },
   {
     "idea": "Triple-pedal USB foot switch for transcription or CAD push-to-talk implemented as a composite HID device with an ATmega32U4.",
-    "category": "Computer and USB Peripherals"
+    "category": "Display and Human Interface"
   },
   {
     "idea": "USB audio VU meter that appears as a USB sound card and drives a 20-segment LED bar using a PCM2902 and an STM32F303.",
@@ -3089,7 +3089,7 @@
   },
   {
     "idea": "USB iButton/1-Wire key reader for maintenance authorization using a DS2480B with a rugged panel-mount probe cup.",
-    "category": "Security and Access Control"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "USB SPI/I2C flash programmer with a SOIC clip and scriptable CLI built around a WCH CH347T for reliable in-circuit reads/writes.",
@@ -3101,7 +3101,7 @@
   },
   {
     "idea": "USB-C debug probe that provides UART plus SWD/JTAG to a target board using an STM32F072 and a TUSB320 for USB-C CC handling.",
-    "category": "Test and Measurement"
+    "category": "Computer and USB Peripherals"
   },
   {
     "idea": "USB NFC badge reader for PC login and time tracking using a PN532 with an ATSAMD21 presenting as a CCID device.",
@@ -3121,7 +3121,7 @@
   },
   {
     "idea": "Clamp-on USB e-ink nameplate for hot-desking that syncs your calendar and shows today's meetings at a glance.",
-    "category": "Home Automation"
+    "category": "Display and Human Interface"
   },
   {
     "idea": "Two-computer USB peripheral sharing switch with a front-panel button and clear status LEDs for one keyboard/mouse set.",
@@ -3129,7 +3129,7 @@
   },
   {
     "idea": "Panel-mount USB extension module with EMI filtering and surge protection for rugged machine enclosures and operator panels.",
-    "category": "Computer and USB Peripherals"
+    "category": "Wired Networking and Industrial Bus"
   },
   {
     "idea": "USB cable continuity and shielding tester with a small screen that flags missing data pairs, swapped pins, and intermittent shorts.",
@@ -3141,7 +3141,7 @@
   },
   {
     "idea": "USB-connected G-code pendant with an MPG wheel, feed-hold, and cycle-start buttons for a CNC router.",
-    "category": "Education and STEM"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "USB desk lamp with tunable white, a capacitive touch dimmer, and a pass-through port for a phone charger.",
@@ -3157,7 +3157,7 @@
   },
   {
     "idea": "USB-powered label rewinder for shipping stations using a brushed DC gearmotor with adjustable tension and direction.",
-    "category": "Motion and Position Control"
+    "category": "Motor Drives and Robotics"
   },
   {
     "idea": "USB-to-serial terminal with a built-in screen and keyboard so technicians can configure network gear without installing drivers.",
@@ -3173,7 +3173,7 @@
   },
   {
     "idea": "USB-connected tally/recording light bar for a camera rig that turns red when streaming software is live.",
-    "category": "Computer and USB Peripherals"
+    "category": "Display and Human Interface"
   },
   {
     "idea": "Under-desk USB-C dock breakout panel with angled connectors and strain relief to keep laptop cables tidy.",
@@ -3193,7 +3193,7 @@
   },
   {
     "idea": "USB photo booth trigger box with big arcade buttons that launches capture software and fires studio lights via a sync jack.",
-    "category": "Computer and USB Peripherals"
+    "category": "Security and Access Control"
   },
   {
     "idea": "USB smart card reader sled that bolts onto a tablet stand for kiosk check-in and includes a tamper switch input.",
@@ -3201,7 +3201,7 @@
   },
   {
     "idea": "Fridge compressor service logger that clamps to the single-phase induction compressor feed and temperature probes to store run cycles, starts, and fault events to a removable microSD card.",
-    "category": "Power and Energy"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "Fleet trailer shock recorder using ADXL372 and a CR2032 to timestamp high-g hits and save them into a W25Q128 flash for warranty and damage claims.",
@@ -3213,7 +3213,7 @@
   },
   {
     "idea": "Brew kettle batch recorder built around ESP32-S3 that logs mash temperature, boil time, and hop additions, then syncs the batch file over Wi-Fi.",
-    "category": "Data Logging and Storage"
+    "category": "Wireless IoT"
   },
   {
     "idea": "Construction site power interruption logger that plugs into an outlet strip and records brownouts and outages with time, duration, and peak sag for electrician reports.",
@@ -3249,11 +3249,11 @@
   },
   {
     "idea": "Forklift impact and tilt event recorder that mounts under the seat and stores incident timestamps and severity bins for safety coaching.",
-    "category": "Data Logging and Storage"
+    "category": "Security and Access Control"
   },
   {
     "idea": "EV charger session logger using STM32F303 with an ADE7953 energy metering IC to store kWh, peak current, and fault codes per charging session.",
-    "category": "Power and Energy"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "Home sump pump cycle logger with a float switch input that records submersible AC pump starts, run duration, and high-water alarms to a local CSV file.",
@@ -3261,23 +3261,23 @@
   },
   {
     "idea": "Machine tool coolant concentration logger using TI MSP430FR2433 that samples a conductivity probe and stores drift and alarm trends in on-chip FRAM.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "HVAC filter-change tracker panel insert that logs ECM blower runtime and user-confirmed replacements, producing a \"due\" history for tenants.",
-    "category": "Smart Appliances and Utilities"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "Ultrasonic cleaner cycle recorder using RP2040 that logs heater temperature, timer settings, and lid-open interruptions for lab traceability.",
-    "category": "Lab Automation"
+    "category": "Data Logging and Storage"
   },
   {
-    "idea": "Museum display case microclimate logger that records temperature, humidity, and door access events with weekly roll-up summaries for conservation staff.",
+    "idea": "Archive cabinet microclimate logger that records temperature, humidity, and door access events with weekly roll-up summaries for conservation staff.",
     "category": "Environmental Monitoring"
   },
   {
     "idea": "Railcar bearing temperature history tag using STM32L072 and a MAX31865 RTD front end to log overheat events and full temperature traces.",
-    "category": "Data Logging and Storage"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "Smart welding cart gas usage logger that counts regulator flow pulses and records arc-on time to estimate cylinder depletion per job.",
@@ -3289,11 +3289,11 @@
   },
   {
     "idea": "Lab centrifuge run recorder that taps the lid interlock and stop signal to log each run's duration, speed setting, and stop reason for QA traceability.",
-    "category": "Lab Automation"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "Water leak incident logger using Nordic nRF5340 that timestamps probe wet/dry transitions and stores them until retrieved over BLE.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "Rental tool check-in/out logger for a jobsite gang box that stores badge scans and door-open times with tamper flags to deter losses.",
@@ -3301,7 +3301,7 @@
   },
   {
     "idea": "Smart mailbox delivery logger using STM32L0 plus a LIS3DH accelerometer to log open/close events and vibration signatures for delivery proof.",
-    "category": "Wireless IoT"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "Beehive inspection recorder with a button and voice-note trigger that timestamps visits and stores temperature and hive weight snapshots per colony.",
@@ -3317,11 +3317,11 @@
   },
   {
     "idea": "Precision balance usage logger using an ATSAME51 that captures weigh events over RS-232 and stores an audit trail with timestamps and checksums.",
-    "category": "Test and Measurement"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "Solar off-grid battery history logger that records charge/discharge currents, SOC estimates, and inverter faults for preventative maintenance.",
-    "category": "Power and Energy"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "Smart lighting panel event historian using TI CC3235 that logs relay state changes, occupancy triggers, and schedule edits to onboard flash for facilities audits.",
@@ -3349,11 +3349,11 @@
   },
   {
     "idea": "Portable pressure-test recorder using ESP32-S2 and an MS5607 sensor to log pressure decay curves and generate a pass/fail file for plumbing or HVAC work.",
-    "category": "Test and Measurement"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "Conference room occupancy and HVAC complaint logger that records motion, CO2, and thermostat adjustments with timestamps for facilities tuning.",
-    "category": "Home Automation"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "Vending machine cashless outage logger using Raspberry Pi RP2350 that logs modem resets, supply voltage dips, and transaction failures to eMMC for service techs.",
@@ -3385,7 +3385,7 @@
   },
   {
     "idea": "Aquarium day planner box that fades LED lighting and spins a brushed DC gearmotor feeder at scheduled times with a manual feed button.",
-    "category": "Lighting and LED Control"
+    "category": "Timing and Scheduling"
   },
   {
     "idea": "Public restroom exhaust fan run-on timer that respects quiet hours and enforces minimum ventilation time after the light turns off.",
@@ -3393,11 +3393,11 @@
   },
   {
     "idea": "Coin-op laundry dryer retrofit that adds an anti-wrinkle tumble interval schedule and a clear countdown display for remaining time.",
-    "category": "Smart Appliances and Utilities"
+    "category": "Timing and Scheduling"
   },
   {
     "idea": "Food truck fryer basket lift assistant that beeps and vibrates at multiple doneness presets and logs batch timestamps for consistency.",
-    "category": "Motion and Position Control"
+    "category": "Audio and Music"
   },
   {
     "idea": "Greenhouse misting interval appliance that drives a peristaltic pump in short bursts with adjustable on/off duty and a daily blackout window.",
@@ -3405,7 +3405,7 @@
   },
   {
     "idea": "CNC router warm-up/cool-down sequencer that delays dust collection start and forces a timed post-run purge before allowing shutdown.",
-    "category": "Timing and Scheduling"
+    "category": "Lab Automation"
   },
   {
     "idea": "Fleet vehicle idle limiter box that starts a countdown when the engine is running and drops an accessory relay after the allowed time.",
@@ -3421,15 +3421,15 @@
   },
   {
     "idea": "Music practice room booking door sign that shows the current reservation block and releases an electric strike only during booked time.",
-    "category": "Health and Wellness"
+    "category": "Home Automation"
   },
   {
     "idea": "Home sauna session timer that enforces maximum run time, schedules a cooldown fan period, and supports child-lock mode.",
-    "category": "Health and Wellness"
+    "category": "Home Automation"
   },
   {
     "idea": "Photobooth session sequencer that times the countdown, flash trigger, and printer start while preventing retrigger for a set interval.",
-    "category": "Display and Human Interface"
+    "category": "Timing and Scheduling"
   },
   {
     "idea": "Museum exhibit lighting scheduler that limits daily exposure time per case and enforces dark days for conservation rotation.",
@@ -3445,11 +3445,11 @@
   },
   {
     "idea": "Precision interval chime for classrooms using an STM32G0 and MAX98357A to play stored tones on a daily bell schedule.",
-    "category": "Timing and Scheduling"
+    "category": "Education and STEM"
   },
   {
     "idea": "DIN-rail pump alternator scheduler built around an ATmega4809 and MCP7940N to rotate lead/lag well pumps weekly and after faults.",
-    "category": "Timing and Scheduling"
+    "category": "Motor Drives and Robotics"
   },
   {
     "idea": "Solar-powered roadwork traffic light sequencer using an RP2040 and TLC5947 to run programmable red/amber/green phase plans for portable signals.",
@@ -3477,7 +3477,7 @@
   },
   {
     "idea": "Industrial paint booth bake/flash cycle timer using an MSP430FR2355 and ISO7721 isolation to switch contactors on a safe timed recipe.",
-    "category": "Timing and Scheduling"
+    "category": "Lab Automation"
   },
   {
     "idea": "Elevator inspection reminder plaque using a SAMD21 and IL0373 e-paper driver to show next inspection date and overdue status without backlight.",
@@ -3485,11 +3485,11 @@
   },
   {
     "idea": "Refrigerated display case defrost scheduler using an ESP32-C3 and W25Q64 flash to run timed defrost windows and store event logs.",
-    "category": "Lighting and LED Control"
+    "category": "Smart Appliances and Utilities"
   },
   {
     "idea": "Multi-zone holiday light show scheduler using an STM32F103 to trigger WS2815 LED playlists by calendar date and local sunset offsets.",
-    "category": "Lighting and LED Control"
+    "category": "Timing and Scheduling"
   },
   {
     "idea": "Classroom clock correction driver using an ATSAMD51 and DRV8825 to run a stepper-based minute-hand advance mechanism on a nightly schedule.",
@@ -3553,7 +3553,7 @@
   },
   {
     "idea": "Magnetic field mapping wand that students sweep over objects to visualize field strength on a bar-graph LED strip.",
-    "category": "Sensors and Data Acquisition"
+    "category": "Education and STEM"
   },
   {
     "idea": "Vibration and resonance demonstrator with an ADXL345 accelerometer and RP2040 sampling to a USB oscilloscope view.",
@@ -3573,11 +3573,11 @@
   },
   {
     "idea": "DIY seismic table model using an LSM6DS3 IMU and nRF52840 to transmit shake data to phones for analysis.",
-    "category": "Education and STEM"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "Leak-detection training pipe section with replaceable drip nozzles and a buzzer/light alarm for maintenance practice.",
-    "category": "Lab Automation"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "Digital pH titration stirrer using a NEMA 17 stepper driven by TMC2209 and an ADS1115 to read an analog pH probe.",
@@ -3593,7 +3593,7 @@
   },
   {
     "idea": "Force and friction sled with a load cell and a detachable display to compare materials on a lab bench.",
-    "category": "Test and Measurement"
+    "category": "Education and STEM"
   },
   {
     "idea": "Waveform generator dongle using an AD9833 DDS and MCP4921 DAC output stage for labs up to audio frequencies.",
@@ -3605,7 +3605,7 @@
   },
   {
     "idea": "Robotics gripper trainer using a PCA9685 servo driver and ESP32 to script multi-servo motion sequences from a browser.",
-    "category": "Motion and Position Control"
+    "category": "Motor Drives and Robotics"
   },
   {
     "idea": "Classroom water-cycle mini terrarium with a heated \"sun\" lamp, humidity readout, and timed misting via a peristaltic pump.",
@@ -3613,7 +3613,7 @@
   },
   {
     "idea": "Temperature profiling plate using MAX31855 thermocouple interface and RP2040 to log soldering iron tip vs time experiments.",
-    "category": "Data Logging and Storage"
+    "category": "Test and Measurement"
   },
   {
     "idea": "Arduino-free logic-gates breadboard console with switches, LEDs, and plug-in gate cards for Boolean algebra lessons.",
@@ -3633,7 +3633,7 @@
   },
   {
     "idea": "Classroom wind tunnel fan stand with a BLDC blower, interchangeable nozzles, and a pitot-tube port for airflow labs.",
-    "category": "Education and STEM"
+    "category": "Test and Measurement"
   },
   {
     "idea": "Bench-top motor control trainer using DRV8313 to drive a small BLDC outrunner and visualize commutation on LEDs.",
@@ -3649,7 +3649,7 @@
   },
   {
     "idea": "Chemistry lab timer and fume-hood sash reminder panel that alarms if the sash is left open too long.",
-    "category": "Education and STEM"
+    "category": "Timing and Scheduling"
   },
   {
     "idea": "Classroom lighting and PWM lab kit using TLC5940 constant-current driver to explore dimming curves with LED strips.",
@@ -3689,11 +3689,11 @@
   },
   {
     "idea": "Barn fan staging panel that sequences multiple 3-phase AC ventilation fans with contactors from temperature and humidity inputs to reduce inrush and dust loading.",
-    "category": "Lab Automation"
+    "category": "Motor Drives and Robotics"
   },
   {
     "idea": "Livestock water trough alarm buoy with STM32L432 and LIS2DH12 accelerometer to detect low-water slosh patterns and send a remote alert before animals run dry.",
-    "category": "Environmental Monitoring"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "Orchard frost-warning beacon pole-top unit that flashes a high-power strobe and sounds a siren when wet-bulb temperature trends toward freeze conditions.",
@@ -3705,11 +3705,11 @@
   },
   {
     "idea": "Irrigation valve box leak listener that straps to PVC and uses acoustic signatures to flag stuck-open valves and underground line leaks.",
-    "category": "Environmental Monitoring"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "Pivot irrigator tower alignment indicator using nRF52840 to mesh tilt sensors across spans and warn when a tower is drifting or stuck.",
-    "category": "Agriculture and Outdoor Systems"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "Pasture gate auto-closer that runs a brushed DC gearmotor with soft-start/torque limit to pull gates shut after ATV or tractor passage.",
@@ -3729,7 +3729,7 @@
   },
   {
     "idea": "Solar-powered wildlife deterrent sprinkler that triggers a solenoid valve and piezo siren from PIR motion near beds, vines, or sweetcorn rows.",
-    "category": "Agriculture and Outdoor Systems"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "Remote pump-house power monitor using ADE7953 energy metering IC to detect failing bearings and cavitation from current/voltage signatures.",
@@ -3745,7 +3745,7 @@
   },
   {
     "idea": "Bolt-on rain gauge and leaf-wetness logger with swappable sensor cartridges for growers who want disease-risk history without replacing a whole station.",
-    "category": "Data Logging and Storage"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "LoRa pasture water level mast with Semtech SX1276 and a 4-20 mA interface for industrial pressure transducers in tanks and troughs.",
@@ -3769,11 +3769,11 @@
   },
   {
     "idea": "Orchard pheromone trap lid with a BLDC blower that maintains consistent airflow and timestamps trap checks to reduce false comparisons between blocks.",
-    "category": "Agriculture and Outdoor Systems"
+    "category": "Motor Drives and Robotics"
   },
   {
     "idea": "Greenhouse CO2 dosing valve driver using Sensirion SCD41 and an ESP32-C6 to modulate a proportional solenoid with safety limits and alarm relays.",
-    "category": "Agriculture and Outdoor Systems"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "Portable electric netting tester pen that gives proportional beep/LED feedback to fence voltage with a capacitive pickup (no ground lead).",
@@ -3789,7 +3789,7 @@
   },
   {
     "idea": "Smart rodent bait station door using NXP PCA9536 and a TMC2209 driving a NEMA 17 stepper to open only in scheduled windows while logging visits.",
-    "category": "Security and Access Control"
+    "category": "Motor Drives and Robotics"
   },
   {
     "idea": "Compost pile probe with a rugged stainless lance measuring temperature, moisture, and oxygen trends to recommend turning and watering intervals.",
@@ -3809,11 +3809,11 @@
   },
   {
     "idea": "Windbreak curtain winch for poultry houses using a geared brushed DC motor plus limit switches to roll curtains with storm and power-fail behavior.",
-    "category": "Agriculture and Outdoor Systems"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "Solar-powered pond aerator timer using Microchip PIC16F18446 to switch a contactor, enforce quiet-hours, and protect against rapid cycling.",
-    "category": "Agriculture and Outdoor Systems"
+    "category": "Environmental Monitoring"
   },
   {
     "idea": "Handheld ultrasonic pipe thickness checker for irrigation mains with a rugged keypad and quick-couple transducer for fast field checks.",
@@ -3833,7 +3833,7 @@
   },
   {
     "idea": "River pump intake debris alarm that senses differential pressure across the screen and drives a beacon light plus remote contact closure when clogging starts.",
-    "category": "Environmental Monitoring"
+    "category": "Sensors and Data Acquisition"
   },
   {
     "idea": "Outdoor Ethernet-to-LoRa gateway in a NEMA enclosure using Raspberry Pi Compute Module 4 and a Semtech SX1302 concentrator for farm-wide telemetry backhaul.",
@@ -3841,19 +3841,19 @@
   },
   {
     "idea": "Rice cooker front-panel PCB using an ESP32-S3 to run recipes, drive the heater relay, read an NTC plus lid switch, and push cooking status to a phone.",
-    "category": "Home Automation"
+    "category": "Smart Appliances and Utilities"
   },
   {
     "idea": "Water dispenser retrofit that switches a single-phase AC compressor via relay, times the UV sterilizer, and shuts off water on leak detection with a drip-tray sensor.",
-    "category": "Home Automation"
+    "category": "Smart Appliances and Utilities"
   },
   {
     "idea": "Range hood capacitive-touch keypad built around an STM32G0 that sets a triac dimmer for the lamp and multi-speed control for a shaded-pole AC fan motor.",
-    "category": "Home Automation"
+    "category": "Display and Human Interface"
   },
   {
     "idea": "Toaster oven reflow conversion front end with a thermocouple input, rotary encoder, OLED display, and SSR output so a kitchen oven can follow lead-free reflow profiles.",
-    "category": "Test and Measurement"
+    "category": "Smart Appliances and Utilities"
   },
   {
     "idea": "Ice maker bin-level module using an NXP i.MX RT1062 to fuse a ToF distance sensor with temperature data and stop the auger brushed DC gearmotor before jams.",
@@ -3881,11 +3881,11 @@
   },
   {
     "idea": "Refrigerator defrost optimizer using a Nordic nRF52840 to read multiple temperature probes, control the defrost heater, and PWM a small BLDC evaporator fan for efficiency.",
-    "category": "Home Automation"
+    "category": "Smart Appliances and Utilities"
   },
   {
     "idea": "Gas water-heater safety add-on that monitors flue draft and ambient CO/temperature and drops out the burner enable relay on unsafe conditions.",
-    "category": "Home Automation"
+    "category": "Test and Measurement"
   },
   {
     "idea": "Smart multi-outlet utility power bar using a Renesas RA4M1 for per-outlet energy metering, inrush-managed latching relays, and a local overload trip display.",
@@ -3905,7 +3905,7 @@
   },
   {
     "idea": "DIN-rail kWh logger using an Analog Devices ADE9153A for revenue-grade energy measurement, neutral-loss detection, and tamper/event recording.",
-    "category": "Test and Measurement"
+    "category": "Data Logging and Storage"
   },
   {
     "idea": "Elevator machine-room humidity controller that calculates dew point and runs a 120mm DC axial fan plus a condensation heater to prevent cabinet corrosion.",
@@ -3913,7 +3913,7 @@
   },
   {
     "idea": "Sous-vide water-bath controller insert using a Maxim MAX31865 for PT100 sensing and a solid-state relay output to hold temperature within +/-0.1 degrees C.",
-    "category": "Lab Automation"
+    "category": "Test and Measurement"
   },
   {
     "idea": "Pantry dehumidifier upgrade that cycles a Peltier module and a mini diaphragm condensate pump based on humidity trends and tank-full detection.",
@@ -3921,7 +3921,7 @@
   },
   {
     "idea": "Apartment intercom-to-mobile bridge using a Silicon Labs EFR32MG24 (Thread) to detect the buzzer line, stream audio, and push notifications to residents.",
-    "category": "Security and Access Control"
+    "category": "Wireless IoT"
   },
   {
     "idea": "Range hood grease-filter life indicator that estimates clogging from differential pressure across the filter and shows a \"wash now\" LED reminder.",
@@ -3941,7 +3941,7 @@
   },
   {
     "idea": "Electric kettle smart base that learns boil-off rate to estimate remaining water, auto-cuts on dry-boil, and prompts descaling based on limescale indicators.",
-    "category": "Home Automation"
+    "category": "Smart Appliances and Utilities"
   },
   {
     "idea": "Steam iron temperature calibration pad using a Microchip MCP9600 thermocouple interface to close the loop on the iron's heater for consistent soleplate temperature.",
@@ -3953,15 +3953,15 @@
   },
   {
     "idea": "Pool pump timer using an Infineon XMC1404 to drive a contactor for a single-phase AC induction pump while monitoring undervoltage and run-dry conditions.",
-    "category": "Home Automation"
+    "category": "Power and Energy"
   },
   {
     "idea": "Motorized window blind wand that uses a brushed DC gearmotor with clutch sensing to tilt and raise blinds while maintaining pull-cord safety.",
-    "category": "Home Automation"
+    "category": "Motion and Position Control"
   },
   {
     "idea": "Trash compactor front panel using a Raspberry Pi RP2040 to read a load cell, drive a linear actuator cycle, and lock out operation when the bin is full.",
-    "category": "Data Logging and Storage"
+    "category": "Test and Measurement"
   },
   {
     "idea": "Commercial ice machine sanitizer scheduler that interlocks the compressor and circulates cleaning solution using a small centrifugal pump with a timed rinse cycle.",
@@ -3989,11 +3989,11 @@
   },
   {
     "idea": "Vending-machine coin chute anti-condensation heater that PWM-drives a silicone heater strip and logs temperature to prevent coin jams in humid climates.",
-    "category": "Smart Appliances and Utilities"
+    "category": "Home Automation"
   },
   {
     "idea": "Ultrasonic humidifier upgrade using a Monolithic Power Systems MP6515 to drive a 24V BLDC mist fan, supervise water level, and shut down on tip-over.",
-    "category": "Home Automation"
+    "category": "Motor Drives and Robotics"
   },
   {
     "idea": "Apartment water shutoff valve kit that clamps to an existing ball valve using a high-torque brushed DC gearmotor and closes automatically when a leak sensor trips.",

@@ -30,7 +30,7 @@ An electric scooter battery-bay latch that refuses to open unless the scooter is
 A warehouse roll-up door watcher that alerts if the door is left open past a set time during off-hours and logs the duration for audits.
 A hotel minibar tamper kit that logs door openings and can flag suspicious access patterns for housekeeping without recording audio.
 A medical narcotics cabinet drawer lock that requires two distinct badges within 30 seconds to satisfy dual-custody policy.
-A museum display case lock insert that supports timed "public hours" unlock, auto-relocks at close, and logs each curator access.
+A gallery display case lock insert that supports timed "public hours" unlock, auto-relocks at close, and logs each curator access.
 A server-room mantrap coordinator that enforces only one door open at a time and sounds an alarm if both doors are forced.
 A parking-lot pedestrian gate latch that supports emergency fire-release hardware while still logging every normal access event.
 A vending machine service-door detector that captures a photo on each open and stores it to removable storage for route managers.

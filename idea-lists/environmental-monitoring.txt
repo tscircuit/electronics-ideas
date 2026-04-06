@@ -1,7 +1,7 @@
 Mushroom grow-tent climate panel uses an ESP32-S3 with a Sensirion SCD41 and SHT31 to log CO2/humidity/temperature and drive a simple "vent now" indicator for growers.
 Walk-in cooler humidity sentinel built around an STM32G0 and an SX1262 LoRa transceiver watches a Sensirion SHT85 and alarms when condensation risk spikes during door cycles.
 School classroom CO2 beacon uses an nRF52840 plus a Sensirion SCD41 to show a big traffic-light status and upload daily ventilation scorecards.
-Museum display-case air quality logger built on an RP2040 with a Bosch BME688 stores months of temperature/humidity/VOC trends and snapshots events when the case is opened.
+Archive specimen cabinet air quality logger built on an RP2040 with a Bosch BME688 stores months of temperature/humidity/VOC trends and snapshots events when the cabinet is opened.
 Attic mold warning puck uses a TI CC1352P radio MCU with a Sensirion SHTC3 to detect prolonged high RH at low temperatures and alert before mold takes hold.
 Industrial boiler-room combustion leak badge uses an STM32H7 with a TI LMP91000 electrochemical AFE to trend CO/NO2 exposure and flag unsafe peaks to maintenance.
 Handheld soil salinity and temperature probe uses an ATmega4809 with an AD5940 impedance converter to estimate EC and guide irrigation decisions in the field.
@@ -21,7 +21,7 @@ Cleanroom particle sampler uses an NXP i.MX RT1062 with a TMC6300 BLDC driver to
 Ceiling-mount classroom "fresh air" beacon changes color based on CO2/VOC trends and logs daily ventilation performance for facilities staff.
 Clip-on walk-in cooler door-frame badge records humidity spikes during restocking and warns when condensation and icing risk is high.
 Attic rafter moisture-and-temperature strip warns of persistent mold conditions and stores seasonal trends for the homeowner.
-Museum display-case insert logs temperature, humidity, and light exposure with tamper detection so conservators can prove handling conditions.
+Glass artifact case insert logs temperature, humidity, and light exposure with tamper detection so conservators can prove handling conditions.
 Under-sink leak and mold early-warning puck measures humidity near plumbing and sends an alert before cabinets and drywall get wet.
 Compost pile lance probe tracks core temperature and oxygen to tell exactly when the pile needs turning for proper decomposition.
 Wildfire-smoke window decal measures indoor particulate and recommends when to seal windows, ventilate, or run a purifier.

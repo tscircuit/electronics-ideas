@@ -49,7 +49,7 @@ const anchorExamples: Record<string, string[]> = {
     "walk-in cooler humidity sentinel",
     "attic mold warning node",
     "school classroom CO2 beacon",
-    "museum display-case air quality logger",
+    "archive specimen cabinet air quality logger",
   ],
   "Motion and Position Control": [
     "camera slider axis controller",
@@ -230,6 +230,8 @@ const bannedPhrases = [
   "development board",
   "carrier board",
   "breakout board",
+  "museum display-case",
+  "museum display case",
 ];
 
 const validateIdeas = (category: string, ideas: string[], globalIdeas: Set<string>) => {

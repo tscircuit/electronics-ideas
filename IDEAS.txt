@@ -121,7 +121,7 @@ Portable dew-point sampler for compressed-air lines that logs humidity, temperat
 Mushroom grow-tent climate panel uses an ESP32-S3 with a Sensirion SCD41 and SHT31 to log CO2/humidity/temperature and drive a simple "vent now" indicator for growers.
 Walk-in cooler humidity sentinel built around an STM32G0 and an SX1262 LoRa transceiver watches a Sensirion SHT85 and alarms when condensation risk spikes during door cycles.
 School classroom CO2 beacon uses an nRF52840 plus a Sensirion SCD41 to show a big traffic-light status and upload daily ventilation scorecards.
-Museum display-case air quality logger built on an RP2040 with a Bosch BME688 stores months of temperature/humidity/VOC trends and snapshots events when the case is opened.
+Archive specimen cabinet air quality logger built on an RP2040 with a Bosch BME688 stores months of temperature/humidity/VOC trends and snapshots events when the cabinet is opened.
 Attic mold warning puck uses a TI CC1352P radio MCU with a Sensirion SHTC3 to detect prolonged high RH at low temperatures and alert before mold takes hold.
 Industrial boiler-room combustion leak badge uses an STM32H7 with a TI LMP91000 electrochemical AFE to trend CO/NO2 exposure and flag unsafe peaks to maintenance.
 Handheld soil salinity and temperature probe uses an ATmega4809 with an AD5940 impedance converter to estimate EC and guide irrigation decisions in the field.
@@ -141,7 +141,7 @@ Cleanroom particle sampler uses an NXP i.MX RT1062 with a TMC6300 BLDC driver to
 Ceiling-mount classroom "fresh air" beacon changes color based on CO2/VOC trends and logs daily ventilation performance for facilities staff.
 Clip-on walk-in cooler door-frame badge records humidity spikes during restocking and warns when condensation and icing risk is high.
 Attic rafter moisture-and-temperature strip warns of persistent mold conditions and stores seasonal trends for the homeowner.
-Museum display-case insert logs temperature, humidity, and light exposure with tamper detection so conservators can prove handling conditions.
+Glass artifact case insert logs temperature, humidity, and light exposure with tamper detection so conservators can prove handling conditions.
 Under-sink leak and mold early-warning puck measures humidity near plumbing and sends an alert before cabinets and drywall get wet.
 Compost pile lance probe tracks core temperature and oxygen to tell exactly when the pile needs turning for proper decomposition.
 Wildfire-smoke window decal measures indoor particulate and recommends when to seal windows, ventilate, or run a purifier.
@@ -388,7 +388,7 @@ A hospital sharps-container lid that senses fill level and sends a pickup reques
 A grain silo cap that measures headspace temperature, humidity, and CO2 and reports spoilage risk to a farm gateway.
 A steam-trap leak listener that identifies failed traps by ultrasonic signature and reports energy-waste alarms across a sub-GHz mesh.
 A forklift seatbelt compliance beacon that detects latch state and pushes exceptions to fleet management when trucks move unbelted.
-A museum display-case security tag that detects tilt, vibration, and opening events and alerts staff if an exhibit is disturbed.
+A gallery exhibit security tag that detects tilt, vibration, and opening events and alerts staff if an exhibit is disturbed.
 An RV holding-tank level sender that uses ultrasonic ranging to show fresh/gray/black levels on a phone even when boondocking.
 A manual irrigation canal gate position reporter that clips onto the handwheel to log openings and notify downstream users of changes.
 A greenhouse roof-vent opener that drives a 12V linear actuator and reports vent position, inside temperature, and fault jams to the grower.
@@ -470,7 +470,7 @@ An electric scooter battery-bay latch that refuses to open unless the scooter is
 A warehouse roll-up door watcher that alerts if the door is left open past a set time during off-hours and logs the duration for audits.
 A hotel minibar tamper kit that logs door openings and can flag suspicious access patterns for housekeeping without recording audio.
 A medical narcotics cabinet drawer lock that requires two distinct badges within 30 seconds to satisfy dual-custody policy.
-A museum display case lock insert that supports timed "public hours" unlock, auto-relocks at close, and logs each curator access.
+A gallery display case lock insert that supports timed "public hours" unlock, auto-relocks at close, and logs each curator access.
 A server-room mantrap coordinator that enforces only one door open at a time and sounds an alarm if both doors are forced.
 A parking-lot pedestrian gate latch that supports emergency fire-release hardware while still logging every normal access event.
 A vending machine service-door detector that captures a photo on each open and stores it to removable storage for route managers.
@@ -816,7 +816,7 @@ Home sump pump cycle logger with a float switch input that records submersible A
 Machine tool coolant concentration logger using TI MSP430FR2433 that samples a conductivity probe and stores drift and alarm trends in on-chip FRAM.
 HVAC filter-change tracker panel insert that logs ECM blower runtime and user-confirmed replacements, producing a "due" history for tenants.
 Ultrasonic cleaner cycle recorder using RP2040 that logs heater temperature, timer settings, and lid-open interruptions for lab traceability.
-Museum display case microclimate logger that records temperature, humidity, and door access events with weekly roll-up summaries for conservation staff.
+Archive cabinet microclimate logger that records temperature, humidity, and door access events with weekly roll-up summaries for conservation staff.
 Railcar bearing temperature history tag using STM32L072 and a MAX31865 RTD front end to log overheat events and full temperature traces.
 Smart welding cart gas usage logger that counts regulator flow pulses and records arc-on time to estimate cylinder depletion per job.
 Industrial air compressor duty-cycle logger using ESP32-C3 and an INA219 to record single-phase induction motor current draw, run time, and cut-in/cut-out pressures.
